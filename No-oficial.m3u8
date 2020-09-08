@@ -4,4 +4,5 @@ http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/CANALONCETV/picture?width=200&height=200" group-title="",Canal Once Internacional
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/JusticiaTvMx/picture?width=200&height=200" group-title="",Justicia TV
-http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
+EXTINF:-1 group-title="MEXICO",Justicia TV (Opt-2)
+https://live.scjn.gob.mx/EVLiveSCJN/_definst_/mp4:YXWKLCDT/chunklist_w1760841144.m3u8
