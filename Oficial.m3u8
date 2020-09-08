@@ -19,7 +19,7 @@ https://5e50264bd6766.streamlock.net/canal22/smil:canal22.smil/chunklist_w197838
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_08/large.Canal_22.2.png.61f33a56b3d8dfa6049fb491ac737245.png" group-title="",Canal 22.2
 https://5e50264bd6766.streamlock.net/canal222/smil:canal222.smil/chunklist_w786836973_b978000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https:https://tv.unam.mx/wp-content/uploads/2017/05/L-HOME-dark-300x65.png" group-title="",tv unam
-https://playback2.akamaized.net/streams/27177136_8970901_lsi2y62rl4u802ocp31_1/exp=1599659349~acl=%2f*~data=hdntl~hmac=2c66ef109ff435ee9c1f4a1c0e3d58584d236648bf87a2fe08821d036f2d0877/media/27177136_8970901_lsi2y62rl4u802ocp31_1@2128000p.m3u8
+https://playback2.akamaized.net/streams/27177136_8970901_lsi2y62rl4u802ocp31_1/exp=1599661166~acl=%2f*~data=hdntl~hmac=9e9037edc9b8cf34c05f34e8a6bef2f86ad09c720f7574af01963dc5e83ae445/media/27177136_8970901_lsi2y62rl4u802ocp31_1@2128000p.m3u8?dw=80&ts=1599573600
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://pbs.twimg.com/profile_images/1283205753625391106/5TpLzHhV.jpg" group-title="",Mexiquense TV
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/chunklist_w1045015137.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://www.canaldelcongreso.gob.mx/Resources/Medias/Generales/fokrjupq.png" group-title="",Canal del Congreso 45.1
