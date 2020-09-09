@@ -1,29 +1,29 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_01/large.5a568c375c7b9_Canal14.png.1b2c7e291c054259735196db130e8931.png" group-title="", Canal 14
 https://d3nljkrx6mjqra.cloudfront.net/out/v1/2a01d801265741e581c396e8ad4fa405/index_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="http://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png" group-title="", TVmas
-https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w2116443559.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="http://www.capital21.cdmx.gob.mx/assets/img/logoc21-nav.png" group-title="",Canal 21
 https://video.cdmx.gob.mx/livestream/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="",Foro TV 
-https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/index_524_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="http://manualdeimagen.canal22.org.mx/img/original.png" group-title="",Canal 22.1
 https://5e50264bd6766.streamlock.net/canal22/smil:canal22.smil/chunklist_w1978382888_b978000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_08/large.Canal_22.2.png.61f33a56b3d8dfa6049fb491ac737245.png" group-title="",Canal 22.2
 https://5e50264bd6766.streamlock.net/canal222/smil:canal222.smil/chunklist_w786836973_b978000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="",Foro TV 
+https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/index_524_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://cdn.noticiasenlamira.com/2020/02/Disen%CC%83o-sin-ti%CC%81tulo-2.jpg" group-title="",Heraldo TV
+https://stream-01.nyc.dailymotion.com/sec(flYDIS2TJc06LP-7DFS-yUT85a0GXVsX5Sp-GjveWvg)/dm/3/x792196/d/live-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://pbs.twimg.com/profile_images/1283205753625391106/5TpLzHhV.jpg" group-title="",Mexiquense TV
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/chunklist_w1045015137.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://storage.googleapis.com/noticiasweb/images/2019/01/noticiasMvs1024.png" group-title="",MVS Noticias
 https://stream-02.nyc.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOL-iV_WwUymSSyNbMZIIvQgFq_H6tJygxTzi8uxmoPQD)/p/dm/3/x6t7n6t/s/live-0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://cdn.noticiasenlamira.com/2020/02/Disen%CC%83o-sin-ti%CC%81tulo-2.jpg" group-title="",Heraldo TV
-https://stream-01.nyc.dailymotion.com/sec(flYDIS2TJc06LP-7DFS-yUT85a0GXVsX5Sp-GjveWvg)/dm/3/x792196/d/live-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="http://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png" group-title="", TVmas
+https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w2116443559.m3u8
 #Canales Archivados
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/JusticiaTvMx/picture?width=200&height=200" group-title="",Justicia TV
 https://live.scjn.gob.mx/EVLiveSCJN/_definst_/mp4:YXWKLCDT/chunklist_w1919847559.m3u8
 #Canales con errores
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Azteca_7_2019-2.png" group-title="",Azteca 7
 https://dai.google.com/linear/hls/pa/event/YHoOj51dSKCvBQOBG2OvLQ/stream/57c9979f-5e35-4382-913d-fd59dacf336b:TUL2/variant/4bd7eea89dd8ee18aa04d1ec2a40069e/bandwidth/779900.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_01/large.aztecaunovertical.png.591c1b430422e1412e58be389e838412.png" group-title="", TV Azteca
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_01/large.aztecaunovertical.png.591c1b430422e1412e58be389e838412.png" group-title="",Azteca uno
 https://dai.google.com/linear/hls/pa/event/ZyR7aLo4Rom-9KzwcLCoNg/stream/8251b07e-a725-4e7a-abb9-e51a2671ecb5:TUL2/variant/78da20f8f1c42899d160562baa97c79a/bandwidth/789800.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/x8lwsjM.png" group-title="",adn40
 https://dai.google.com/linear/hls/pa/event/XZLLJIhJRNqz33DGp6NdkA/stream/92b9e6d7-85f2-4caf-9e9f-a544853fdb85:TUL2/variant/347dd514e4c301d219227132972fd749/bandwidth/673200.m3u8
