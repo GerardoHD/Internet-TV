@@ -22,6 +22,8 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w2116443559.m3u8
 https://live.scjn.gob.mx/EVLiveSCJN/_definst_/mp4:YXWKLCDT/chunklist_w1919847559.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/VuvGm3s.png" group-title="",13 Max TV
 http://coninfo.net:1935/13maxhd/live_720p/chunklist_w143946310.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/giqLRn8.png" group-title="",Canal 22.1 alt
+https://5e50264bd6766.streamlock.net/canal22/smil:canal22.smil/chunklist_w1693325604_b978000_sleng.m3u8
 #Canales con errores
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Azteca_7_2019-2.png" group-title="",Azteca 7
 https://dai.google.com/linear/hls/pa/event/YHoOj51dSKCvBQOBG2OvLQ/stream/57c9979f-5e35-4382-913d-fd59dacf336b:TUL2/variant/4bd7eea89dd8ee18aa04d1ec2a40069e/bandwidth/779900.m3u8
