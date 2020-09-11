@@ -23,7 +23,7 @@ https://live.scjn.gob.mx/EVLiveSCJN/_definst_/mp4:YXWKLCDT/chunklist_w1919847559
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/VuvGm3s.png" group-title="",13 Max TV
 http://coninfo.net:1935/13maxhd/live_720p/chunklist_w143946310.m3u8
 #Canales con errores
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://imgur.com/VXZf3LH" group-title="",Azteca 7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Azteca_7_2019-2.png" group-title="",Azteca 7
 https://dai.google.com/linear/hls/pa/event/YHoOj51dSKCvBQOBG2OvLQ/stream/57c9979f-5e35-4382-913d-fd59dacf336b:TUL2/variant/4bd7eea89dd8ee18aa04d1ec2a40069e/bandwidth/779900.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_01/large.aztecaunovertical.png.591c1b430422e1412e58be389e838412.png" group-title="",Azteca uno
 https://dai.google.com/linear/hls/pa/event/ZyR7aLo4Rom-9KzwcLCoNg/stream/8251b07e-a725-4e7a-abb9-e51a2671ecb5:TUL2/variant/78da20f8f1c42899d160562baa97c79a/bandwidth/789800.m3u8
