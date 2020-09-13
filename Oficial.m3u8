@@ -18,4 +18,6 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w2116443559.m3u8
 #Canales Archivados
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/JusticiaTvMx/picture?width=200&height=200" group-title="",Justicia TV
 https://live.scjn.gob.mx/EVLiveSCJN/_definst_/mp4:YXWKLCDT/chunklist_w1919847559.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/giqLRn8.png" group-title="",Canal 22.1 alt
+https://5e50264bd6766.streamlock.net/canal22/smil:canal22.smil/chunklist.m3u8
 #Canales con errores
