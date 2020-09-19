@@ -40,3 +40,9 @@ https://api.new.livestream.com/accounts/16550960/events/8600941/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Sbv9mq5.png" group-title="TRAVEL",Microvision 10
 http://190.103.183.24:1935/live/MicroHD/playlist.m3u8
 ###########Canales nuevos
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://www.facebook.com/ViBETVMX/picture?width=200&height=200" group-title="News",VIBEtv
+https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZftpAfKBdWYplXaAYTTMtFg)/dm/3/x7v6kdc/s/live-2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://www.facebook.com/GINTVMX/picture?width=200&height=200" group-title="News",GINtv
+https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZftpAfKBdWYplXaAYTTMtFg)/dm/3/x7v6kdc/s/live-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://www.facebook.com/MexicoTravelChannelTV/picture?width=200&height=200" group-title="TRAVEL",Mexico Travel Chanel
+https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZSNIMTlrZtivt57hp59j_cE)/dm/3/x7v76vf/s/live-1.m3u8
