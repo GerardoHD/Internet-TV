@@ -18,32 +18,32 @@ http://190.103.183.24:1935/live/MicroHD/chunklist_w598827662.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="000" tvg-language="spa" tvg-logo="https://graph.facebook.com/TVMAS/picture?width=200&height=200" group-title="EDUCATION" tvg-tags="Oficial", TVMÁS
 https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w2116443559.m3u8
 ###########Canales no-oficiales
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="000" tvg-language="spa" tvg-logo="https://graph.facebook.com/5RTvSF/picture?width=200&height=200" group-title="LIFE_STYLE",5RTV Santa Fe
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="000" tvg-language="spa" tvg-logo="https://graph.facebook.com/5RTvSF/picture?width=200&height=200" group-title="LIFE_STYLE" tvg-tags="No_oficial",5RTV Santa Fe
 https://api.new.livestream.com/accounts/5RTvSF/events/8242619/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="000" tvg-language="spa" tvg-logo="https://graph.facebook.com/CANALONCETV/picture?width=200&height=200" group-title="EDUCATION",Canal Once Nacional
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="000" tvg-language="spa" tvg-logo="https://graph.facebook.com/CANALONCETV/picture?width=200&height=200" group-title="EDUCATION" tvg-tags="No_oficial",Canal Once Nacional
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="000" tvg-language="spa" tvg-logo="https://graph.facebook.com/cpetvcanal2/picture?width=200&height=200" group-title="ENTERTAINMENT",CPEtv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="000" tvg-language="spa" tvg-logo="https://graph.facebook.com/cpetvcanal2/picture?width=200&height=200" group-title="ENTERTAINMENT" tvg-tags="No_oficial",CPEtv
 https://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="000" tvg-language="spa" tvg-logo="https://graph.facebook.com/mileniotelevision/picture?width=200&height=200" group-title="NEWS",Milenio TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="000" tvg-language="spa" tvg-logo="https://graph.facebook.com/mileniotelevision/picture?width=200&height=200" group-title="NEWS" tvg-tags="No_oficial",Milenio TV
 http://bcoveliveios-i.akamaihd.net:80/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="000" tvg-language="spa" tvg-logo="https://graph.facebook.com/mtvla/picture?width=200&height=200" group-title="ENTERTAINMENT",MTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="000" tvg-language="spa" tvg-logo="https://graph.facebook.com/mtvla/picture?width=200&height=200" group-title="ENTERTAINMENT" tvg-tags="No_oficial",MTV
 http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="000" tvg-language="spa" tvg-logo="https://graph.facebook.com/TeleFormula/picture?width=200&height=200" group-title="NEWS",TeleFormula
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="000" tvg-language="spa" tvg-logo="https://graph.facebook.com/TeleFormula/picture?width=200&height=200" group-title="NEWS" tvg-tags="No_oficial",TeleFormula
 https://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="000" tvg-language="spa" tvg-logo="https://graph.facebook.com/TeleSURCostaRica/picture?width=200&height=200" group-title="ENTERTAINMENT",Telesur
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="000" tvg-language="spa" tvg-logo="https://graph.facebook.com/TeleSURCostaRica/picture?width=200&height=200" group-title="ENTERTAINMENT" tvg-tags="No_oficial",Telesur
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="000" tvg-language="spa" tvg-logo="https://graph.facebook.com/UESTV/picture?width=200&height=200" group-title="TRAVEL",UESTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="000" tvg-language="spa" tvg-logo="https://graph.facebook.com/UESTV/picture?width=200&height=200" group-title="TRAVEL" tvg-tags="No_oficial",UESTV
 http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="000" tvg-language="spa" tvg-logo="https://graph.facebook.com/wiprtv/picture?width=200&height=200" group-title="ENTERTAINMENT",WIPR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="000" tvg-language="spa" tvg-logo="https://graph.facebook.com/wiprtv/picture?width=200&height=200" group-title="ENTERTAINMENT" tvg-tags="No_oficial",WIPR
 https://api.new.livestream.com/accounts/16550960/events/8600941/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="000" tvg-language="spa" tvg-logo="https://i.imgur.com/Sbv9mq5.png" group-title="TRAVEL",Microvision 10
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="000" tvg-language="spa" tvg-logo="https://i.imgur.com/Sbv9mq5.png" group-title="TRAVEL" tvg-tags="No_oficial",Microvision 10
 #http://190.103.183.24:1935/live/MicroHD/playlist.m3u8
 ###########Canales nuevos
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="000" tvg-language="spa" tvg-logo="https://graph.facebook.com/ViBETVMX/picture?width=200&height=200" group-title="NEWS",VIBEtv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="000" tvg-language="spa" tvg-logo="https://graph.facebook.com/ViBETVMX/picture?width=200&height=200" group-title="NEWS" tvg-tags="Oficial",VIBEtv
 https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZftpAfKBdWYplXaAYTTMtFg)/dm/3/x7v6kdc/s/live-2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="000" tvg-language="spa" tvg-logo="https://graph.facebook.com/GINTVMX/picture?width=200&height=200" group-title="NEWS",GINtv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="000" tvg-language="spa" tvg-logo="https://graph.facebook.com/GINTVMX/picture?width=200&height=200" group-title="NEWS" tvg-tags="Oficial",GINtv
 https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZftpAfKBdWYplXaAYTTMtFg)/dm/3/x7v6kdc/s/live-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="000" tvg-language="spa" tvg-logo="https://graph.facebook.com/MexicoTravelChannelTV/picture?width=200&height=200" group-title="TRAVEL",Mexico Travel Chanel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="000" tvg-language="spa" tvg-logo="https://graph.facebook.com/MexicoTravelChannelTV/picture?width=200&height=200" group-title="TRAVEL" tvg-tags="Oficial",Mexico Travel Chanel
 https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZSNIMTlrZtivt57hp59j_cE)/dm/3/x7v76vf/s/live-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="000" tvg-language="eng" tvg-logo="https://graph.facebook.com/arirangtv/picture?width=200&height=200" group-title="ENTERTAINMENT",arirang
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="000" tvg-language="eng" tvg-logo="https://graph.facebook.com/arirangtv/picture?width=200&height=200" group-title="ENTERTAINMENT" tvg-tags="Oficial",arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
