@@ -1,20 +1,20 @@
 #EXTM3U
 ###########Canales oficiales
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-number="13" tvg-language="Spanish" tvg-logo="https://i.imgur.com/VuvGm3s.png" group-title="ENTERTAINMENT",13 Max
+#EXTINF:-1 tvg-id="" tvg-name="" tvh-chnum="13" tvg-language="Spanish" tvg-logo="https://i.imgur.com/VuvGm3s.png" group-title="ENTERTAINMENT",13 Max
 http://coninfo.net:1935/13maxhd/live_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-number="22.1 "tvg-language="Spanish" tvg-logo="https://i.imgur.com/giqLRn8.png" group-title="LIFE_STYLE",Canal 22.1
+#EXTINF:-1 tvg-id="" tvg-name="" tvh-chnum="22.1 "tvg-language="Spanish" tvg-logo="https://i.imgur.com/giqLRn8.png" group-title="LIFE_STYLE",Canal 22.1
 https://5e50264bd6766.streamlock.net/canal22/smil:canal22.smil/chunklist_w1978382888_b978000_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-number="22.2" tvg-language="Spanish" tvg-logo="https://i.imgur.com/U2JblvH.png" group-title="LIFE_STYLE",Canal 22.2
+#EXTINF:-1 tvg-id="" tvg-name="" tvh-chnum="22.2" tvg-language="Spanish" tvg-logo="https://i.imgur.com/U2JblvH.png" group-title="LIFE_STYLE",Canal 22.2
 https://5e50264bd6766.streamlock.net/canal222/smil:canal222.smil/chunklist_w786836973_b978000_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-number="14" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/canalcatorcemx/picture?width=200&height=200" group-title="ENTERTAINMENT", Canal Catorce
+#EXTINF:-1 tvg-id="" tvg-name="" tvh-chnum="14" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/canalcatorcemx/picture?width=200&height=200" group-title="ENTERTAINMENT", Canal Catorce
 https://d3nljkrx6mjqra.cloudfront.net/out/v1/2a01d801265741e581c396e8ad4fa405/index_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-number="21" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Capital21/picture?width=200&height=200" group-title="LIFE_STYLE",Capital 21
+#EXTINF:-1 tvg-id="" tvg-name="" tvh-chnum="21" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Capital21/picture?width=200&height=200" group-title="LIFE_STYLE",Capital 21
 https://video.cdmx.gob.mx/livestream/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" channel-number="" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/JusticiaTvMx/picture?width=200&height=200" group-title="EDUCATION",Justicia TV
 https://live.scjn.gob.mx/EVLiveSCJN/_definst_/mp4:YXWKLCDT/chunklist_w1919847559.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/MexiquenseTV/picture?width=200&height=200" group-title="LIFE_STYLE",Mexiquense TV
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/chunklist_w1045015137.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-number="10"tvg-language="Spanish" tvg-logo="https://graph.facebook.com/microvisioncanal10/picture?width=200&height=200" group-title="ENTERTAINMENT",Microvision 10
+#EXTINF:-1 tvg-id="" tvg-name="" tvh-chnum="10"tvg-language="Spanish" tvg-logo="https://graph.facebook.com/microvisioncanal10/picture?width=200&height=200" group-title="ENTERTAINMENT",Microvision 10
 http://190.103.183.24:1935/live/MicroHD/chunklist_w598827662.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/TVMAS/picture?width=200&height=200" group-title="EDUCATION", TVMÁS
 https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w2116443559.m3u8
