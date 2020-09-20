@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-language="language" tvg-logo="http://null" tvg-id="" tvg-name="" tvg-chno="001" group-title="Channels",GerardoHD
-http://null
 #EXTINF:-1 tvg-language="Spanish" tvg-logo="https://i.imgur.com/VuvGm3s.png" tvg-id="" tvg-name="" tvg-chno="13" group-title="ENTERTAINMENT",13 Max
 http://coninfo.net:1935/13maxhd/live_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/giqLRn8.png" group-title="LIFE_STYLE",Canal 22.1
