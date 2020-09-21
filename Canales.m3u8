@@ -107,7 +107,7 @@ https://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/master.m3u8
 https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-chno="54" tvg-id="" tvg-name="Melody Channel Colombia" group-title="Musica" tvg-logo="https://graph.facebook.com/melodychanneltv/picture?width=200&height=200", Melody Channel
 https://5f2eaf2aa4061.streamlock.net/live/smil:MelodyChannel.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="55" tvg-tags="TDT" tvg-name="Classic Arts Showcase" group-title="Arte" tvg-logo="https://pbs.twimg.com/profile_images/956583141245775872/2en3-8Ag_200x200.jpg", Classic Arts Showcase
+#EXTINF:-1 tvg-chno="55" tvg-tags="TDT" tvg-name="Classic Arts Showcase" group-title="Estilo de Vida" tvg-logo="https://pbs.twimg.com/profile_images/956583141245775872/2en3-8Ag_200x200.jpg", Classic Arts Showcase
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 #EXTINF:-1 tvg-chno="56" tvg-tags="tdt" tvg-id="Extremadura.TV" tvg-name="Canal Extremadura" group-title="Estilo de Vida" tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200", Canal Extremadura
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
@@ -145,8 +145,16 @@ https://cheddar.samsung.wurl.com/manifest/playlist.m3u8
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="73" tvg-tags="tdt" tvg-id="" tvg-name="Channel NewsAsia" group-title="Estilo de Vida" tvg-logo="https://graph.facebook.com/ChannelNewsAsia/picture?width=200&height=200", Channel NewsAsia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 tvg-chno="74" tvg-tags="TDT;OFI;NOF" tvg-id="" tvg-name="" group-title="GdC" tvg-logo="URL",Nombre_de_canal
+
+#EXTINF:-1 tvg-chno="75" tvg-tags="TDT;OFI;NOF" tvg-id="" tvg-name="" group-title="GdC" tvg-logo="URL",Nombre_de_canal
+
 #EXTINF:-1 tvg-chno="76" tvg-tags="TDT;OFI;NOF" tvg-id="" tvg-name="" group-title="GdC" tvg-logo="URL",Nombre_de_canal
+
 #EXTINF:-1 tvg-chno="77" tvg-tags="TDT;OFI;NOF" tvg-id="" tvg-name="" group-title="GdC" tvg-logo="URL",Nombre_de_canal
+
 #EXTINF:-1 tvg-chno="78" tvg-tags="TDT;OFI;NOF" tvg-id="" tvg-name="" group-title="GdC" tvg-logo="URL",Nombre_de_canal
+
 #EXTINF:-1 tvg-chno="79" tvg-tags="TDT;OFI;NOF" tvg-id="" tvg-name="" group-title="GdC" tvg-logo="URL",Nombre_de_canal
+
 #EXTINF:-1 tvg-chno="80" tvg-tags="TDT;OFI;NOF" tvg-id="" tvg-name="" group-title="GdC" tvg-logo="URL",Nombre_de_canal
