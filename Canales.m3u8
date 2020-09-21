@@ -155,7 +155,7 @@ https://a3m-neox-live-dash.secure.footprint.net/live/nas_live/neox/dash/neox.mpd
 https://a3m-nova-live-dash.secure.footprint.net/live/nas_live/nova/dash/nova.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=06b89b965159503223e9617ee4f6d9a022132ea16
 #EXTINF:-1 tvg-chno="78" tvg-tags="tdt" tvg-id="Mega.TV" tvg-name="Mega" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/megaTDT/picture?width=200&height=200", Mega
 https://a3m-mega-live-dash.secure.footprint.net/live/nas_live/mega/dash/mega.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=0fc0dd63e19ae7a86d239b17baad0901a328234d7
-#EXTINF:-1 tvg-chno="79" tvg-tags="tdt" tvg-id="Atreseries.TV"" tvg-name="Atreseries" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/atreseries/picture?width=200&height=200", Atreseries
+#EXTINF:-1 tvg-chno="79" tvg-tags="tdt" tvg-id="Atreseries.TV" tvg-name="Atreseries" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/atreseries/picture?width=200&height=200", Atreseries
 https://a3m-a3s-live-dash.secure.footprint.net/live/nas_live/a3s/dash/a3s.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=06179f00f76e46bf918b09c17e47079a1efa09954
 #EXTINF:-1 tvg-chno="80" tvg-tags="TDT;OFI;NOF" tvg-id="" tvg-name="" group-title="GdC" tvg-logo="URL",Ndc
 
