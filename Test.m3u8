@@ -93,7 +93,7 @@ https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
 https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-chno="46" tvg-tags="OFI" tvg-id="" tvg-name="" group-title="Estilo de Vida" tvg-logo="https://graph.facebook.com/MexiquenseTV/picture?width=200&height=200",Mexiquense TV
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/chunklist_w1045015137.m3u8
-#EXTINF:-1 tvg-chno=47" tvg-tags="OFI" tvg-id="" tvg-name="" group-title="Educacion" tvg-logo="https://graph.facebook.com/TVMAS/picture?width=200&height=200",TVMÁS
+#EXTINF:-1 tvg-chno="47" tvg-tags="OFI" tvg-id="" tvg-name="" group-title="Educacion" tvg-logo="https://graph.facebook.com/TVMAS/picture?width=200&height=200",TVMÁS
 https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w2116443559.m3u8
 #
 #EXTINF:-1 tvg-id="InterAlmeria.TV" tvg-logo="https://graph.facebook.com/Interalmeriatv/picture?width=200&height=200" group-title="Andalucía" tvg-name="Interalmería TV",Interalmería TV
