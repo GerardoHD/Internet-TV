@@ -5,14 +5,16 @@ https://live.scjn.gob.mx/EVLiveSCJN/_definst_/mp4:YXWKLCDT/chunklist_w1919847559
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/chunklist_w1045015137.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="3" group-title="Educacion" tvg-language="spa" tvg-logo="https://graph.facebook.com/TVMAS/picture?width=200&height=200" tvg-tags="Oficial",TVMÁS
 https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w2116443559.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="4" group-title="Viajes" tvg-language="spa" tvg-logo="https://graph.facebook.com/MexicoTravelChannelTV/picture?width=200&height=200" tvg-tags="Oficial",Mexico Travel Channel
-https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZSNIMTlrZtivt57hp59j_cE)/dm/3/x7v76vf/s/live-1.m3u8
+#EXTINF:-1 tvg-id="Cuatro.TV" tvg-name="Cuatro" tvg-chno="4" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/cuatro/picture?width=200&height=200" tvg-tags="TDT",Cuatro HD
+https://linear02-i.akamaihd.net/hls/live/837811/cuatro/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="5" group-title="Estilo de Vida" tvg-language="spa" tvg-logo="https://graph.facebook.com/5RTvSF/picture?width=200&height=200" tvg-tags="No_oficial",5RTV Santa Fe
 https://api.new.livestream.com/accounts/5RTvSF/events/8242619/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal 6 Multimedios Mexico" tvg-chno="6" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/multimediostv/picture?width=200&height=200" tvg-tags="TDT",Canal 6 Multimedios Mexico
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Azteca 7 Mexico" tvg-chno="7" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/aztecasiete/picture?width=200&height=200" tvg-tags="TDT",Azteca 7 Mexico
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ditty TV USA" tvg-chno="8" group-title="Musica" "tvg-logo="https://graph.facebook.com/DittyTV/picture?width=200&height=200" tvg-tags="TDT",Ditty TV USA EN
+https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="8" group-title="Entretenimiento" tvg-language="spa" tvg-logo="https://graph.facebook.com/wiprtv/picture?width=200&height=200" tvg-tags="No_oficial",WIPR
 https://api.new.livestream.com/accounts/16550960/events/8600941/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="9" group-title="Entretenimiento" tvg-language="eng" tvg-logo="https://graph.facebook.com/arirangtv/picture?width=200&height=200" tvg-tags="Oficial",arirang
@@ -51,5 +53,9 @@ https://5e50264bd6766.streamlock.net/canal222/smil:canal222.smil/chunklist_w7868
 http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal 11 Mexico" tvg-chno="25" group-title="Educacion" tvg-logo="https://graph.facebook.com/CANALONCETV/picture?width=200&height=200" tvg-tags="TDT",Canal 11 Mexico
 https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="26" group-title="Entretenimiento" tvg-language="spa" tvg-logo="https://graph.facebook.com/wiprtv/picture?width=200&height=200" tvg-tags="No_oficial",WIPR
+https://api.new.livestream.com/accounts/16550960/events/8600941/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="27" group-title="Viajes" tvg-language="spa" tvg-logo="https://graph.facebook.com/MexicoTravelChannelTV/picture?width=200&height=200" tvg-tags="Oficial",Mexico Travel Channel
+https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZSNIMTlrZtivt57hp59j_cE)/dm/3/x7v76vf/s/live-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ADN40 Mexico" tvg-chno="40" group-title="Noticias" tvg-logo="https://graph.facebook.com/ADN40mx/picture?width=200&height=200" tvg-tags="TDT",ADN40 Mexico
 https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
