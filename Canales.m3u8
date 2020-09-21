@@ -87,7 +87,7 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="44" tvg-tags="nof" tvg-id="" tvg-name="" group-title="Noticias" tvg-logo="https://graph.facebook.com/TeleFormula/picture?width=200&height=200", TeleFormula
 https://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
-#EXTINF:-1 tvg-chno="45" tvg-tags="tdt" tvg-id="" tvg-name="Costa Noroeste TV" group-title="Estilo de Vida" tvg-logo="https://graph.facebook.com/Costanoroestetv/picture?width=200&height=200"", Costa Noroeste TV
+#EXTINF:-1 tvg-chno="45" tvg-tags="tdt" tvg-id="" tvg-name="Costa Noroeste TV" group-title="Estilo de Vida" tvg-logo="https://graph.facebook.com/Costanoroestetv/picture?width=200&height=200", Costa Noroeste TV
 https://limited08.todostreaming.es/live/noroestetv-livestream.m3u8
 #EXTINF:-1 tvg-chno="46" tvg-tags="tdt" tvg-id="Distrito.TV" tvg-name="Distrito TV" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/2004860103163343/picture?width=200&height=200", Distrito TV
 https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
@@ -107,11 +107,11 @@ https://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/master.m3u8
 https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-chno="54" tvg-id="" tvg-name="Melody Channel Colombia" group-title="Musica" tvg-logo="https://graph.facebook.com/melodychanneltv/picture?width=200&height=200", Melody Channel
 https://5f2eaf2aa4061.streamlock.net/live/smil:MelodyChannel.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="55" tvg-tags="TDT" tvg-name="Classic Arts Showcase" group-title="Artes" tvg-logo="https://pbs.twimg.com/profile_images/956583141245775872/2en3-8Ag_200x200.jpg", Classic Arts Showcase
+#EXTINF:-1 tvg-chno="55" tvg-tags="TDT" tvg-name="Classic Arts Showcase" group-title="Arte" tvg-logo="https://pbs.twimg.com/profile_images/956583141245775872/2en3-8Ag_200x200.jpg", Classic Arts Showcase
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 #EXTINF:-1 tvg-chno="56" tvg-tags="tdt" tvg-id="Extremadura.TV" tvg-name="Canal Extremadura" group-title="Estilo de Vida" tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200", Canal Extremadura
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="57" tvg-tags="tdt" tvg-name="Televigo" tvg-logo="https://graph.facebook.com/televigo/picture?width=200&height=200" group-title="Galicia", Televigo
+#EXTINF:-1 tvg-chno="57" tvg-tags="tdt" tvg-name="Televigo" tvg-logo="https://graph.facebook.com/televigo/picture?width=200&height=200" group-title="Estilo de Vida", Televigo
 https://5f4cab04444c6.streamlock.net/gcm4/gcm4/playlist.m3u8
 #EXTINF:-1 tvg-chno="58" tvg-tags="tdt" tvg-id="" tvg-name="CBN USA" group-title="Estilo de Vida" tvg-logo="https://graph.facebook.com/cbnonline/picture?width=200&height=200", CBN USA
 https://bcliveunivsecure-lh.akamaihd.net/i/iptv2_1@500579/master.m3u8
