@@ -38,7 +38,7 @@ https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZftpAfKBdWYplXaAYT
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="19" group-title="NEWS" tvg-language="spa" tvg-logo="https://graph.facebook.com/GINTVMX/picture?width=200&height=200" tvg-tags="Oficial",GINtv
 https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZftpAfKBdWYplXaAYTTMtFg)/dm/3/x7v6kdc/s/live-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="20" group-title="TRAVEL" tvg-language="spa" tvg-logo="https://i.imgur.com/Sbv9mq5.png" tvg-tags="No_oficial",Microvision 10
-#http://190.103.183.24:1935/live/MicroHD/playlist.m3u8
+http://190.103.183.24:1935/live/MicroHD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="21" group-title="LIFE_STYLE" tvg-language="spa" tvg-logo="https://graph.facebook.com/Capital21/picture?width=200&height=200" tvg-tags="Oficial",Capital 21
 https://video.cdmx.gob.mx/livestream/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="22.1" group-title="LIFE_STYLE" tvg-language="spa" tvg-logo="https://i.imgur.com/giqLRn8.png" tvg-tags="Oficial",Canal 22-1
