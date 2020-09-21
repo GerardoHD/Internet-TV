@@ -13,7 +13,7 @@ https://api.new.livestream.com/accounts/5RTvSF/events/8242619/live.m3u8
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Azteca 7 Mexico" tvg-chno="7" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/aztecasiete/picture?width=200&height=200" tvg-tags="TDT",Azteca 7 Mexico
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ditty TV USA" tvg-chno="8" group-title="Musica" "tvg-logo="https://graph.facebook.com/DittyTV/picture?width=200&height=200" tvg-tags="TDT",Ditty TV USA EN
+#EXTINF:-1 tvg-id="" tvg-name="Ditty TV USA" tvg-chno="8" group-title="Musica" tvg-logo="https://graph.facebook.com/DittyTV/picture?width=200&height=200" tvg-tags="TDT",Ditty TV USA EN
 https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="8" group-title="Entretenimiento" tvg-language="spa" tvg-logo="https://graph.facebook.com/wiprtv/picture?width=200&height=200" tvg-tags="No_oficial",WIPR
 https://api.new.livestream.com/accounts/16550960/events/8600941/live.m3u8
