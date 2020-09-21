@@ -1,4 +1,3 @@
-#!/bin/bash
 #EXTM3U
 #EXTINF:-1 tvg-chno="1" tvg-tags="TDT" tvg-id="" tvg-name="Ditty TV USA" group-title="Musica" tvg-logo="https://graph.facebook.com/DittyTV/picture?width=200&height=200", Ditty TV USA EN
 https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
@@ -124,27 +123,26 @@ https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZSNIMTlrZtivt57hp5
 https://api.new.livestream.com/accounts/16550960/events/8600941/live.m3u8
 #EXTINF:-1 tvg-chno="62" tvg-tags="nfi" tvg-id="" tvg-name="" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/UESTV/picture?width=200&height=200", UESTV
 http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
-#EXTINF:-1 tvg-chno="63" tvg-tags="nfi" tvg-id="" tvg-name="" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/TeleSURCostaRica/picture?width=200&height=200",Nombre_de_canal
-#EXTINF:-1 tvg-chno="64" tvg-tags="nfi" tvg-id="" tvg-name="" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/TeleSURCostaRica/picture?width=200&height=200", Telesur
+#EXTINF:-1 tvg-chno="63" tvg-tags="nfi" tvg-id="" tvg-name="" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/TeleSURCostaRica/picture?width=200&height=200", Telesur
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
-#EXTINF:-1 tvg-chno="65" tvg-tags="nfi" tvg-id="" tvg-name="" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/mtvla/picture?width=200&height=200", https://graph.facebook.com/mtvla/picture?width=200&height=200
+#EXTINF:-1 tvg-chno="64" tvg-tags="nfi" tvg-id="" tvg-name="" group-title="Estilo de Vida" tvg-logo="https://graph.facebook.com/mtvla/picture?width=200&height=200", MTV LA
 http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
-#EXTINF:-1 tvg-chno="66"  tvg-tags="ofi" tvg-id="" tvg-name="" group-title="Noticias" tvg-logo="https://graph.facebook.com/ViBETVMX/picture?width=200&height=200", VIBEtv
+#EXTINF:-1 tvg-chno="65"  tvg-tags="ofi" tvg-id="" tvg-name="" group-title="Noticias" tvg-logo="https://graph.facebook.com/ViBETVMX/picture?width=200&height=200", VIBEtv
 https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZftpAfKBdWYplXaAYTTMtFg)/dm/3/x7v6kdc/s/live-2.m3u8
-#EXTINF:-1 tvg-chno="67" tvg-tags="TDT" tvg-id="" tvg-name="Tastemade" group-title="Estilo de Vida" tvg-logo="https://graph.facebook.com/TastemadeEs/picture?width=200&height=200", Tastemade EN
+#EXTINF:-1 tvg-chno="65" tvg-tags="TDT" tvg-id="" tvg-name="Tastemade" group-title="Estilo de Vida" tvg-logo="https://graph.facebook.com/TastemadeEs/picture?width=200&height=200", Tastemade EN
 https://tastemade.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-chno="68" tvg-tags="TDT" tvg-id="" tvg-name="United Nations TV" group-title="Estilo de Vida" tvg-logo="https://graph.facebook.com/unitednations/picture?width=200&height=200", United Nations TV
+#EXTINF:-1 tvg-chno="67" tvg-tags="TDT" tvg-id="" tvg-name="United Nations TV" group-title="Estilo de Vida" tvg-logo="https://graph.facebook.com/unitednations/picture?width=200&height=200", United Nations TV
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8
-#EXTINF:-1 tvg-chno="69" tvg-tags="tdt" tvg-id="" tvg-name="Entertainment Tonight USA" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/EntertainmentTonight/picture?width=200&height=200", Entertainment Tonight USA
+#EXTINF:-1 tvg-chno="68" tvg-tags="tdt" tvg-id="" tvg-name="Entertainment Tonight USA" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/EntertainmentTonight/picture?width=200&height=200", Entertainment Tonight USA
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
-#EXTINF:-1 tvg-chno="70" tvg-tags="tdt" tvg-id="" tvg-name="ABC News USA" group-title="Noticias" tvg-logo="https://graph.facebook.com/ABCNews/picture?width=200&height=200", ABC News USA
+#EXTINF:-1 tvg-chno="69" tvg-tags="tdt" tvg-id="" tvg-name="ABC News USA" group-title="Noticias" tvg-logo="https://graph.facebook.com/ABCNews/picture?width=200&height=200", ABC News USA
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-chno="71" tvg-tags="tdt" tvg-id="" tvg-name="CBS News USA" group-title="Noticias" tvg-logo="https://graph.facebook.com/CBSNews/picture?width=200&height=200", CBS News USA
+#EXTINF:-1 tvg-chno="70" tvg-tags="tdt" tvg-id="" tvg-name="CBS News USA" group-title="Noticias" tvg-logo="https://graph.facebook.com/CBSNews/picture?width=200&height=200", CBS News USA
 https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:-1 tvg-chno="72" tvg-tags="tdt" tvg-id="" tvg-name="Cheddar USA" group-title="Noticias" tvg-logo="https://graph.facebook.com/cheddar/picture?width=200&height=200", Cheddar USA
+#EXTINF:-1 tvg-chno="71" tvg-tags="tdt" tvg-id="" tvg-name="Cheddar USA" group-title="Noticias" tvg-logo="https://graph.facebook.com/cheddar/picture?width=200&height=200", Cheddar USA
 https://cheddar.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-chno="73" tvg-tags="tdt" tvg-id="Arirang.TV" tvg-name="Arirang TV Korea" group-title="Estilo de Vida" tvg-logo="https://graph.facebook.com/arirangtv/picture?width=200&height=200", Arirang TV Korea
+#EXTINF:-1 tvg-chno="72" tvg-tags="tdt" tvg-id="Arirang.TV" tvg-name="Arirang TV Korea" group-title="Estilo de Vida" tvg-logo="https://graph.facebook.com/arirangtv/picture?width=200&height=200", Arirang TV Korea
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="74" tvg-tags="tdt" tvg-id="" tvg-name="Channel NewsAsia" group-title="Estilo de Vida" tvg-logo="https://graph.facebook.com/ChannelNewsAsia/picture?width=200&height=200", Channel NewsAsia
+#EXTINF:-1 tvg-chno="73" tvg-tags="tdt" tvg-id="" tvg-name="Channel NewsAsia" group-title="Estilo de Vida" tvg-logo="https://graph.facebook.com/ChannelNewsAsia/picture?width=200&height=200", Channel NewsAsia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 tvg-chno="100" tvg-tags="TDT;OFI;NOF" tvg-id="" tvg-name="" group-title="GdC" tvg-logo="URL",Nombre_de_canal
