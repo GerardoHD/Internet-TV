@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="01" group-title="EDUCATION" tvg-language="spa" tvg-logo="https://graph.facebook.com/JusticiaTvMx/picture?width=200&height=200" tvg-tags="Oficial",Justicia TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="01" group-title="Educacion" tvg-language="spa" tvg-logo="https://graph.facebook.com/JusticiaTvMx/picture?width=200&height=200" tvg-tags="Oficial",Justicia TV
 https://live.scjn.gob.mx/EVLiveSCJN/_definst_/mp4:YXWKLCDT/chunklist_w1919847559.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="02" group-title="LIFE_STYLE" tvg-language="spa" tvg-logo="https://graph.facebook.com/MexiquenseTV/picture?width=200&height=200" tvg-tags="Oficial",Mexiquense TV
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/chunklist_w1045015137.m3u8
@@ -9,16 +9,18 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w2116443559.m3u8
 https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZSNIMTlrZtivt57hp59j_cE)/dm/3/x7v76vf/s/live-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="05" group-title="LIFE_STYLE" tvg-language="spa" tvg-logo="https://graph.facebook.com/5RTvSF/picture?width=200&height=200" tvg-tags="No_oficial",5RTV Santa Fe
 https://api.new.livestream.com/accounts/5RTvSF/events/8242619/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="06" group-title="NEWS" tvg-language="spa" tvg-logo="https://graph.facebook.com/mileniotelevision/picture?width=200&height=200" tvg-tags="No_oficial",Milenio TV
-http://bcoveliveios-i.akamaihd.net:80/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="07" group-title="ENTERTAINMENT" tvg-language="spa" tvg-logo="https://graph.facebook.com/mtvla/picture?width=200&height=200" tvg-tags="No_oficial",MTV
-http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 6 Multimedios Mexico" tvg-chno="06"  group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/multimediostv/picture?width=200&height=200" tvg-tags="Oficial",Canal 6 Multimedios Mexico
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Azteca 7 Mexico" tvg-chno="07" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/aztecasiete/picture?width=200&height=200" tvg-tags="Oficial",Azteca 7 Mexico
+https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="08" group-title="ENTERTAINMENT" tvg-language="spa" tvg-logo="https://graph.facebook.com/wiprtv/picture?width=200&height=200" tvg-tags="No_oficial",WIPR
 https://api.new.livestream.com/accounts/16550960/events/8600941/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="09" group-title="ENTERTAINMENT" tvg-language="eng" tvg-logo="https://graph.facebook.com/arirangtv/picture?width=200&height=200" tvg-tags="Oficial",arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="10" group-title="ENTERTAINMENT" tvg-language="spa" tvg-logo="https://graph.facebook.com/microvisioncanal10/picture?width=200&height=200" tvg-tags="Oficial",Microvision 10
 http://190.103.183.24:1935/live/MicroHD/chunklist_w598827662.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="10" group-title="TRAVEL" tvg-language="spa" tvg-logo="https://i.imgur.com/Sbv9mq5.png" tvg-tags="No_oficial",Microvision 10
+#http://190.103.183.24:1935/live/MicroHD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="11" group-title="EDUCATION" tvg-language="spa" tvg-logo="https://graph.facebook.com/CANALONCETV/picture?width=200&height=200" tvg-tags="No_oficial",Canal Once Nacional
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="12" group-title="ENTERTAINMENT" tvg-language="spa" tvg-logo="https://graph.facebook.com/cpetvcanal2/picture?width=200&height=200" tvg-tags="No_oficial",CPEtv
@@ -37,11 +39,15 @@ http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
 https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZftpAfKBdWYplXaAYTTMtFg)/dm/3/x7v6kdc/s/live-2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="19" group-title="NEWS" tvg-language="spa" tvg-logo="https://graph.facebook.com/GINTVMX/picture?width=200&height=200" tvg-tags="Oficial",GINtv
 https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZftpAfKBdWYplXaAYTTMtFg)/dm/3/x7v6kdc/s/live-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="20" group-title="TRAVEL" tvg-language="spa" tvg-logo="https://i.imgur.com/Sbv9mq5.png" tvg-tags="No_oficial",Microvision 10
-http://190.103.183.24:1935/live/MicroHD/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="20" group-title="NEWS" tvg-language="spa" tvg-logo="https://graph.facebook.com/mileniotelevision/picture?width=200&height=200" tvg-tags="No_oficial",Milenio TV
+http://bcoveliveios-i.akamaihd.net:80/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="21" group-title="LIFE_STYLE" tvg-language="spa" tvg-logo="https://graph.facebook.com/Capital21/picture?width=200&height=200" tvg-tags="Oficial",Capital 21
 https://video.cdmx.gob.mx/livestream/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="22.1" group-title="LIFE_STYLE" tvg-language="spa" tvg-logo="https://i.imgur.com/giqLRn8.png" tvg-tags="Oficial",Canal 22-1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="22" group-title="LIFE_STYLE" tvg-language="spa" tvg-logo="https://i.imgur.com/giqLRn8.png" tvg-tags="Oficial",Canal 22-1
 https://5e50264bd6766.streamlock.net/canal22/smil:canal22.smil/chunklist_w1978382888_b978000_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="22.2" group-title="LIFE_STYLE" tvg-language="spa" tvg-logo="https://i.imgur.com/U2JblvH.png" tvg-tags="Oficial",Canal 22-2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="23" group-title="LIFE_STYLE" tvg-language="spa" tvg-logo="https://i.imgur.com/U2JblvH.png" tvg-tags="Oficial",Canal 22-2
 https://5e50264bd6766.streamlock.net/canal222/smil:canal222.smil/chunklist_w786836973_b978000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="24" group-title="ENTERTAINMENT" tvg-language="spa" tvg-logo="https://graph.facebook.com/mtvla/picture?width=200&height=200" tvg-tags="No_oficial",MTV
+http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADN40 Mexico" tvg-chno="40" group-title="Noticias" tvg-logo="https://graph.facebook.com/ADN40mx/picture?width=200&height=200" tvg-tags="Oficial",ADN40 Mexico
+https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
