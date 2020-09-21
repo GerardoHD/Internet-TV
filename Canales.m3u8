@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-chno="1" tvg-tags="TDT" tvg-id="" tvg-name="Ditty TV USA" group-title="Musica" tvg-logo="https://graph.facebook.com/DittyTV/picture?width=200&height=200", Ditty TV USA EN
 https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
-#EXTINF:-1 tvg-chno="2" "tvg-tags="TDT" tvg-id="La2.TV" tvg-name="La 2" group-title="Estilo de Vida" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200", La 2
+#EXTINF:-1 tvg-chno="2" tvg-tags="TDT" tvg-id="La2.TV" tvg-name="La 2" group-title="Estilo de Vida" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200", La 2
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-tags="TDT" tvg-id="CanalSurA.TV" tvg-name="Canal Sur Andalucía" group-title="Estilo de Vida" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200", Canal Sur Andalucía
 https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
