@@ -1,2 +1,2 @@
-# ghd-iptv
-Repositorio para testear streams antes de contribuir a listas
+# Internet TV
+Repositorio de canales de TV por Internet, IPTV y TDT.
