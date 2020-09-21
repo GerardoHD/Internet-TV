@@ -83,13 +83,60 @@ https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 #EXTINF:-1 tvg-chno="41" tvg-tags="TDT" tvg-id="" tvg-name="Melody Channel Colombia" group-title="Musica" tvg-logo="https://graph.facebook.com/melodychanneltv/picture?width=200&height=200",Melody Channel
 https://5f2eaf2aa4061.streamlock.net/live/smil:MelodyChannel.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" group-title="Estilo de Vida" tvg-logo="https://graph.facebook.com/MexiquenseTV/picture?width=200&height=200" tvg-tags="OFI",Mexiquense TV
+#EXTINF:-1 tvg-chno="42" tvg-tags="TDT" tvg-id="" tvg-name="Miami TV" group-title="Estilo de Vida" tvg-logo="https://graph.facebook.com/miamitv/picture?width=200&height=200",Miami TV
+https://59ec5453559f0.streamlock.net/canal18/smil:canal18/master.m3u8
+#EXTINF:-1 tvg-chno="43" tvg-tags="TDT" tvg-id="" tvg-name="Del 40 al 1" group-title="Musica" tvg-logo="https://graph.facebook.com/del40al1/picture?width=200&height=200",Del 40 al 1
+https://40al1-lh.akamaihd.net/i/directo40al1_x@764444/master.m3u8
+#EXTINF:-1 tvg-chno="44" tvg-tags="TDT" tvg-id="Distrito.TV" tvg-name="Distrito TV" group-title="GdC" tvg-logo="https://graph.facebook.com/2004860103163343/picture?width=200&height=200",Distrito TV
+https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
+#EXTINF:-1 tvg-chno="45" tvg-tags="TDT" tvg-id="MelillaTV.TV" tvg-name="Melilla" group-title="GdC" tvg-logo="https://graph.facebook.com/TelevisionMelilla/picture?width=200&height=200",Melilla TV
+https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-chno="46" tvg-tags="OFI" tvg-id="" tvg-name="" group-title="Estilo de Vida" tvg-logo="https://graph.facebook.com/MexiquenseTV/picture?width=200&height=200",Mexiquense TV
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/chunklist_w1045015137.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" group-title="Educacion" tvg-logo="https://graph.facebook.com/TVMAS/picture?width=200&height=200" tvg-tags="OFI",TVMÁS
+#EXTINF:-1 tvg-chno=47" tvg-tags="OFI" tvg-id="" tvg-name="" group-title="Educacion" tvg-logo="https://graph.facebook.com/TVMAS/picture?width=200&height=200",TVMÁS
 https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w2116443559.m3u8
+#
+#EXTINF:-1 tvg-id="InterAlmeria.TV" tvg-logo="https://graph.facebook.com/Interalmeriatv/picture?width=200&height=200" group-title="Andalucía" tvg-name="Interalmería TV",Interalmería TV
+https://interalmeria.tv/directo/live.m3u8
+#EXTINF:-1 tvg-id="Telemadrid.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="C. de Madrid" tvg-name="Telemadrid",Telemadrid
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
+#EXTINF:-1 tvg-id="LaOtra.TV" tvg-logo="https://pbs.twimg.com/profile_images/1279727978268839938/jSZUiboT_200x200.jpg" group-title="C. de Madrid" tvg-name="LaOtra",LaOtra
+http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/master.m3u8
+#EXTINF:-1 tvg-id="Extremadura.TV" tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200" group-title="Extremadura" tvg-name="Canal Extremadura",Canal Extremadura
+https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/televigo/picture?width=200&height=200" group-title="Galicia" tvg-name="Televigo",Televigo
+https://5f4cab04444c6.streamlock.net/gcm4/gcm4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/ABCNews/picture?width=200&height=200" group-title="Int. América" tvg-name="ABC News USA",ABC News USA EN
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CBSNews/picture?width=200&height=200" group-title="Int. América" tvg-name="CBS News USA",CBS News USA EN
+https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/cheddar/picture?width=200&height=200" group-title="Int. América" tvg-name="Cheddar USA",Cheddar USA EN
+https://cheddar.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/EntertainmentTonight/picture?width=200&height=200" group-title="Int. América" tvg-name="Entertainment Tonight USA",Entertainment Tonight USA EN
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/cbnonline/picture?width=200&height=200" group-title="Int. América" tvg-name="CBN USA",CBN USA
+https://bcliveunivsecure-lh.akamaihd.net/i/iptv2_1@500579/master.m3u8
+#EXTINF:-1 tvg-id="CGTN.TV" tvg-logo="https://graph.facebook.com/cgtnenespanol/picture?width=200&height=200" group-title="Int. Asia" tvg-name="CGTN",CGTN
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 tvg-id="Arirang.TV" tvg-logo="https://graph.facebook.com/arirangtv/picture?width=200&height=200" group-title="Int. Asia" tvg-name="Arirang TV Korea",Arirang TV Korea EN
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/ChannelNewsAsia/picture?width=200&height=200" group-title="Int. Asia" tvg-name="Channel NewsAsia",Channel NewsAsia HD EN
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/unitednations/picture?width=200&height=200" group-title="Int. Otros" tvg-name="United Nations TV",United Nations TV EN
+https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/TastemadeEs/picture?width=200&height=200" group-title="Int. Otros" tvg-name="Tastemade",Tastemade EN
+https://tastemade.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/locomotionxtv/picture?width=200&height=200" group-title="Int. Otros" tvg-name="Locomotion TV",Locomotion TV
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/956583141245775872/2en3-8Ag_200x200.jpg" group-title="Int. Otros" tvg-name="Classic Arts Showcase",Classic Arts Showcase EN
+https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/RedBull/picture?width=200&height=200" group-title="Deportivos Int." tvg-name="Redbull TV",Redbull TV EN
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1169992187314167808/TeabGtEB_200x200.jpg" group-title="Deportivos Int." tvg-name="Garage TV",Garage TV
+http://186.0.233.76:1935/Garage/garage.smil/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/wiprtv/picture?width=200&height=200" tvg-tags="NoFI",WIPR
 https://api.new.livestream.com/accounts/16550960/events/8600941/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" group-title="Entretenimiento" tvg-language="eng" tvg-logo="https://graph.facebook.com/arirangtv/picture?width=200&height=200" tvg-tags="OFI",arirang
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/arirangtv/picture?width=200&height=200" tvg-tags="OFI",arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" group-title="Noticias" tvg-logo="https://graph.facebook.com/TeleFormula/picture?width=200&height=200" tvg-tags="NoFI",TeleFormula
 https://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
