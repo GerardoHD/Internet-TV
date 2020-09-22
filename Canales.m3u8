@@ -5,7 +5,7 @@ https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-tags="TDT" tvg-id="CanalSurA.TV" tvg-name="Canal Sur Andalucía" group-title="Estilo de Vida" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200", Canal Sur Andalucía
 https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="4" tvg-tags="TDT" tvg-id="Cuatro.TV" tvg-name="Cuatro" group-title="Entretenimiento" tvg-logo="https://imgur.com/a/OUIKhWt", Cuatro HD
+#EXTINF:-1 tvg-chno="4" tvg-tags="TDT" tvg-id="Cuatro.TV" tvg-name="Cuatro" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/cuatro/picture?width=200&height=200", Cuatro HD
 https://linear02-i.akamaihd.net/hls/live/837811/cuatro/01.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-tags="NFI" tvg-id="" tvg-name="" group-title="Estilo de Vida" tvg-logo="https://graph.facebook.com/5RTvSF/picture?width=200&height=200", 5RTV Santa Fe
 https://api.new.livestream.com/accounts/5RTvSF/events/8242619/live.m3u8
@@ -129,7 +129,7 @@ http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1 tvg-chno="65"  tvg-tags="ofi" tvg-id="" tvg-name="" group-title="Noticias" tvg-logo="https://graph.facebook.com/ViBETVMX/picture?width=200&height=200", VIBEtv
 https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZftpAfKBdWYplXaAYTTMtFg)/dm/3/x7v6kdc/s/live-2.m3u8
-#EXTINF:-1 tvg-chno="65" tvg-tags="TDT" tvg-id="" tvg-name="Tastemade" group-title="Estilo de Vida" tvg-logo="https://graph.facebook.com/TastemadeEs/picture?width=200&height=200", Tastemade EN
+#EXTINF:-1 tvg-chno="66" tvg-tags="TDT" tvg-id="" tvg-name="Tastemade" group-title="Estilo de Vida" tvg-logo="https://graph.facebook.com/TastemadeEs/picture?width=200&height=200", Tastemade EN
 https://tastemade.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-chno="67" tvg-tags="TDT" tvg-id="" tvg-name="United Nations TV" group-title="Estilo de Vida" tvg-logo="https://graph.facebook.com/unitednations/picture?width=200&height=200", United Nations TV
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8
@@ -147,7 +147,7 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/pl
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 tvg-chno="74" tvg-tags="tdt" tvg-id="Antena3.TV" tvg-name="Antena 3" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/antena3/picture?width=200&height=200", Antena 3
 https://a3m-a3-live-dash.secure.footprint.net/live/nas_live/a3/dash/a3.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=00ff29da4e0598b0de8a5b930b5c969d4997f9010
-#EXTINF:-1 tvg-chno="75" tvg-tags="tdt" tvg-id="LaSexta.TV" tvg-name="laSexta" group-title="Entretenmiento" tvg-logo="https://graph.facebook.com/laSexta/picture?width=200&height=200", laSexta
+#EXTINF:-1 tvg-chno="75" tvg-tags="tdt" tvg-id="LaSexta.TV" tvg-name="laSexta" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/laSexta/picture?width=200&height=200", laSexta
 https://a3m-la6-live-dash.secure.footprint.net/live/nas_live/la6/dash/la6.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=0d5fd1778c0756d5749a2f6ca2c5b63f4984c67cb
 #EXTINF:-1 tvg-chno="76" tvg-tags="tdt" tvg-id="Neox.TV" tvg-name="Neox" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/neox/picture?width=200&height=200", Neox
 https://a3m-neox-live-dash.secure.footprint.net/live/nas_live/neox/dash/neox.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=0c83968d0468c93bf4e3e0738e60ece3f3c5ee9c0
