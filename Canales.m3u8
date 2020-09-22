@@ -5,7 +5,7 @@ https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-tags="TDT" tvg-id="CanalSurA.TV" tvg-name="Canal Sur Andalucía" group-title="Estilo de Vida" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200", Canal Sur Andalucía
 https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="4" tvg-tags="TDT" tvg-id="Cuatro.TV" tvg-name="Cuatro" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/cuatro/picture?width=200&height=200", Cuatro HD
+#EXTINF:-1 tvg-chno="4" tvg-tags="TDT" tvg-id="Cuatro.TV" tvg-name="Cuatro" group-title="Entretenimiento" tvg-logo="https://imgur.com/a/OUIKhWt", Cuatro HD
 https://linear02-i.akamaihd.net/hls/live/837811/cuatro/01.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-tags="NFI" tvg-id="" tvg-name="" group-title="Estilo de Vida" tvg-logo="https://graph.facebook.com/5RTvSF/picture?width=200&height=200", 5RTV Santa Fe
 https://api.new.livestream.com/accounts/5RTvSF/events/8242619/live.m3u8
@@ -157,19 +157,3 @@ https://a3m-nova-live-dash.secure.footprint.net/live/nas_live/nova/dash/nova.mpd
 https://a3m-mega-live-dash.secure.footprint.net/live/nas_live/mega/dash/mega.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=0fc0dd63e19ae7a86d239b17baad0901a328234d7
 #EXTINF:-1 tvg-chno="79" tvg-tags="tdt" tvg-id="Atreseries.TV" tvg-name="Atreseries" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/atreseries/picture?width=200&height=200", Atreseries
 https://a3m-a3s-live-dash.secure.footprint.net/live/nas_live/a3s/dash/a3s.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=06179f00f76e46bf918b09c17e47079a1efa09954
-#EXTINF:-1 tvg-chno="80" tvg-tags="TDT;OFI;NOF" tvg-id="" tvg-name="" group-title="GdC" tvg-logo="URL", Ndc
-
-
-#EXTINF:-1 tvg-chno="81" tvg-tags="TDT;OFI;NOF" tvg-id="" tvg-name="" group-title="GdC" tvg-logo="URL", NdC
-
-
-#EXTINF:-1 tvg-chno="82" tvg-tags="TDT;OFI;NOF" tvg-id="" tvg-name="" group-title="GdC" tvg-logo="URL", Ndc
-
-
-#EXTINF:-1 tvg-chno="83" tvg-tags="TDT;OFI;NOF" tvg-id="" tvg-name="" group-title="GdC" tvg-logo="URL", Ndc
-
-#EXTINF:-1 tvg-chno="84" tvg-tags="TDT;OFI;NOF" tvg-id="" tvg-name="" group-title="GdC" tvg-logo="URL", Ndc
-
-#EXTINF:-1 tvg-chno="85" tvg-tags="TDT;OFI;NOF" tvg-id="" tvg-name="" group-title="GdC" tvg-logo="URL", Ndc
-
-#EXTINF:-1 tvg-chno="86" tvg-tags="TDT;OFI;NOF" tvg-id="" tvg-name="" group-title="GdC" tvg-logo="URL", Ndc
