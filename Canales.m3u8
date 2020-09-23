@@ -97,7 +97,7 @@ https://limited08.todostreaming.es/live/noroestetv-livestream.m3u8
 https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
 #EXTINF:-1 tvg-chno="49" tvg-tags="nfi" tvg-id="" tvg-name="" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/TeleSURCostaRica/picture?width=200&height=200", Telesur
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
-#EXTINF:-1 tvg-chno="50" tvg-tags="tdt" tvg-id="LaOtra.TV" tvg-name="LaOtra" group-title="Entreteniiento" tvg-logo="https://pbs.twimg.com/profile_images/1279727978268839938/jSZUiboT_200x200.jpg", LaOtra
+#EXTINF:-1 tvg-chno="50" tvg-tags="tdt" tvg-id="LaOtra.TV" tvg-name="LaOtra" group-title="Entretenimiento" tvg-logo="https://pbs.twimg.com/profile_images/1279727978268839938/jSZUiboT_200x200.jpg", LaOtra
 http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/master.m3u8
 #EXTINF:-1 tvg-chno="51" tvg-tags="tdt" tvg-id="" tvg-name="Locomotion TV" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/locomotionxtv/picture?width=200&height=200", Locomotion TV
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
