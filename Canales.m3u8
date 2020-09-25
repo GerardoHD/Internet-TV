@@ -159,5 +159,5 @@ https://playback2.akamaized.net/streams/22636012_8242619_9f1b0ac37ec718dc106dbfd
 https://playback2.akamaized.net/streams/22636012_8242619_9f1b0ac37ec718dc106dbfd8e6df505d_1/exp=1601131364~acl=%2f*~data=hdntl~hmac=cf9aab622e9f0aecbc336d4fa929126002d133fe2b875e50bfdb3a301ae075ac/media/22636012_8242619_9f1b0ac37ec718dc106dbfd8e6df505d_1@3266000p.m3u8
 #EXTINF:-1 tvg-chno="80" tvg-tags="ofi" tvg-id="" tvg-name="" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/wiprtv/picture?width=200&height=200", WIPR alt
 https://livestream-f.akamaihd.net/i/16550960_8600941_00869707_1@30481/index_2628_av-p.m3u8?sd=4&dw=80&set-segment-duration=responsive&rebase=on&hdntl=exp=1601131694~acl=%2fi%2f16550960_8600941_00869707_1%4030481%2f*~data=hdntl~hmac=0b52dc51eb86bae7a422ad05eaeeda16780f10d40f89877c837a870c3f7d8dc6
-#EXTINF:-1 tvg-chno="80" tvg-tags="ofi" tvg-id="" tvg-name="" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/wiprtv/picture?width=200&height=200", WIPR alt2
+#EXTINF:-1 tvg-chno="81" tvg-tags="ofi" tvg-id="" tvg-name="" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/wiprtv/picture?width=200&height=200", WIPR alt2
 https://livestream-f.akamaihd.net/i/16550960_8600941_00869707_1@30481/index_2628_av-p.m3u8
