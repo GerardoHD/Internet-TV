@@ -153,3 +153,11 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w691333358.m3u8
 #EXTINF:-1 tvg-chno="77" tvg-tags="ofi" tvg-id="" tvg-name="" group-title="Estilo de Vida" tvg-logo="https://graph.facebook.com/MexiquenseTV/picture?width=200&height=200", Mexiquense TV alt
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:-1 tvg-chno="78" tvg-tags="ofi" tvg-id="" tvg-name="" group-title="Estilo de Vida" tvg-logo="https://graph.facebook.com/5RTvSF/picture?width=200&height=200", 5RTV Santa Fe alt
+https://playback2.akamaized.net/streams/22636012_8242619_9f1b0ac37ec718dc106dbfd8e6df505d_1/exp=1601131364~acl=%2f*~data=hdntl~hmac=cf9aab622e9f0aecbc336d4fa929126002d133fe2b875e50bfdb3a301ae075ac/media/22636012_8242619_9f1b0ac37ec718dc106dbfd8e6df505d_1@3266000p.m3u8?dw=80&ts=1601042400
+#EXTINF:-1 tvg-chno="79" tvg-tags="ofi" tvg-id="" tvg-name="" group-title="Estilo de Vida" tvg-logo="https://graph.facebook.com/5RTvSF/picture?width=200&height=200", 5RTV Santa Fe alt2
+https://playback2.akamaized.net/streams/22636012_8242619_9f1b0ac37ec718dc106dbfd8e6df505d_1/exp=1601131364~acl=%2f*~data=hdntl~hmac=cf9aab622e9f0aecbc336d4fa929126002d133fe2b875e50bfdb3a301ae075ac/media/22636012_8242619_9f1b0ac37ec718dc106dbfd8e6df505d_1@3266000p.m3u8
+#EXTINF:-1 tvg-chno="80" tvg-tags="ofi" tvg-id="" tvg-name="" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/wiprtv/picture?width=200&height=200", WIPR alt
+https://livestream-f.akamaihd.net/i/16550960_8600941_00869707_1@30481/index_2628_av-p.m3u8?sd=4&dw=80&set-segment-duration=responsive&rebase=on&hdntl=exp=1601131694~acl=%2fi%2f16550960_8600941_00869707_1%4030481%2f*~data=hdntl~hmac=0b52dc51eb86bae7a422ad05eaeeda16780f10d40f89877c837a870c3f7d8dc6
+#EXTINF:-1 tvg-chno="80" tvg-tags="ofi" tvg-id="" tvg-name="" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/wiprtv/picture?width=200&height=200", WIPR alt2
+https://livestream-f.akamaihd.net/i/16550960_8600941_00869707_1@30481/index_2628_av-p.m3u8
