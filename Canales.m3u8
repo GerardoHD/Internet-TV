@@ -50,7 +50,8 @@ https://live.scjn.gob.mx/EVLiveSCJN/_definst_/mp4:YXWKLCDT/chunklist_w1919847559
 #EXTINF:-1 tvg-chno="25" tvg-tags="tdt" tvg-id="" tvg-name="Miami TV" group-title="Estilo de Vida" tvg-logo="https://graph.facebook.com/miamitv/picture?width=200&height=200", Miami TV
 https://59ec5453559f0.streamlock.net/canal18/smil:canal18/master.m3u8
 #EXTINF:-1 tvg-chno="26" tvg-tags="ofi" tvg-id="" tvg-name="" group-title="Estilo de Vida" tvg-logo="https://graph.facebook.com/MexiquenseTV/picture?width=200&height=200", Mexiquense TV
-https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/chunklist_w1045015137.m3u8
+https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+#https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/chunklist_w1045015137.m3u8
 #EXTINF:-1 tvg-chno="27" tvg-tags="ofi" tvg-id="" tvg-name="" group-title="Educacion" tvg-logo="https://graph.facebook.com/TVMAS/picture?width=200&height=200", TVMÁS
 https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w2116443559.m3u8
 #EXTINF:-1 tvg-chno="28" tvg-tags="tdt" tvg-id="" tvg-name="Garage TV" group-title="Deportes" tvg-logo="https://pbs.twimg.com/profile_images/1169992187314167808/TeabGtEB_200x200.jpg", Garage TV
@@ -107,8 +108,9 @@ https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-chno="54" tvg-tags="ofi" tvg-id="" tvg-name="" tvg-chno="" group-title="Viajes" tvg-logo="https://graph.facebook.com/MexicoTravelChannelTV/picture?width=200&height=200", Mexico Travel Channel
 https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZSNIMTlrZtivt57hp59j_cE)/dm/3/x7v76vf/s/live-1.m3u8
-#EXTINF:-1 tvg-chno="55" tvg-tags="nfi" tvg-id="" tvg-name="" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/wiprtv/picture?width=200&height=200", WIPR
-https://api.new.livestream.com/accounts/16550960/events/8600941/live.m3u8
+#EXTINF:-1 tvg-chno="55" tvg-tags="ofi" tvg-id="" tvg-name="" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/wiprtv/picture?width=200&height=200", WIPR
+#https://api.new.livestream.com/accounts/16550960/events/8600941/live.m3u8
+https://livestream-f.akamaihd.net/i/16550960_8600941_00869707_1@30481/index_2628_av-p.m3u8?sd=4&dw=80&set-segment-duration=responsive&rebase=on&hdntl=exp=1601131694~acl=%2fi%2f16550960_8600941_00869707_1%4030481%2f*~data=hdntl~hmac=0b52dc51eb86bae7a422ad05eaeeda16780f10d40f89877c837a870c3f7d8dc6
 #EXTINF:-1 tvg-chno="56" tvg-tags="nfi" tvg-id="" tvg-name="" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/UESTV/picture?width=200&height=200", UESTV
 http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
 #EXTINF:-1 tvg-chno="57" tvg-tags="tdt" tvg-id="" tvg-name="Melody Channel Colombia" group-title="Musica" tvg-logo="https://graph.facebook.com/melodychanneltv/picture?width=200&height=200", Melody Channel
@@ -149,15 +151,4 @@ https://a3m-mega-live-dash.secure.footprint.net/live/nas_live/mega/dash/mega.mpd
 https://a3m-a3s-live-dash.secure.footprint.net/live/nas_live/a3s/dash/a3s.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=06179f00f76e46bf918b09c17e47079a1efa09954
 #EXTINF:-1 tvg-chno="75" tvg-tags="ofi" tvg-id="" tvg-name="" group-title="Noticias" tvg-logo="https://graph.facebook.com/AMXNoticias/picture?width=200&height=200", AMX Noticias
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-#EXTINF:-1 tvg-chno="76" tvg-tags="ofi" tvg-id="" tvg-name="" group-title="Noticias" tvg-logo="https://graph.facebook.com/AMXNoticias/picture?width=200&height=200", AMX Noticias alt
-https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w691333358.m3u8
-#EXTINF:-1 tvg-chno="77" tvg-tags="ofi" tvg-id="" tvg-name="" group-title="Estilo de Vida" tvg-logo="https://graph.facebook.com/MexiquenseTV/picture?width=200&height=200", Mexiquense TV alt
-https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
-#EXTINF:-1 tvg-chno="78" tvg-tags="ofi" tvg-id="" tvg-name="" group-title="Estilo de Vida" tvg-logo="https://graph.facebook.com/5RTvSF/picture?width=200&height=200", 5RTV Santa Fe alt
-https://playback2.akamaized.net/streams/22636012_8242619_9f1b0ac37ec718dc106dbfd8e6df505d_1/exp=1601131364~acl=%2f*~data=hdntl~hmac=cf9aab622e9f0aecbc336d4fa929126002d133fe2b875e50bfdb3a301ae075ac/media/22636012_8242619_9f1b0ac37ec718dc106dbfd8e6df505d_1@3266000p.m3u8?dw=80&ts=1601042400
-#EXTINF:-1 tvg-chno="79" tvg-tags="ofi" tvg-id="" tvg-name="" group-title="Estilo de Vida" tvg-logo="https://graph.facebook.com/5RTvSF/picture?width=200&height=200", 5RTV Santa Fe alt2
-https://playback2.akamaized.net/streams/22636012_8242619_9f1b0ac37ec718dc106dbfd8e6df505d_1/exp=1601131364~acl=%2f*~data=hdntl~hmac=cf9aab622e9f0aecbc336d4fa929126002d133fe2b875e50bfdb3a301ae075ac/media/22636012_8242619_9f1b0ac37ec718dc106dbfd8e6df505d_1@3266000p.m3u8
-#EXTINF:-1 tvg-chno="80" tvg-tags="ofi" tvg-id="" tvg-name="" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/wiprtv/picture?width=200&height=200", WIPR alt
-https://livestream-f.akamaihd.net/i/16550960_8600941_00869707_1@30481/index_2628_av-p.m3u8?sd=4&dw=80&set-segment-duration=responsive&rebase=on&hdntl=exp=1601131694~acl=%2fi%2f16550960_8600941_00869707_1%4030481%2f*~data=hdntl~hmac=0b52dc51eb86bae7a422ad05eaeeda16780f10d40f89877c837a870c3f7d8dc6
-#EXTINF:-1 tvg-chno="81" tvg-tags="ofi" tvg-id="" tvg-name="" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/wiprtv/picture?width=200&height=200", WIPR alt2
-https://livestream-f.akamaihd.net/i/16550960_8600941_00869707_1@30481/index_2628_av-p.m3u8
+#https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w691333358.m3u8
