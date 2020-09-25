@@ -147,3 +147,52 @@ https://a3m-nova-live-dash.secure.footprint.net/live/nas_live/nova/dash/nova.mpd
 https://a3m-mega-live-dash.secure.footprint.net/live/nas_live/mega/dash/mega.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=0fc0dd63e19ae7a86d239b17baad0901a328234d7
 #EXTINF:-1 tvg-chno="74" tvg-tags="tdt" tvg-id="Atreseries.TV" tvg-name="Atreseries" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/atreseries/picture?width=200&height=200", Atreseries
 https://a3m-a3s-live-dash.secure.footprint.net/live/nas_live/a3s/dash/a3s.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=06179f00f76e46bf918b09c17e47079a1efa09954
+#EXTINF:-1 tvg-chno="75" tvg-tags="ofi" tvg-id="" tvg-name="" group-title="Noticias" tvg-logo="https://graph.facebook.com/AMXNoticias/picture?width=200&height=200", AMX Noticias
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:-1 tvg-chno="76" tvg-tags="ofi" tvg-id="" tvg-name="" group-title="Noticias" tvg-logo="https://graph.facebook.com/AMXNoticias/picture?width=200&height=200", AMX Noticias alt
+#https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w691333358.m3u8
+#EXTINF:-1 tvg-chno="77" tvg-tags="ofi" tvg-id="" tvg-name="" group-title="Estilo de Vida" tvg-logo="https://graph.facebook.com/MexiquenseTV/picture?width=200&height=200", Mexiquense TV alt
+https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:-1 tvg-chno="78" tvg-tags="TDT;OFI;NOF" tvg-id="" tvg-name="" group-title="GdC" tvg-logo="URL", Ndc
+
+#EXTINF:-1 tvg-chno="79" tvg-tags="TDT;OFI;NOF" tvg-id="" tvg-name="" group-title="GdC" tvg-logo="URL", Ndc
+
+#EXTINF:-1 tvg-chno="80" tvg-tags="TDT;OFI;NOF" tvg-id="" tvg-name="" group-title="GdC" tvg-logo="URL", Ndc
+
+#EXTINF:-1 tvg-chno="81" tvg-tags="TDT;OFI;NOF" tvg-id="" tvg-name="" group-title="GdC" tvg-logo="URL", Ndc
+
+#EXTINF:-1 tvg-chno="82" tvg-tags="TDT;OFI;NOF" tvg-id="" tvg-name="" group-title="GdC" tvg-logo="URL", Ndc
+
+#EXTINF:-1 tvg-chno="83" tvg-tags="TDT;OFI;NOF" tvg-id="" tvg-name="" group-title="GdC" tvg-logo="URL", Ndc
+
+#EXTINF:-1 tvg-chno="84" tvg-tags="TDT;OFI;NOF" tvg-id="" tvg-name="" group-title="GdC" tvg-logo="URL", Ndc
+
+#EXTINF:-1 tvg-chno="85" tvg-tags="TDT;OFI;NOF" tvg-id="" tvg-name="" group-title="GdC" tvg-logo="URL", Ndc
+
+#EXTINF:-1 tvg-chno="86" tvg-tags="TDT;OFI;NOF" tvg-id="" tvg-name="" group-title="GdC" tvg-logo="URL", Ndc
+
+#EXTINF:-1 tvg-chno="87" tvg-tags="TDT;OFI;NOF" tvg-id="" tvg-name="" group-title="GdC" tvg-logo="URL", Ndc
+
+#EXTINF:-1 tvg-chno="88" tvg-tags="TDT;OFI;NOF" tvg-id="" tvg-name="" group-title="GdC" tvg-logo="URL", Ndc
+
+#EXTINF:-1 tvg-chno="89" tvg-tags="TDT;OFI;NOF" tvg-id="" tvg-name="" group-title="GdC" tvg-logo="URL", Ndc
+
+#EXTINF:-1 tvg-chno="90" tvg-tags="TDT;OFI;NOF" tvg-id="" tvg-name="" group-title="GdC" tvg-logo="URL", Ndc
+
+#EXTINF:-1 tvg-chno="91" tvg-tags="TDT;OFI;NOF" tvg-id="" tvg-name="" group-title="GdC" tvg-logo="URL", Ndc
+
+#EXTINF:-1 tvg-chno="92" tvg-tags="TDT;OFI;NOF" tvg-id="" tvg-name="" group-title="GdC" tvg-logo="URL", Ndc
+
+#EXTINF:-1 tvg-chno="93" tvg-tags="TDT;OFI;NOF" tvg-id="" tvg-name="" group-title="GdC" tvg-logo="URL", Ndc
+
+#EXTINF:-1 tvg-chno="94" tvg-tags="TDT;OFI;NOF" tvg-id="" tvg-name="" group-title="GdC" tvg-logo="URL", Ndc
+
+#EXTINF:-1 tvg-chno="95" tvg-tags="TDT;OFI;NOF" tvg-id="" tvg-name="" group-title="GdC" tvg-logo="URL", Ndc
+
+#EXTINF:-1 tvg-chno="96" tvg-tags="TDT;OFI;NOF" tvg-id="" tvg-name="" group-title="GdC" tvg-logo="URL", Ndc
+
+#EXTINF:-1 tvg-chno="97" tvg-tags="TDT;OFI;NOF" tvg-id="" tvg-name="" group-title="GdC" tvg-logo="URL", Ndc
+
+#EXTINF:-1 tvg-chno="98" tvg-tags="TDT;OFI;NOF" tvg-id="" tvg-name="" group-title="GdC" tvg-logo="URL", Ndc
+
+#EXTINF:-1 tvg-chno="99" tvg-tags="TDT;OFI;NOF" tvg-id="" tvg-name="" group-title="GdC" tvg-logo="URL", Ndc
