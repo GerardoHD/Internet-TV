@@ -1,8 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-chno="5" tvg-tags="NFI" tvg-id="" tvg-name="" group-title="Estilo de Vida" tvg-logo="https://graph.facebook.com/5RTvSF/picture?width=200&height=200", 5RTV Santa Fe
-https://playback2.akamaized.net/streams/22636012_8242619_adcd366a23b6a9ca0802e904b3a3323d_1/master.m3u8
-#EXTINF:-1 tvg-chno="5" tvg-tags="NFI" tvg-id="" tvg-name="" group-title="Estilo de Vida" tvg-logo="https://graph.facebook.com/5RTvSF/picture?width=200&height=200", 5RTV Santa Fe
 https://api.new.livestream.com/accounts/5RTvSF/events/8242619/live.m3u8
-#EXTINF:-1 tvg-chno="5" tvg-tags="NFI" tvg-id="" tvg-name="" group-title="Estilo de Vida" tvg-logo="https://graph.facebook.com/5RTvSF/picture?width=200&height=200", 5RTV Santa Fe
+#EXTINF:-1 tvg-chno="5" tvg-tags="OFI" tvg-id="" tvg-name="" group-title="Estilo de Vida" tvg-logo="https://graph.facebook.com/5RTvSF/picture?width=200&height=200", 5RTV
 https://player-api.new.livestream.com/accounts/22636012/events/8242619/broadcasts/211456945.secure.m3u8?dw=80&hdnea=st=1601304547~exp=1601306347~acl=/i/22636012_8242619_adcd366a23b6a9ca0802e904b3a3323d_1@89695/*~hmac=e642c6a7ef5328b9ccf040ab54d077e195f0fef2d6c93ca380c771808d97df4c&token=5f71f90f_08d1326f2184afe0a65cb98e19a1dbd9eda28863
-#EXTINF:-1 tvg-chno="5" tvg-tags="NFI" tvg-id="" tvg-name="" group-title="Estilo de Vida" tvg-logo="https://graph.facebook.com/5RTvSF/picture?width=200&height=200", 5RTV Santa Fe
