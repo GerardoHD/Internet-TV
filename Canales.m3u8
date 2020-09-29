@@ -7,9 +7,9 @@ https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-tags="TDT" tvg-id="Cuatro.TV" tvg-name="Cuatro" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/cuatro/picture?width=200&height=200", Cuatro HD
 https://linear02-i.akamaihd.net/hls/live/837811/cuatro/01.m3u8
-#EXTINF:-1 tvg-chno="5" tvg-tags="OFI" tvg-id="" tvg-name="" group-title="Estilos de Vida" tvg-logo="https://graph.facebook.com/5RTvSF/picture?width=200&height=200", 5RTV
-https://player-api.new.livestream.com/accounts/22636012/events/8242619/broadcasts/211456945.secure.m3u8?dw=80&hdnea=st=1601304547~exp=1601306347~acl=/i/22636012_8242619_adcd366a23b6a9ca0802e904b3a3323d_1@89695/*~hmac=e642c6a7ef5328b9ccf040ab54d077e195f0fef2d6c93ca380c771808d97df4c&token=5f71f90f_08d1326f2184afe0a65cb98e19a1dbd9eda28863
-#https://api.new.livestream.com/accounts/5RTvSF/events/8242619/live.m3u8
+#EXTINF:-1 tvg-chno="5" tvg-tags="NFI" tvg-id="" tvg-name="" group-title="Estilos de Vida" tvg-logo="https://graph.facebook.com/5RTvSF/picture?width=200&height=200", 5RTV
+#https://player-api.new.livestream.com/accounts/22636012/events/8242619/broadcasts/211456945.secure.m3u8?dw=80&hdnea=st=1601304547~exp=1601306347~acl=/i/22636012_8242619_adcd366a23b6a9ca0802e904b3a3323d_1@89695/*~hmac=e642c6a7ef5328b9ccf040ab54d077e195f0fef2d6c93ca380c771808d97df4c&token=5f71f90f_08d1326f2184afe0a65cb98e19a1dbd9eda28863
+https://api.new.livestream.com/accounts/5RTvSF/events/8242619/live.m3u8
 #EXTINF:-1 tvg-chno="6" tvg-tags="TDT" tvg-id="" tvg-name="Canal 6 Multimedios " group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/multimediostv/picture?width=200&height=200", Canal 6 Multimedios
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-chno="7" tvg-tags="TDT" tvg-id="" tvg-name="Azteca 7" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/aztecasiete/picture?width=200&height=200", Azteca 7
