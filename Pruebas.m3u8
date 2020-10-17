@@ -80,15 +80,15 @@ http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-chno="39" tvg-tags="ofi" tvg-id="" tvg-name="" group-title="Noticias" tvg-logo="https://graph.facebook.com/AMXNoticias/picture?width=200&height=200", AMX Noticias
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w691333358.m3u8
-#EXTINF:-1 tvg-chno="40" tvg-tags="TDT" tvg-id="" tvg-name="ADN40 Mexico" group-title="Noticias" tvg-logo="https://graph.facebook.com/ADN40mx/picture?width=200&height=200", ADN40 Mexico
+#EXTINF:-1 tvg-chno="40" tvg-tags="TDT" tvg-id="" tvg-name="ADN40 Mexico" group-title="Noticias" tvg-logo="https://graph.facebook.com/ADN40mx/picture?width=200&height=200", ADN40
 https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 #EXTINF:-1 tvg-chno="41" tvg-tags="tdt" tvg-id="" tvg-name="FORO TV" group-title="Noticias" tvg-logo="https://graph.facebook.com/FOROtv/picture?width=200&height=200", FORO TV
 https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/master.m3u8
 #EXTINF:-1 tvg-chno="42" tvg-tags="nfi" tvg-id="" tvg-name="" group-title="Noticias" tvg-logo="https://graph.facebook.com/TeleFormula/picture?width=200&height=200", TeleFormula
 https://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
-#EXTINF:-1 tvg-chno="43" tvg-tags="tdt" tvg-id="" tvg-name="Retro Plus TV Chile" group-title="Música" tvg-logo="https://graph.facebook.com/retroplustv/picture?width=200&height=200", Retro Plus TV Chile
+#EXTINF:-1 tvg-chno="43" tvg-tags="tdt" tvg-id="" tvg-name="Retro Plus TV Chile" group-title="Música" tvg-logo="https://graph.facebook.com/retroplustv/picture?width=200&height=200", Retro Plus TV
 https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
-#EXTINF:-1 tvg-chno="44" tvg-tags="tdt" tvg-id="" tvg-name="CBN USA" group-title="Estilos de Vida" tvg-logo="https://graph.facebook.com/cbnonline/picture?width=200&height=200", CBN USA
+#EXTINF:-1 tvg-chno="44" tvg-tags="tdt" tvg-id="" tvg-name="CBN USA" group-title="Estilos de Vida" tvg-logo="https://graph.facebook.com/cbnonline/picture?width=200&height=200", CBN
 https://bcliveunivsecure-lh.akamaihd.net/i/iptv2_1@500579/master.m3u8
 #EXTINF:-1 tvg-chno="45" tvg-tags="nfi" tvg-id="" tvg-name="" group-title="Educacion" tvg-logo="https://graph.facebook.com/CANALONCETV/picture?width=200&height=200", Canal Once Nacional
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
@@ -115,21 +115,21 @@ http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
 https://5f2eaf2aa4061.streamlock.net/live/smil:MelodyChannel.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="56" tvg-tags="nfi" tvg-id="" tvg-name="" group-title="Estilos de Vida" tvg-logo="https://graph.facebook.com/mtvla/picture?width=200&height=200", MTV LA
 http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
-#EXTINF:-1 tvg-chno="57" tvg-tags="TDT" tvg-id="" tvg-name="Redbull TV" group-title="Deportes" tvg-logo="https://graph.facebook.com/RedBull/picture?width=200&height=200", Redbull TV EN
+#EXTINF:-1 tvg-chno="57" tvg-tags="TDT" tvg-id="" tvg-name="Redbull TV" group-title="Deportes" tvg-logo="https://graph.facebook.com/RedBull/picture?width=200&height=200", Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-chno="58" tvg-tags="TDT" tvg-id="" tvg-name="Tastemade" group-title="Estilos de Vida" tvg-logo="https://graph.facebook.com/TastemadeEs/picture?width=200&height=200", Tastemade EN
+#EXTINF:-1 tvg-chno="58" tvg-tags="TDT" tvg-id="" tvg-name="Tastemade" group-title="Estilos de Vida" tvg-logo="https://graph.facebook.com/TastemadeEs/picture?width=200&height=200", Tastemade
 https://tastemade.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-chno="59" tvg-tags="TDT" tvg-id="" tvg-name="United Nations TV" group-title="Estilos de Vida" tvg-logo="https://graph.facebook.com/unitednations/picture?width=200&height=200", United Nations TV
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8
-#EXTINF:-1 tvg-chno="60" tvg-tags="tdt" tvg-id="" tvg-name="Entertainment Tonight USA" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/EntertainmentTonight/picture?width=200&height=200", Entertainment Tonight USA
+#EXTINF:-1 tvg-chno="60" tvg-tags="tdt" tvg-id="" tvg-name="Entertainment Tonight USA" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/EntertainmentTonight/picture?width=200&height=200", Entertainment Tonight
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
-#EXTINF:-1 tvg-chno="61" tvg-tags="tdt" tvg-id="" tvg-name="ABC News USA" group-title="Noticias" tvg-logo="https://graph.facebook.com/ABCNews/picture?width=200&height=200", ABC News USA
+#EXTINF:-1 tvg-chno="61" tvg-tags="tdt" tvg-id="" tvg-name="ABC News USA" group-title="Noticias" tvg-logo="https://graph.facebook.com/ABCNews/picture?width=200&height=200", ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-chno="62" tvg-tags="tdt" tvg-id="" tvg-name="CBS News USA" group-title="Noticias" tvg-logo="https://graph.facebook.com/CBSNews/picture?width=200&height=200", CBS News USA
+#EXTINF:-1 tvg-chno="62" tvg-tags="tdt" tvg-id="" tvg-name="CBS News USA" group-title="Noticias" tvg-logo="https://graph.facebook.com/CBSNews/picture?width=200&height=200", CBS News
 https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:-1 tvg-chno="63" tvg-tags="tdt" tvg-id="" tvg-name="Cheddar USA" group-title="Noticias" tvg-logo="https://graph.facebook.com/cheddar/picture?width=200&height=200", Cheddar USA
+#EXTINF:-1 tvg-chno="63" tvg-tags="tdt" tvg-id="" tvg-name="Cheddar USA" group-title="Noticias" tvg-logo="https://graph.facebook.com/cheddar/picture?width=200&height=200", Cheddar
 https://cheddar.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-chno="64" tvg-tags="tdt" tvg-id="Arirang.TV" tvg-name="Arirang TV Korea" group-title="Estilos de Vida" tvg-logo="https://graph.facebook.com/arirangtv/picture?width=200&height=200", Arirang TV Korea
+#EXTINF:-1 tvg-chno="64" tvg-tags="tdt" tvg-id="Arirang.TV" tvg-name="Arirang TV Korea" group-title="Estilos de Vida" tvg-logo="https://graph.facebook.com/arirangtv/picture?width=200&height=200", Arirang TV
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="65" tvg-tags="tdt" tvg-id="" tvg-name="Channel NewsAsia" group-title="Estilos de Vida" tvg-logo="https://graph.facebook.com/ChannelNewsAsia/picture?width=200&height=200", Channel NewsAsia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
@@ -145,12 +145,12 @@ https://a3m-nova-live-dash.secure.footprint.net/live/nas_live/nova/dash/nova.mpd
 https://a3m-mega-live-dash.secure.footprint.net/live/nas_live/mega/dash/mega.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=0fc0dd63e19ae7a86d239b17baad0901a328234d7
 #EXTINF:-1 tvg-chno="71" tvg-tags="tdt" tvg-id="Atreseries.TV" tvg-name="Atreseries" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/atreseries/picture?width=200&height=200", Atreseries
 https://a3m-a3s-live-dash.secure.footprint.net/live/nas_live/a3s/dash/a3s.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=06179f00f76e46bf918b09c17e47079a1efa09954
-#EXTINF:-1 tvg-chno="72" tvg-tags="NFI" tvg-id="" tvg-name="" group-title="Estilos de Vida" tvg-logo="https://graph.facebook.com/5RTvSF/picture?width=200&height=200", 5RTV
+#EXTINF:-1 tvg-chno="72" tvg-tags="NFI" tvg-id="" tvg-name="" group-title="Estilos de Vida" tvg-logo="https://graph.facebook.com/5RTvSF/picture?width=200&height=200", 5RTV Santa Fe
 #https://api.new.livestream.com/accounts/5RTvSF/events/8242619/live.m3u8
 https://player-api.new.livestream.com/accounts/22636012/events/8242619/broadcasts/212175493.secure.m3u8
-#EXTINF:-1 tvg-chno="73" tvg-tags="TDT" tvg-id="" tvg-name="Azteca 7" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/aztecauno/picture?width=200&height=200", Azteca uno
+#EXTINF:-1 tvg-chno="73" tvg-tags="TDT" tvg-id="" tvg-name="" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/aztecauno/picture?width=200&height=200", Azteca uno
 https://dai.google.com/linear/hls/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
-#EXTINF:-1 tvg-chno="74" tvg-tags="TDT" tvg-id="" tvg-name="Azteca 7" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/aztecauno/picture?width=200&height=200", Azteca UNO
+#EXTINF:-1 tvg-chno="74" tvg-tags="TDT" tvg-id="" tvg-name="" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/aztecauno/picture?width=200&height=200", Azteca 13
 https://pubads.g.doubleclick.net/ssai/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
 #EXTINF:-1 tvg-chno="75" tvg-tags="TDT" tvg-id="" tvg-name="TV Unam" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/tvunamoficial/picture?width=200&height=200", TV Unam
 https://player-api.new.livestream.com/accounts/27177136/events/8970901/broadcasts/212177136.secure.m3u8
