@@ -19,7 +19,7 @@ https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
 #EXTINF:-1 tvg-chno="9" tvg-tags="NFI" tvg-id="" tvg-name="" group-title="Noticias" tvg-logo="https://graph.facebook.com/mileniotelevision/picture?width=200&height=200",Milenio TV
 http://bcoveliveios-i.akamaihd.net:80/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-#EXTINF:-1 tvg-chno="10" tvg-tags="OFI" tvg-id="" tvg-name="" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/microvisioncanal10/picture?width=200&height=200",Microvision 10
+#EXTINF:-1 tvg-chno="10" tvg-tags="OFI" tvg-id="" tvg-name="" group-title="Estilos de Vida" tvg-logo="https://graph.facebook.com/microvisioncanal10/picture?width=200&height=200",Microvision 10
 http://190.103.183.24:1935/live/MicroHD/chunklist_w598827662.m3u8
 #EXTINF:-1 tvg-chno="11" tvg-tags="TDT" tvg-id="" tvg-name="Canal Once Internacional" group-title="Educacion" tvg-logo="https://graph.facebook.com/CANALONCETV/picture?width=200&height=200",Once Internacional
 https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
@@ -53,7 +53,7 @@ https://5e50264bd6766.streamlock.net/canal222/smil:canal222.smil/chunklist_w7868
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 #EXTINF:-1 tvg-chno="25" tvg-tags="tdt" tvg-id="CGTN.TV" tvg-name="CGTN" group-title="Estilos de Vida" tvg-logo="https://graph.facebook.com/cgtnenespanol/picture?width=200&height=200",CGTN
 https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 tvg-chno="26" tvg-tags="tdt" tvg-id="" tvg-name="Channel NewsAsia" group-title="Estilos de Vida" tvg-logo="https://graph.facebook.com/ChannelNewsAsia/picture?width=200&height=200",Channel NewsAsia
+#EXTINF:-1 tvg-chno="26" tvg-tags="tdt" tvg-id="" tvg-name="Channel NewsAsia" group-title="Noticias" tvg-logo="https://graph.facebook.com/ChannelNewsAsia/picture?width=200&height=200",Channel NewsAsia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 tvg-chno="27" tvg-tags="tdt" tvg-id="AlJQ.TV" tvg-name="Al Jazeera Qatar" group-title="Noticias" tvg-logo="https://graph.facebook.com/aljazeera/picture?width=200&height=200",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
@@ -135,18 +135,17 @@ https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 #EXTINF:-1 tvg-chno="64" tvg-tags="tdt" tvg-id="Arirang.TV" tvg-name="Arirang TV Korea" group-title="Estilos de Vida" tvg-logo="https://graph.facebook.com/arirangtv/picture?width=200&height=200",Arirang TV
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="65" tvg-tags="nfi" tvg-id="" tvg-name="" group-title="Estilos de Vida" tvg-logo="https://graph.facebook.com/mtvla/picture?width=200&height=200",MTV LA
+#EXTINF:-1 tvg-chno="65" tvg-tags="nfi" tvg-id="" tvg-name="" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/mtvla/picture?width=200&height=200",MTV LA
 http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
-#EXTINF:-1 tvg-chno="69" tvg-tags="tdt" tvg-id="Antena3.TV" tvg-name="Antena 3" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/antena3/picture?width=200&height=200",Antena 3
+#EXTINF:-1 tvg-chno="66" tvg-tags="tdt" tvg-id="Antena3.TV" tvg-name="Antena 3" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/antena3/picture?width=200&height=200",Antena 3
 https://a3m-a3-live-dash.secure.footprint.net/live/nas_live/a3/dash/a3.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=00ff29da4e0598b0de8a5b930b5c969d4997f9010
-#EXTINF:-1 tvg-chno="70" tvg-tags="tdt" tvg-id="LaSexta.TV" tvg-name="laSexta" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/laSexta/picture?width=200&height=200",laSexta
+#EXTINF:-1 tvg-chno="67" tvg-tags="tdt" tvg-id="LaSexta.TV" tvg-name="laSexta" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/laSexta/picture?width=200&height=200",laSexta
 https://a3m-la6-live-dash.secure.footprint.net/live/nas_live/la6/dash/la6.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=0d5fd1778c0756d5749a2f6ca2c5b63f4984c67cb
-#EXTINF:-1 tvg-chno="71" tvg-tags="tdt" tvg-id="Neox.TV" tvg-name="Neox" group-title="Comedia" tvg-logo="https://graph.facebook.com/neox/picture?width=200&height=200",Neox
+#EXTINF:-1 tvg-chno="68" tvg-tags="tdt" tvg-id="Neox.TV" tvg-name="Neox" group-title="Comedia" tvg-logo="https://graph.facebook.com/neox/picture?width=200&height=200",Neox
 https://a3m-neox-live-dash.secure.footprint.net/live/nas_live/neox/dash/neox.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=0c83968d0468c93bf4e3e0738e60ece3f3c5ee9c0
-#EXTINF:-1 tvg-chno="72" tvg-tags="tdt" tvg-id="Nova.TV" tvg-name="Nova" group-title="Drama" tvg-logo="https://graph.facebook.com/novatdt/picture?width=200&height=200",Nova
+#EXTINF:-1 tvg-chno="69" tvg-tags="tdt" tvg-id="Nova.TV" tvg-name="Nova" group-title="Drama" tvg-logo="https://graph.facebook.com/novatdt/picture?width=200&height=200",Nova
 https://a3m-nova-live-dash.secure.footprint.net/live/nas_live/nova/dash/nova.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=06b89b965159503223e9617ee4f6d9a022132ea16
-#EXTINF:-1 tvg-chno="73" tvg-tags="tdt" tvg-id="Mega.TV" tvg-name="Mega" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/megaTDT/picture?width=200&height=200",Mega
+#EXTINF:-1 tvg-chno="70" tvg-tags="tdt" tvg-id="Mega.TV" tvg-name="Mega" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/megaTDT/picture?width=200&height=200",Mega
 https://a3m-mega-live-dash.secure.footprint.net/live/nas_live/mega/dash/mega.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=0fc0dd63e19ae7a86d239b17baad0901a328234d7
-#EXTINF:-1 tvg-chno="74" tvg-tags="tdt" tvg-id="Atreseries.TV" tvg-name="Atreseries" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/atreseries/picture?width=200&height=200",Atreseries
+#EXTINF:-1 tvg-chno="71" tvg-tags="tdt" tvg-id="Atreseries.TV" tvg-name="Atreseries" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/atreseries/picture?width=200&height=200",Atreseries
 https://a3m-a3s-live-dash.secure.footprint.net/live/nas_live/a3s/dash/a3s.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=06179f00f76e46bf918b09c17e47079a1efa09954
-
