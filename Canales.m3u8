@@ -106,27 +106,26 @@ https://limited08.todostreaming.es/live/noroestetv-livestream.m3u8
 https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
 #EXTINF:-1 tvg-chno="53" tvg-tags="nfi" tvg-id="" tvg-name="" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/TeleSURCostaRica/picture?width=200&height=200",Telesur
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
-#EXTINF:-1 tvg-chno="54" tvg-tags="tdt" tvg-id="LaOtra.TV" tvg-name="LaOtra" group-title="Entretenimiento" tvg-logo="https://pbs.twimg.com/profile_images/1279727978268839938/jSZUiboT_200x200.jpg",La Otra
-http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/master.m3u8
-#EXTINF:-1 tvg-chno="55" tvg-tags="tdt" tvg-id="" tvg-name="Locomotion TV" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/locomotionxtv/picture?width=200&height=200",Locomotion TV
+#EXTINF:-1 tvg-chno="54" tvg-tags="tdt" tvg-id="" tvg-name="Locomotion TV" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/locomotionxtv/picture?width=200&height=200",Locomotion TV
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
-#EXTINF:-1 tvg-chno="56" tvg-tags="nfi" tvg-id="" tvg-name="" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/wiprtv/picture?width=200&height=200",WIPR
+#EXTINF:-1 tvg-chno="55" tvg-tags="nfi" tvg-id="" tvg-name="" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/wiprtv/picture?width=200&height=200",WIPR
 https://api.new.livestream.com/accounts/16550960/events/8600941/live.m3u8
-#EXTINF:-1 tvg-chno="57" tvg-tags="nfi" tvg-id="" tvg-name="" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/UESTV/picture?width=200&height=200",UESTV
+#EXTINF:-1 tvg-chno="56" tvg-tags="nfi" tvg-id="" tvg-name="" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/UESTV/picture?width=200&height=200",UESTV
 http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
-#EXTINF:-1 tvg-chno="58" tvg-tags="tdt" tvg-id="" tvg-name="ACS Network" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/acsnetworktv/picture?width=200&height=200",ACS Network
+#EXTINF:-1 tvg-chno="57" tvg-tags="tdt" tvg-id="" tvg-name="ACS Network" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/acsnetworktv/picture?width=200&height=200",ACS Network
 https://cloudflare.streamgato.us:3283/live/acsnetworklive.m3u8
-#EXTINF:-1 tvg-chno="59" tvg-tags="TDT" tvg-name="Classic Arts Showcase" group-title="Estilos de Vida" tvg-logo="https://pbs.twimg.com/profile_images/956583141245775872/2en3-8Ag_200x200.jpg",Classic Arts Showcase
+#EXTINF:-1 tvg-chno="58" tvg-tags="TDT" tvg-name="Classic Arts Showcase" group-title="Estilos de Vida" tvg-logo="https://pbs.twimg.com/profile_images/956583141245775872/2en3-8Ag_200x200.jpg",Classic Arts Showcase
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
-#EXTINF:-1 tvg-chno="60" tvg-tags="TDT" tvg-id="" tvg-name="Redbull TV" group-title="Deportes" tvg-logo="https://graph.facebook.com/RedBull/picture?width=200&height=200",Redbull TV
+#EXTINF:-1 tvg-chno="59" tvg-tags="TDT" tvg-id="" tvg-name="Redbull TV" group-title="Deportes" tvg-logo="https://graph.facebook.com/RedBull/picture?width=200&height=200",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-chno="61" tvg-tags="TDT" tvg-id="" tvg-name="Tastemade" group-title="Estilos de Vida" tvg-logo="https://graph.facebook.com/TastemadeEs/picture?width=200&height=200",Tastemade
+#EXTINF:-1 tvg-chno="60" tvg-tags="TDT" tvg-id="" tvg-name="Tastemade" group-title="Estilos de Vida" tvg-logo="https://graph.facebook.com/TastemadeEs/picture?width=200&height=200",Tastemade
 https://tastemade.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-chno="62" tvg-tags="TDT" tvg-id="" tvg-name="United Nations TV" group-title="Estilos de Vida" tvg-logo="https://graph.facebook.com/unitednations/picture?width=200&height=200",United Nations TV
+#EXTINF:-1 tvg-chno="61" tvg-tags="TDT" tvg-id="" tvg-name="United Nations TV" group-title="Estilos de Vida" tvg-logo="https://graph.facebook.com/unitednations/picture?width=200&height=200",United Nations TV
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8
-#EXTINF:-1 tvg-chno="63" tvg-tags="tdt" tvg-id="" tvg-name="Entertainment Tonight USA" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/EntertainmentTonight/picture?width=200&height=200",Entertainment Tonight
+#EXTINF:-1 tvg-chno="62" tvg-tags="tdt" tvg-id="" tvg-name="Entertainment Tonight USA" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/EntertainmentTonight/picture?width=200&height=200",Entertainment Tonight
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
-#EXTINF:-1 tvg-chno="64" tvg-tags="tdt" tvg-id="Arirang.TV" tvg-name="Arirang TV Korea" group-title="Estilos de Vida" tvg-logo="https://graph.facebook.com/arirangtv/picture?width=200&height=200",Arirang TV
+#EXTINF:-1 tvg-chno="63" tvg-tags="tdt" tvg-id="Arirang.TV" tvg-name="Arirang TV Korea" group-title="Estilos de Vida" tvg-logo="https://graph.facebook.com/arirangtv/picture?width=200&height=200",Arirang TV
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="65" tvg-tags="nfi" tvg-id="" tvg-name="" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/mtvla/picture?width=200&height=200",MTV LA
+#EXTINF:-1 tvg-chno="64" tvg-tags="nfi" tvg-id="" tvg-name="" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/mtvla/picture?width=200&height=200",MTV LA
 http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
+
