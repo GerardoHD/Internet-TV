@@ -138,14 +138,12 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/pl
 #EXTINF:-1 tvg-chno="65" tvg-tags="nfi" tvg-id="" tvg-name="" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/mtvla/picture?width=200&height=200",MTV LA
 http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1 tvg-chno="66" tvg-tags="tdt" tvg-id="Antena3.TV" tvg-name="Antena 3" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/antena3/picture?width=200&height=200",Antena 3
-https://a3m-a3-live-dash.secure.footprint.net/live/nas_live/a3/dash/a3.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=00ff29da4e0598b0de8a5b930b5c969d4997f9010
+https://livestartover.atresmedia.com/antena3/master.m3u8
 #EXTINF:-1 tvg-chno="67" tvg-tags="tdt" tvg-id="LaSexta.TV" tvg-name="laSexta" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/laSexta/picture?width=200&height=200",laSexta
-https://a3m-la6-live-dash.secure.footprint.net/live/nas_live/la6/dash/la6.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=0d5fd1778c0756d5749a2f6ca2c5b63f4984c67cb
+https://livestartover.atresmedia.com/lasexta/master.m3u8
 #EXTINF:-1 tvg-chno="68" tvg-tags="tdt" tvg-id="Neox.TV" tvg-name="Neox" group-title="Comedia" tvg-logo="https://graph.facebook.com/neox/picture?width=200&height=200",Neox
-https://a3m-neox-live-dash.secure.footprint.net/live/nas_live/neox/dash/neox.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=0c83968d0468c93bf4e3e0738e60ece3f3c5ee9c0
+https://livestartover.atresmedia.com/geoneox/master.m3u8
 #EXTINF:-1 tvg-chno="69" tvg-tags="tdt" tvg-id="Nova.TV" tvg-name="Nova" group-title="Drama" tvg-logo="https://graph.facebook.com/novatdt/picture?width=200&height=200",Nova
-https://a3m-nova-live-dash.secure.footprint.net/live/nas_live/nova/dash/nova.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=06b89b965159503223e9617ee4f6d9a022132ea16
+https://livestartover.atresmedia.com/geonova/master.m3u8
 #EXTINF:-1 tvg-chno="70" tvg-tags="tdt" tvg-id="Mega.TV" tvg-name="Mega" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/megaTDT/picture?width=200&height=200",Mega
-https://a3m-mega-live-dash.secure.footprint.net/live/nas_live/mega/dash/mega.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=0fc0dd63e19ae7a86d239b17baad0901a328234d7
-#EXTINF:-1 tvg-chno="71" tvg-tags="tdt" tvg-id="Atreseries.TV" tvg-name="Atreseries" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/atreseries/picture?width=200&height=200",Atreseries
-https://a3m-a3s-live-dash.secure.footprint.net/live/nas_live/a3s/dash/a3s.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=06179f00f76e46bf918b09c17e47079a1efa09954
+https://livestartover.atresmedia.com/geomega/master.m3u8
