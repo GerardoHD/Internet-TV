@@ -137,5 +137,5 @@ https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 #EXTINF:-1 tvg-chno="65" tvg-tags="tdt" tvg-id="Arirang.TV" tvg-name="Arirang TV Korea" group-title="Estilos de Vida" tvg-logo="https://graph.facebook.com/arirangtv/picture?width=200&height=200",Arirang TV
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="65" tvg-tags="nfi" tvg-id="" tvg-name="" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/mtvla/picture?width=200&height=200",MTV LA
+#EXTINF:-1 tvg-chno="66" tvg-tags="nfi" tvg-id="" tvg-name="" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/mtvla/picture?width=200&height=200",MTV LA
 http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
