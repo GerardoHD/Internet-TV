@@ -56,7 +56,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-chno="28" tvg-tags="tdt" tvg-id="RTDoc.TV" tvg-name="RT Documentary" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/RTDocumentary/picture?width=200&height=200",RT Documentary
 https://rt-doc-gd.secure2.footprint.net/1101.m3u8
-#EXTINF:-1 tvg-chno="29" tvg-tags="tdt" tvg-id="SkyN.TV" tvg-name="Sky News UK" group-title="Noticias" tvg-logo="https://graph.facebook.com/skynews/picture?width=200&height=200",Sky News UK
+#EXTINF:-1 tvg-chno="29" tvg-tags="tdt" tvg-id="SkyN.TV" tvg-name="Sky News UK" group-title="Noticias" tvg-logo="https://graph.facebook.com/skynews/picture?width=200&height=200",Sky News
 http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
 #EXTINF:-1 tvg-chno="30" tvg-tags="tdt" tvg-id="" tvg-name="Cheddar USA" group-title="Noticias" tvg-logo="https://graph.facebook.com/cheddar/picture?width=200&height=200",Cheddar
 https://cheddar.samsung.wurl.com/manifest/playlist.m3u8
