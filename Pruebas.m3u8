@@ -16,7 +16,7 @@ https://livestartover.atresmedia.com/lasexta/master.m3u8
 #https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 tvg-chno="8" tvg-tags="TDT" tvg-id="CanalSurA.TV" tvg-name="Canal Sur Andalucía" group-title="Estilos de Vida" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200",Canal Sur Andalucía
-https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
+http://cdnlive.shooowit.net/rtvalive/smil:channelDVR.smil/playlist.m3u8?DVR
 #EXTINF:-1 tvg-chno="9" tvg-tags="NFI" tvg-id="" tvg-name="" group-title="Noticias" tvg-logo="https://graph.facebook.com/mileniotelevision/picture?width=200&height=200",Milenio TV
 http://bcoveliveios-i.akamaihd.net:80/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 #EXTINF:-1 tvg-chno="10" tvg-tags="OFI" tvg-id="" tvg-name="" group-title="Estilos de Vida" tvg-logo="https://graph.facebook.com/microvisioncanal10/picture?width=200&height=200",Microvision 10
