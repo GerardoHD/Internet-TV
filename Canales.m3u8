@@ -4,7 +4,7 @@ https://dai.google.com/linear/hls/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-tags="TDT" tvg-id="La2.TV" tvg-name="La 2" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200",La 2
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-tags="TDT" tvg-id="CanalSurA.TV" tvg-name="Canal Sur Andalucía" group-title="Estilos de Vida" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200",Canal Sur Andalucía
-https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
+http://cdnlive.shooowit.net/rtvalive/smil:channelDVR.smil/playlist.m3u8?DVR
 #EXTINF:-1 tvg-chno="4" tvg-tags="TDT" tvg-id="Cuatro.TV" tvg-name="Cuatro" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/cuatro/picture?width=200&height=200",Cuatro HD
 https://linear02-i.akamaihd.net/hls/live/837811/cuatro/01.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-tags="NFI" tvg-id="" tvg-name="" group-title="Estilos de Vida" tvg-logo="https://graph.facebook.com/5RTvSF/picture?width=200&height=200",5RTV
