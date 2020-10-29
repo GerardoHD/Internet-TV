@@ -89,7 +89,8 @@ https://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/master.m3u8
 #EXTINF:-1 tvg-chno="44" tvg-tags="tdt" tvg-id="Divinity.TV" tvg-name="Divinity" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/divinityes/picture?width=200&height=200",Divinity HD
 https://linear01-i.akamaihd.net/hls/live/837812/divinity/01.m3u8
 #EXTINF:-1 tvg-chno="45" tvg-tags="tdt" tvg-id="" tvg-name="Retro Plus TV Chile" group-title="Música" tvg-logo="https://graph.facebook.com/retroplustv/picture?width=200&height=200",Retro Plus TV
-https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+#https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-chno="46" tvg-tags="tdt" tvg-id="" tvg-name="Garage TV" group-title="Deportes" tvg-logo="https://pbs.twimg.com/profile_images/1169992187314167808/TeabGtEB_200x200.jpg",Garage TV
 http://186.0.233.76:1935/Garage/garage.smil/.m3u8
 #EXTINF:-1 tvg-chno="47" tvg-tags="ofi" tvg-id="" tvg-name="" group-title="Educacion" tvg-logo="https://graph.facebook.com/JusticiaTvMx/picture?width=200&height=200",Justicia TV
