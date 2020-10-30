@@ -9,7 +9,8 @@ https://livestartover.atresmedia.com/antena3/master.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-tags="TDT" tvg-id="Cuatro.TV" tvg-name="Cuatro" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/cuatro/picture?width=200&height=200",Cuatro HD
 https://linear02-i.akamaihd.net/hls/live/837811/cuatro/01.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-tags="NFI" tvg-id="" tvg-name="" group-title="Estilos de Vida" tvg-logo="https://graph.facebook.com/5RTvSF/picture?width=200&height=200",5RTV
-https://api.new.livestream.com/accounts/5RTvSF/events/8242619/live.m3u8
+#https://api.new.livestream.com/accounts/5RTvSF/events/8242619/live.m3u8
+https://player-api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 #EXTINF:-1 tvg-chno="6" tvg-tags="tdt" tvg-id="LaSexta.TV" tvg-name="laSexta" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/laSexta/picture?width=200&height=200",laSexta
 https://livestartover.atresmedia.com/lasexta/master.m3u8
 #EXTINF:-1 tvg-chno="7" tvg-tags="TDT" tvg-id="" tvg-name="Azteca 7" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/aztecasiete/picture?width=200&height=200",Azteca 7
@@ -141,5 +142,5 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/pl
 http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1 tvg-chno="67" tvg-tags="tdt" tvg-id="" tvg-name="Retro Plus TV Chile" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/retroplustv/picture?width=200&height=200",Retro Plus TV 2
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
-#EXTINF:-1 tvg-chno="68" tvg-tags="NFI" tvg-id="" tvg-name="" group-title="Estilos de Vida" tvg-logo="https://graph.facebook.com/TVUNAMoficial/picture?width=200&height=200",tvunam
+#EXTINF:-1 tvg-chno="68" tvg-tags="nfi" tvg-id="" tvg-name="" group-title="Estilos de Vida" tvg-logo="https://graph.facebook.com/TVUNAMoficial/picture?width=200&height=200",tvunam
 https://api.new.livestream.com/accounts/TVUNAM2/events/8970901/live.m3u8
