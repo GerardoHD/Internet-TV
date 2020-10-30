@@ -139,3 +139,7 @@ https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="66" tvg-tags="nfi" tvg-id="" tvg-name="" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/mtvla/picture?width=200&height=200",MTV LA
 http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
+#EXTINF:-1 tvg-chno="67" tvg-tags="tdt" tvg-id="" tvg-name="Retro Plus TV Chile" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/retroplustv/picture?width=200&height=200",Retro Plus TV 2
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
+#EXTINF:-1 tvg-chno="68" tvg-tags="NFI" tvg-id="" tvg-name="" group-title="Estilos de Vida" tvg-logo="https://graph.facebook.com/TVUNAMoficial/picture?width=200&height=200",tvunam
+https://api.new.livestream.com/accounts/TVUNAM2/events/8970901/live.m3u8
