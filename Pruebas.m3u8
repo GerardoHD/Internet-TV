@@ -29,7 +29,7 @@ https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
 #EXTINF:-1 tvg-chno="13" tvg-tags="OFI" tvg-id="" tvg-name="" group-title="Entretenimiento" tvg-logo="https://i.imgur.com/VuvGm3s.png",13 Max
 http://coninfo.net:1935/13maxhd/live_720p/chunklist.m3u8
 #EXTINF:-1 tvg-chno="14" tvg-tags="OFI" tvg-id="" tvg-name="" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/canalcatorcemx/picture?width=200&height=200",Canal Catorce
-https://d3nljkrx6mjqra.cloudfront.net/out/v1/2a01d801265741e581c396e8ad4fa405/index_1.m3u8
+https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
 #EXTINF:-1 tvg-chno="15" tvg-tags="tdt" tvg-id="Telecinco.TV" tvg-name="Telecinco" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/tele5/picture?width=200&height=200",Telecinco HD
 https://linear01-i.akamaihd.net/hls/live/837810/telecinco/01.m3u8
 #EXTINF:-1 tvg-chno="16" tvg-tags="TDT" tvg-id="" tvg-name="Canal 6 Multimedios" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/multimediostv/picture?width=200&height=200",Canal 6 Multimedios
@@ -123,9 +123,8 @@ http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 https://api.new.livestream.com/accounts/16550960/events/8600941/live.m3u8
 #EXTINF:-1 tvg-chno="58" tvg-tags="nfi" tvg-id="" tvg-name="" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/UESTV/picture?width=200&height=200",UESTV
 http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
-#EXTINF:-1 tvg-chno="59" tvg-tags="tdt" tvg-id="" tvg-name="ACS Network" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/acsnetworktv/picture?width=200&height=200",ACS Network
-#https://cdn4.hostlagarto.com:8081/acsnetwork/index.m3u8
-https://cloudflare.streamgato.us:3283/live/acsnetworklive.m3u8
+
+
 #EXTINF:-1 tvg-chno="60" tvg-tags="TDT" tvg-name="Classic Arts Showcase" group-title="Estilos de Vida" tvg-logo="https://pbs.twimg.com/profile_images/956583141245775872/2en3-8Ag_200x200.jpg",Classic Arts Showcase
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 #EXTINF:-1 tvg-chno="61" tvg-tags="TDT" tvg-id="" tvg-name="Redbull TV" group-title="Deportes" tvg-logo="https://graph.facebook.com/RedBull/picture?width=200&height=200",Redbull TV
