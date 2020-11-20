@@ -1,30 +1,30 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-tags="OFI" tvg-id="" tvg-name="" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/aztecauno/picture?width=200&height=200",Azteca uno
+#EXTINF:-1 tvg-chno="1" tvg-tags="OFI" tvg-id="" tvg-name="" group-title="Entretenimiento" tvg-language="spa" tvg-logo="https://graph.facebook.com/aztecauno/picture?width=200&height=200",Azteca uno
 #https://pubads.g.doubleclick.net/ssai/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
 https://dai.google.com/linear/hls/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
-#EXTINF:-1 tvg-chno="2" tvg-tags="TDT" tvg-id="La2.TV" tvg-name="La 2" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200",La 2
+#EXTINF:-1 tvg-chno="2" tvg-tags="TDT" tvg-id="La2.TV" tvg-name="La 2" group-title="Entretenimiento" tvg-language="spa" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200",La 2
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
-#EXTINF:-1 tvg-chno="3" tvg-tags="NFI" tvg-id="" tvg-name="" group-title="Noticias" tvg-logo="https://graph.facebook.com/mileniotelevision/picture?width=200&height=200",Milenio TV
+#EXTINF:-1 tvg-chno="3" tvg-tags="NFI" tvg-id="" tvg-name="" group-title="Noticias" tvg-language="spa" tvg-logo="https://graph.facebook.com/mileniotelevision/picture?width=200&height=200",Milenio TV
 http://bcoveliveios-i.akamaihd.net:80/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-#EXTINF:-1 tvg-chno="4" tvg-tags="TDT" tvg-id="Cuatro.TV" tvg-name="Cuatro" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/cuatro/picture?width=200&height=200",Cuatro HD
+#EXTINF:-1 tvg-chno="4" tvg-tags="TDT" tvg-id="Cuatro.TV" tvg-name="Cuatro" group-title="Entretenimiento" tvg-language="spa" tvg-logo="https://graph.facebook.com/cuatro/picture?width=200&height=200",Cuatro HD
 https://linear02-i.akamaihd.net/hls/live/837811/cuatro/01.m3u8
-#EXTINF:-1 tvg-chno="5" tvg-tags="NFI" tvg-id="" tvg-name="" group-title="Estilos de Vida" tvg-logo="https://graph.facebook.com/5RTvSF/picture?width=200&height=200",5RTV
+#EXTINF:-1 tvg-chno="5" tvg-tags="NFI" tvg-id="" tvg-name="" group-title="Estilos de Vida" tvg-language="spa" tvg-logo="https://graph.facebook.com/5RTvSF/picture?width=200&height=200",5RTV
 #https://api.new.livestream.com/accounts/5RTvSF/events/8242619/live.m3u8
 https://player-api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
-#EXTINF:-1 tvg-chno="6" tvg-tags="TDT" tvg-id="" tvg-name="Canal 6 Multimedios" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/multimediostv/picture?width=200&height=200",Canal 6 Multimedios
+#EXTINF:-1 tvg-chno="6" tvg-tags="TDT" tvg-id="" tvg-name="Canal 6 Multimedios" group-title="Entretenimiento" tvg-language="spa" tvg-logo="https://graph.facebook.com/multimediostv/picture?width=200&height=200",Canal 6 Multimedios
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 tvg-chno="7" tvg-tags="TDT" tvg-id="" tvg-name="Azteca 7" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/aztecasiete/picture?width=200&height=200",Azteca 7
+#EXTINF:-1 tvg-chno="7" tvg-tags="TDT" tvg-id="" tvg-name="Azteca 7" group-title="Entretenimiento" tvg-language="spa" tvg-logo="https://graph.facebook.com/aztecasiete/picture?width=200&height=200",Azteca 7
 #https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-#EXTINF:-1 tvg-chno="8" tvg-tags="TDT" tvg-id="CanalSurA.TV" tvg-name="Canal Sur Andalucía" group-title="Estilos de Vida" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200",Canal Sur Andalucía
+#EXTINF:-1 tvg-chno="8" tvg-tags="TDT" tvg-id="CanalSurA.TV" tvg-name="Canal Sur Andalucía" group-title="Estilos de Vida" tvg-language="spa" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200",Canal Sur Andalucía
 http://cdnlive.shooowit.net/rtvalive/smil:channelDVR.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-chno="9" tvg-tags="tdt" tvg-id="Boing.TV" tvg-name="Boing" group-title="Entretenimiento" tvg-logo="https://graph.facebook.com/boinges/picture?width=200&height=200",Boing HD
+#EXTINF:-1 tvg-chno="9" tvg-tags="tdt" tvg-id="Boing.TV" tvg-name="Boing" group-title="Entretenimiento" tvg-language="spa" tvg-logo="https://graph.facebook.com/boinges/picture?width=200&height=200",Boing HD
 https://linear01-i.akamaihd.net/hls/live/837814/boing/01.m3u8
-#EXTINF:-1 tvg-chno="10" tvg-tags="OFI" tvg-id="" tvg-name="" group-title="Estilos de Vida" tvg-logo="https://graph.facebook.com/microvisioncanal10/picture?width=200&height=200",Microvision 10
+#EXTINF:-1 tvg-chno="10" tvg-tags="OFI" tvg-id="" tvg-name="" group-title="Estilos de Vida" tvg-language="spa" tvg-logo="https://graph.facebook.com/microvisioncanal10/picture?width=200&height=200",Microvision 10
 http://190.103.183.24:1935/live/MicroHD/chunklist_w598827662.m3u8
-#EXTINF:-1 tvg-chno="11" tvg-tags="TDT" tvg-id="" tvg-name="Canal Once Internacional" group-title="Educacion" tvg-logo="https://graph.facebook.com/CANALONCETV/picture?width=200&height=200",Once Internacional
+#EXTINF:-1 tvg-chno="11" tvg-tags="TDT" tvg-id="" tvg-name="Canal Once Internacional" group-title="Educacion" tvg-language="spa" tvg-logo="https://graph.facebook.com/CANALONCETV/picture?width=200&height=200",Once Internacional
 https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="12" tvg-tags="TDT" tvg-id="" tvg-name="Ditty TV USA" group-title="Música" tvg-logo="https://graph.facebook.com/DittyTV/picture?width=200&height=200",Ditty TV
+#EXTINF:-1 tvg-chno="12" tvg-tags="TDT" tvg-id="" tvg-name="Ditty TV USA" group-title="Música" tvg-language="eng" tvg-logo="https://graph.facebook.com/DittyTV/picture?width=200&height=200",Ditty TV
 https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
 #EXTINF:-1 tvg-chno="13" tvg-tags="OFI" tvg-id="" tvg-name="" group-title="Entretenimiento" tvg-logo="https://i.imgur.com/VuvGm3s.png",13 Max
 http://coninfo.net:1935/13maxhd/live_720p/chunklist.m3u8
