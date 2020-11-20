@@ -144,5 +144,5 @@ https://livestartover.atresmedia.com/lasexta/master.m3u8
 http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1 tvg-chno="68" tvg-tags="ofi" tvg-id="" tvg-name="" group-title="Entretenimiento" tvg-language="spa" tvg-logo="https://graph.facebook.com/TelemaxSonora/picture?width=200&height=200",Telemax
 https://5e307acc9a171.streamlock.net:1936/telemax/telemax/playlist.m3u8
-#EXTINF:-1 tvg-chno="69" tvg-tags="ofi" tvg-id="" tvg-name="" group-title="Entretenimiento" tvg-language="spa" tvg-logo="https://graph.facebook.com/Telemundo51/picture?width=200&height=200",Telemundo 51
+#EXTINF:-1 tvg-chno="" tvg-tags="ofi" tvg-id="" tvg-name="" group-title="Entretenimiento" tvg-language="spa" tvg-logo="https://graph.facebook.com/Telemundo51/picture?width=200&height=200",Telemundo 51
 #https://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
