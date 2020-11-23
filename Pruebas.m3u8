@@ -70,7 +70,7 @@ https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:-1 tvg-chno="33" tvg-tags="TDT" tvg-id="RTESP.TV" tvg-name="RT" group-title="Noticias" tvg-language="spa" tvg-logo="https://graph.facebook.com/ActualidadRT/picture?width=200&height=200",RT Noticias
 https://rt-esp-gd.secure2.footprint.net/1102.m3u8
 #EXTINF:-1 tvg-chno="34" tvg-tags="tdt" tvg-id="" tvg-name="Hispan TV Iran" group-title="Noticias" tvg-language="spa" tvg-logo="https://graph.facebook.com/Hispantv/picture?width=200&height=200",Hispan TV
-https://live.hispantv.com/live/smil:live.smil/playlist.m3u8
+https://live1.presstv.com/live/hispan.m3u8
 #EXTINF:-1 tvg-chno="35" tvg-tags="TDT" tvg-id="France24.TV" tvg-name="France 24 Francia" group-title="Noticias" tvg-language="spa" tvg-logo="https://graph.facebook.com/FRANCE24/picture?width=200&height=200",France 24
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-chno="36" tvg-tags="TDT" tvg-id="DW.TV" tvg-name="DW Alemania" group-title="Noticias" tvg-language="spa" tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200",DW Alemania
