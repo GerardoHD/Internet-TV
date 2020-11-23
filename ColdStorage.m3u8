@@ -24,7 +24,7 @@ http://cdnlive.shooowit.net/rtvalive/smil:channelDVR.smil/playlist.m3u8?DVR
 http://190.103.183.24:1935/live/MicroHD/chunklist_w598827662.m3u8
 #EXTINF:-1 tvg-chno="11" tvg-tags="TDT" tvg-language="spa" tvg-country="MX" group-title="Educacion" tvg-id="" tvg-name="Canal Once Internacional" tvg-logo="https://graph.facebook.com/CANALONCETV/picture?width=200&height=200",Once Internacional
 https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="12" tvg-tags="TDT" tvg-language="eng" tvg-country="US" group-title="Música" tvg-id="" tvg-name="Ditty TV USA" tvg-logo="https://graph.facebook.com/DittyTV/picture?width=200&height=200",Ditty TV
+#EXTINF:-1 tvg-chno="12" tvg-tags="TDT" tvg-language="eng" tvg-country="US" group-title="Musica" tvg-id="" tvg-name="Ditty TV USA" tvg-logo="https://graph.facebook.com/DittyTV/picture?width=200&height=200",Ditty TV
 https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
 #EXTINF:-1 tvg-chno="13" tvg-tags="OFI" tvg-language="spa" tvg-country="AR" group-title="Entretenimiento" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VuvGm3s.png",13 Max
 http://coninfo.net:1935/13maxhd/live_720p/chunklist.m3u8
