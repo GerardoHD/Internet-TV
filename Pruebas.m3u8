@@ -6,7 +6,7 @@ https://dai.google.com/linear/hls/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-tags="NFI" tvg-language="spa" tvg-country="MX" group-title="Noticias" tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/mileniotelevision/picture?width=200&height=200",Milenio TV
 http://bcoveliveios-i.akamaihd.net:80/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-#EXTINF:-1 tvg-chno="4" tvg-tags="TDT" tvg-language="spa" offset="-300" tvg-country="" group-title="Noticias" tvg-id="DW.TV" tvg-name="DW Alemania" tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200",DW
+#EXTINF:-1 tvg-chno="4" tvg-tags="TDT" tvg-language="spa" tvg-offset="-420" tvg-country="" group-title="Noticias" tvg-id="DW.TV" tvg-name="DW Alemania" tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200",DW
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-tags="NFI" tvg-language="spa" tvg-country="AR" group-title="Estilo de Vida" tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/5RTvSF/picture?width=200&height=200",5RTV
 #https://api.new.livestream.com/accounts/5RTvSF/events/8242619/live.m3u8
