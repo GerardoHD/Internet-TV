@@ -6,7 +6,7 @@ https://dai.google.com/linear/hls/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-tags="NFI" tvg-language="spa" tvg-country="MX" group-title="Noticias" tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/mileniotelevision/picture?width=200&height=200",Milenio TV
 http://bcoveliveios-i.akamaihd.net:80/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-#EXTINF:-1 tvg-chno="" tvg-tags="tdt" tvg-language="spa" tvg-country="" group-title="Estilo de Vida" tvg-id="NHK.TV" tvg-name="NHK World Japan" tvg-logo="https://graph.facebook.com/nhkworld/picture?width=200&height=200",NHK World Japan
+#EXTINF:-1 tvg-chno="4" tvg-tags="tdt" tvg-language="spa" tvg-country="" group-title="Estilo de Vida" tvg-id="NHK.TV" tvg-name="NHK World Japan" tvg-logo="https://graph.facebook.com/nhkworld/picture?width=200&height=200",NHK World Japan
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-tags="NFI" tvg-language="" tvg-country="AR" group-title="Estilo de Vida" tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/5RTvSF/picture?width=200&height=200",5RTV
 #https://api.new.livestream.com/accounts/5RTvSF/events/8242619/live.m3u8
@@ -16,13 +16,13 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-chno="7" tvg-tags="TDT" tvg-language="spa" tvg-country="MX" group-title="Entretenimiento" tvg-id="" tvg-name="Azteca 7" tvg-logo="https://graph.facebook.com/aztecasiete/picture?width=200&height=200",Azteca 7
 #https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-#EXTINF:-1 tvg-chno="" tvg-tags="tdt" tvg-language="spa" tvg-country="US" group-title="Estilo de Vida" tvg-id="" tvg-name="CBN USA" tvg-logo="https://graph.facebook.com/cbnonline/picture?width=200&height=200",CBN
+#EXTINF:-1 tvg-chno="8" tvg-tags="tdt" tvg-language="spa" tvg-country="US" group-title="Estilo de Vida" tvg-id="" tvg-name="CBN USA" tvg-logo="https://graph.facebook.com/cbnonline/picture?width=200&height=200",CBN
 https://bcliveunivsecure-lh.akamaihd.net/i/iptv2_1@500579/master.m3u8
-#EXTINF:-1 tvg-chno="9" tvg-tags="TDT" tvg-language="spa" tvg-country="ES" group-title="Estilo de Vida" tvg-id="CanalSurA.TV" tvg-name="Canal Sur Andalucía" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200",Canal Sur Andalucía
+#EXTINF:-1 tvg-chno="9" tvg-tags="TDT" tvg-language="spa" tvg-country="ES" group-title="Estilo de Vida" tvg-id="CanalSurA.TV" tvg-name="Canal Sur Andalucía" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200",Canal Sur
 http://cdnlive.shooowit.net/rtvalive/smil:channelDVR.smil/playlist.m3u8?DVR
 #EXTINF:-1 tvg-chno="10" tvg-tags="OFI" tvg-language="spa" tvg-country="DO" group-title="Estilo de Vida" tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/microvisioncanal10/picture?width=200&height=200",Microvision 10
 http://190.103.183.24:1935/live/MicroHD/chunklist_w598827662.m3u8
-#EXTINF:-1 tvg-chno="11" tvg-tags="TDT" tvg-language="spa" tvg-country="MX" group-title="Educacion" tvg-id="" tvg-name="Canal Once Internacional" tvg-logo="https://graph.facebook.com/CANALONCETV/picture?width=200&height=200",Once Internacional
+#EXTINF:-1 tvg-chno="11" tvg-tags="TDT" tvg-language="spa" tvg-country="MX" group-title="Educacion" tvg-id="" tvg-name="Canal Once Internacional" tvg-logo="https://graph.facebook.com/CANALONCETV/picture?width=200&height=200",Once
 https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="12" tvg-tags="TDT" tvg-language="eng" tvg-country="US" group-title="Musica" tvg-id="" tvg-name="Ditty TV USA" tvg-logo="https://graph.facebook.com/DittyTV/picture?width=200&height=200",Ditty TV
 https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
@@ -30,19 +30,19 @@ https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
 http://coninfo.net:1935/13maxhd/live_720p/chunklist.m3u8
 #EXTINF:-1 tvg-chno="14" tvg-tags="OFI" tvg-language="spa" tvg-country="MX" group-title="Entretenimiento" tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/canalcatorcemx/picture?width=200&height=200",Canal Catorce
 https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
-#EXTINF:-1 tvg-tags="tdt" tvg-language="spa" tvg-country="" group-title="Estilo de Vida" tvg-id="CGTN.TV" tvg-name="CGTN" tvg-logo="https://graph.facebook.com/cgtnenespanol/picture?width=200&height=200",CGTN
+#EXTINF:-1 tvg-chno="15" tvg-tags="tdt" tvg-language="spa" tvg-country="" group-title="Estilo de Vida" tvg-id="CGTN.TV" tvg-name="CGTN" tvg-logo="https://graph.facebook.com/cgtnenespanol/picture?width=200&height=200",CGTN
 https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-tags="nfi" tvg-language="spa" tvg-country="PR" group-title="Entretenimiento" tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/wiprtv/picture?width=200&height=200",WIPR
-#https://api.new.livestream.com/accounts/16550960/events/8600941/live.m3u8
-https://api.new.livestream.com/accounts/wipr/events/8600941/live.m3u8
-#EXTINF:-1 tvg-chno="" tvg-tags="tdt" tvg-language="" tvg-country="CL" group-title="Entretenimiento" tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/retroplustv/picture?width=200&height=200",Retro Plus TV
+#EXTINF:-1 tvg-chno="16" tvg-tags="nfi" tvg-language="spa" tvg-country="AR" group-title="Entretenimiento" tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/cpetvcanal2/picture?width=200&height=200",CPEtv
+https://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/master.m3u8
+#EXTINF:-1 tvg-chno="17" tvg-tags="tdt" tvg-language="" tvg-country="CL" group-title="Entretenimiento" tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/retroplustv/picture?width=200&height=200",Retro Plus TV
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
-#EXTINF:-1 tvg-chno="" tvg-tags="nfi" tvg-language="spa" tvg-country="CR" group-title="Entretenimiento" tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/TeleSURCostaRica/picture?width=200&height=200",Telesur
+#EXTINF:-1 tvg-chno="18" tvg-tags="nfi" tvg-language="spa" tvg-country="CR" group-title="Entretenimiento" tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/TeleSURCostaRica/picture?width=200&height=200",Telesur
 #http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 https://5e307acc9a171.streamlock.net:1936/telemax/telemax/playlist.m3u8
-#EXTINF:-1 tvg-chno="" tvg-tags="nfi" tvg-language="spa" tvg-country="AR" group-title="Entretenimiento" tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/cpetvcanal2/picture?width=200&height=200",CPEtv
-https://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/master.m3u8
-#EXTINF:-1 tvg-chno="" tvg-tags="tdt" tvg-language="spa" tvg-country="ES" group-title="Entretenimiento" tvg-id="Distrito.TV" tvg-name="Distrito TV" tvg-logo="https://graph.facebook.com/2004860103163343/picture?width=200&height=200",Distrito TV
+#EXTINF:-1 tvg-chno="19" tvg-tags="nfi" tvg-language="spa" tvg-country="PR" group-title="Entretenimiento" tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/wiprtv/picture?width=200&height=200",WIPR
+#https://api.new.livestream.com/accounts/16550960/events/8600941/live.m3u8
+https://api.new.livestream.com/accounts/wipr/events/8600941/live.m3u8
+#EXTINF:-1 tvg-chno="20" tvg-tags="tdt" tvg-language="spa" tvg-country="ES" group-title="Entretenimiento" tvg-id="Distrito.TV" tvg-name="Distrito TV" tvg-logo="https://graph.facebook.com/2004860103163343/picture?width=200&height=200",Distrito TV
 https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
 #EXTINF:-1 tvg-chno="21" tvg-tags="OFI" tvg-language="spa" tvg-country="MX" group-title="Estilo de Vida" tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/Capital21/picture?width=200&height=200",Capital 21
 https://video.cdmx.gob.mx/livestream/stream.m3u8
@@ -50,29 +50,29 @@ https://video.cdmx.gob.mx/livestream/stream.m3u8
 https://5e50264bd6766.streamlock.net/canal22/smil:canal22.smil/chunklist_w1978382888_b978000_sleng.m3u8
 #EXTINF:-1 tvg-chno="23" tvg-tags="OFI" tvg-language="spa" tvg-country="MX" group-title="Educacion" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/U2JblvH.png",Canal 22-2
 https://5e50264bd6766.streamlock.net/canal222/smil:canal222.smil/chunklist_w786836973_b978000_sleng.m3u8
-#EXTINF:-1 tvg-chno="" tvg-tags="ofi" tvg-language="spa" tvg-country="MX" group-title="Educacion" tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/JusticiaTvMx/picture?width=200&height=200",Justicia TV
+#EXTINF:-1 tvg-chno="24" tvg-tags="ofi" tvg-language="spa" tvg-country="MX" group-title="Educacion" tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/JusticiaTvMx/picture?width=200&height=200",Justicia TV
 #https://live.scjn.gob.mx/EVLiveSCJN/_definst_/mp4:YXWKLCDT/chunklist_w1919847559.m3u8
 https://live.scjn.gob.mx/EVLiveSCJN/_definst_/mp4:YXWKLCDT/chunklist_w679972217.m3u8
-#EXTINF:-1 ttvg-chno="" tvg-tags="ofi" tvg-language="spa" tvg-country="MX" group-title="Educacion" tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/TVMAS/picture?width=200&height=200",TV MÁS
+#EXTINF:-1 ttvg-chno="25" tvg-tags="ofi" tvg-language="spa" tvg-country="MX" group-title="Educacion" tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/TVMAS/picture?width=200&height=200",TV MÁS
 https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w2116443559.m3u8
-#EXTINF:-1 tvg-chno="" tvg-tags="nfi" tvg-language="spa" tvg-country="MX" group-title="Educacion" tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/TVUNAMoficial/picture?width=200&height=200",tvunam
+#EXTINF:-1 tvg-chno="26" tvg-tags="nfi" tvg-language="spa" tvg-country="MX" group-title="Educacion" tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/TVUNAMoficial/picture?width=200&height=200",tvunam
 https://api.new.livestream.com/accounts/TVUNAM2/events/8970901/live.m3u8
-#EXTINF:-1 tvg-chno="" tvg-tags="ofi" tvg-language="spa" tvg-country="MX" group-title="Entretenimiento" tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/amastv/picture?width=200&height=200",A+
+#EXTINF:-1 tvg-chno="27" tvg-tags="ofi" tvg-language="spa" tvg-country="MX" group-title="Entretenimiento" tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/amastv/picture?width=200&height=200",A+
 #https://pubads.g.doubleclick.net/ssai/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
 https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
-#EXTINF:-1 tvg-chno="" tvg-tags="tdt" tvg-language="eng" tvg-country="US" group-title="Deportes" tvg-id="" tvg-name="Redbull TV" tvg-logo="https://graph.facebook.com/RedBull/picture?width=200&height=200",Redbull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-chno="" tvg-tags="nfi" tvg-language="spa" tvg-country="CL" group-title="Entretenimiento" tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/UESTV/picture?width=200&height=200",UESTV
+#EXTINF:-1 tvg-chno="28" tvg-tags="nfi" tvg-language="spa" tvg-country="CL" group-title="Entretenimiento" tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/UESTV/picture?width=200&height=200",UESTV
 http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
-#EXTINF:-1 tvg-chno="" tvg-tags="tdt" tvg-language="spa" tvg-country="CL" group-title="Musica" tvg-id="" tvg-name="Retro Plus TV Chile" tvg-logo="https://graph.facebook.com/retroplustv/picture?width=200&height=200",Retro Plus
+#EXTINF:-1 tvg-chno="29" tvg-tags="tdt" tvg-language="eng" tvg-country="US" group-title="Deportes" tvg-id="" tvg-name="Redbull TV" tvg-logo="https://graph.facebook.com/RedBull/picture?width=200&height=200",Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-chno="30" tvg-tags="tdt" tvg-language="spa" tvg-country="CL" group-title="Musica" tvg-id="" tvg-name="Retro Plus TV Chile" tvg-logo="https://graph.facebook.com/retroplustv/picture?width=200&height=200",Retro Plus
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
-#EXTINF:-1 tvg-chno="" tvg-tags="tdt" tvg-language="eng" tvg-country="US" group-title="Artes" tvg-id="" tvg-name="Classic Arts Showcase" tvg-logo="https://pbs.twimg.com/profile_images/956583141245775872/2en3-8Ag_200x200.jpg",Classic Arts Showcase
+#EXTINF:-1 tvg-chno="31" tvg-tags="tdt" tvg-language="eng" tvg-country="US" group-title="Artes" tvg-id="" tvg-name="Classic Arts Showcase" tvg-logo="https://pbs.twimg.com/profile_images/956583141245775872/2en3-8Ag_200x200.jpg",Classic Arts Showcase
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
-#EXTINF:-1 tvg-chno="" tvg-tags="tdt" tvg-language="eng" tvg-country="SG" group-title="Noticias" tvg-id="" tvg-name="Channel NewsAsia" tvg-logo="https://graph.facebook.com/ChannelNewsAsia/picture?width=200&height=200",Channel NewsAsia
+#EXTINF:-1 tvg-chno="32" tvg-tags="tdt" tvg-language="eng" tvg-country="SG" group-title="Noticias" tvg-id="" tvg-name="Channel NewsAsia" tvg-logo="https://graph.facebook.com/ChannelNewsAsia/picture?width=200&height=200",Channel NewsAsia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 tvg-chno="" tvg-tags="tdt" tvg-language="eng" tvg-country="UK" group-title="Noticias" tvg-id="SkyN.TV" tvg-name="Sky News UK" tvg-logo="https://graph.facebook.com/skynews/picture?width=200&height=200",Sky News
+#EXTINF:-1 tvg-chno="33" tvg-tags="tdt" tvg-language="eng" tvg-country="UK" group-title="Noticias" tvg-id="SkyN.TV" tvg-name="Sky News UK" tvg-logo="https://graph.facebook.com/skynews/picture?width=200&height=200",Sky News
 http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
-#EXTINF:-1 tvg-chno="" tvg-tags="tdt" tvg-language="eng" tvg-country="US" group-title="Noticias" tvg-id="" tvg-name="ABC News USA" tvg-logo="https://graph.facebook.com/ABCNews/picture?width=200&height=200",ABC News
+#EXTINF:-1 tvg-chno="34" tvg-tags="tdt" tvg-language="eng" tvg-country="US" group-title="Noticias" tvg-id="" tvg-name="ABC News USA" tvg-logo="https://graph.facebook.com/ABCNews/picture?width=200&height=200",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-chno="35" tvg-tags="TDT" tvg-language="spa" tvg-country="" group-title="Noticias" tvg-id="France24.TV" tvg-name="France 24 Francia" tvg-logo="https://graph.facebook.com/FRANCE24/picture?width=200&height=200",France 24
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
@@ -80,14 +80,14 @@ http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 https://rt-esp-gd.secure2.footprint.net/1102.m3u8
 #EXTINF:-1 tvg-chno="37" tvg-tags="TDT" tvg-language="spa" tvg-country="" group-title="Noticias" tvg-id="DW.TV" tvg-name="DW Alemania" tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200",DW Alemania
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
-#EXTINF:-1 tvg-chno="" tvg-tags="tdt" tvg-language="spa" tvg-country="MX" group-title="Noticias" tvg-id="" tvg-name="FORO TV" tvg-logo="https://graph.facebook.com/FOROtv/picture?width=200&height=200",FORO TV
+#EXTINF:-1 tvg-chno="38" tvg-tags="tdt" tvg-language="spa" tvg-country="MX" group-title="Noticias" tvg-id="" tvg-name="FORO TV" tvg-logo="https://graph.facebook.com/FOROtv/picture?width=200&height=200",FORO TV
 https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/master.m3u8
-#EXTINF:-1 tvg-chno="" tvg-tags="nfi" tvg-language="spa" tvg-country="MX" group-title="Noticias" tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/TeleFormula/picture?width=200&height=200",TeleFormula
+#EXTINF:-1 tvg-chno="39" tvg-tags="nfi" tvg-language="spa" tvg-country="MX" group-title="Noticias" tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/TeleFormula/picture?width=200&height=200",TeleFormula
 https://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 #EXTINF:-1 tvg-chno="40" tvg-tags="TDT" tvg-language="spa" tvg-country="MX" group-title="Noticias" tvg-id="" tvg-name="ADN40 Mexico" tvg-logo="https://graph.facebook.com/ADN40mx/picture?width=200&height=200",ADN40
 #https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 https://dai.google.com/linear/hls/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
-#EXTINF:-1 tvg-chno="" tvg-tags="tdt" tvg-language="spa" tvg-country="ES" group-title="Entretenimiento" tvg-id="Antena3.TV" tvg-name="Antena 3" tvg-logo="https://graph.facebook.com/antena3/picture?width=200&height=200",Antena 3
+#EXTINF:-1 tvg-chno="41" tvg-tags="tdt" tvg-language="spa" tvg-country="ES" group-title="Entretenimiento" tvg-id="Antena3.TV" tvg-name="Antena 3" tvg-logo="https://graph.facebook.com/antena3/picture?width=200&height=200",Antena 3
 https://livestartover.atresmedia.com/antena3/master.m3u8
-#EXTINF:-1 tvg-chno="" tvg-tags="tdt" tvg-language="spa" tvg-country="ES" group-title="Entretenimiento" tvg-id="LaSexta.TV" tvg-name="laSexta" tvg-logo="https://graph.facebook.com/laSexta/picture?width=200&height=200",laSexta
+#EXTINF:-1 tvg-chno="42" tvg-tags="tdt" tvg-language="spa" tvg-country="ES" group-title="Entretenimiento" tvg-id="LaSexta.TV" tvg-name="laSexta" tvg-logo="https://graph.facebook.com/laSexta/picture?width=200&height=200",laSexta
 https://livestartover.atresmedia.com/lasexta/master.m3u8
