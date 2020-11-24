@@ -91,5 +91,3 @@ https://dai.google.com/linear/hls/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 https://livestartover.atresmedia.com/antena3/master.m3u8
 #EXTINF:-1 tvg-chno="42" tvg-tags="tdt" tvg-language="spa" tvg-country="ES" group-title="Entretenimiento" tvg-id="LaSexta.TV" tvg-name="laSexta" tvg-logo="https://graph.facebook.com/laSexta/picture?width=200&height=200",laSexta
 https://livestartover.atresmedia.com/lasexta/master.m3u8
-#EXTINF:-1 tvg-id="CANAL 2 HD" tvg-logo="CANAL 2 HD.png",CANAL DE LAS ESTRELLAS [COLOR green]--ON LINE--[/COLOR]
-http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
