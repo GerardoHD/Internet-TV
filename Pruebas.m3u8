@@ -84,7 +84,7 @@ https://rt-esp-gd.secure2.footprint.net/1102.m3u8
 https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/master.m3u8
 #EXTINF:-1 tvg-chno="39" tvg-tags="nfi" tvg-language="spa" tvg-country="MX" group-title="Noticias" tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/TeleFormula/picture?width=200&height=200",TeleFormula
 https://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
-#EXTINF:-1 tvg-chno="40" tvg-tags="TDT" tvg-language="spa" tvg-country="MX" group-title="Noticias" tvg-id="1039" tvg-name="ADN40 Mexico" tvg-url="https://github.com/GerardoHD/Internet-TV/blob/master/ADN40.xml" tvg-logo="https://graph.facebook.com/ADN40mx/picture?width=200&height=200",ADN40
+#EXTINF:-1 tvg-chno="40" tvg-tags="TDT" tvg-language="spa" tvg-country="MX" group-title="Noticias" tvg-id="1039" tvg-name="ADN40 Mexico" tvg-url="https://raw.githubusercontent.com/GerardoHD/Internet-TV/master/ADN40.xml" tvg-logo="https://graph.facebook.com/ADN40mx/picture?width=200&height=200",ADN40
 #https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 https://dai.google.com/linear/hls/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 #EXTINF:-1 tvg-chno="41" tvg-tags="tdt" tvg-language="spa" tvg-country="ES" group-title="Entretenimiento" tvg-id="Antena3.TV" tvg-name="Antena 3" tvg-logo="https://graph.facebook.com/antena3/picture?width=200&height=200",Antena 3
