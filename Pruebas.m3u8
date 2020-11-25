@@ -39,8 +39,7 @@ https://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/master.m3u8
 #EXTINF:-1 tvg-chno="18" tvg-tags="tdt" tvg-language="spa" tvg-country="CL" group-title="Entretenimiento" tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/retroplustv/picture?width=200&height=200",Retro Plus TV
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
 #EXTINF:-1 tvg-chno="19" tvg-tags="nfi" tvg-language="spa" tvg-country="CR" group-title="Entretenimiento" tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/TeleSURCostaRica/picture?width=200&height=200",Telesur
-#http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
-https://5e307acc9a171.streamlock.net:1936/telemax/telemax/playlist.m3u8
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 #EXTINF:-1 tvg-chno="20" tvg-tags="nfi" tvg-language="spa" tvg-country="PR" group-title="Entretenimiento" tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/wiprtv/picture?width=200&height=200",WIPR
 #https://api.new.livestream.com/accounts/16550960/events/8600941/live.m3u8
 https://api.new.livestream.com/accounts/wipr/events/8600941/live.m3u8
@@ -84,7 +83,7 @@ https://rt-esp-gd.secure2.footprint.net/1102.m3u8
 https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/master.m3u8
 #EXTINF:-1 tvg-chno="39" tvg-tags="nfi" tvg-language="spa" tvg-country="MX" group-title="Noticias" tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/TeleFormula/picture?width=200&height=200",TeleFormula
 https://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
-#EXTINF:-1 tvg-chno="40" tvg-tags="TDT" tvg-language="spa" tvg-country="MX" group-title="Noticias" tvg-id="1039" tvg-name="ADN40 Mexico" tvg-url="https://raw.githubusercontent.com/GerardoHD/Internet-TV/master/ADN40.xml" tvg-logo="https://graph.facebook.com/ADN40mx/picture?width=200&height=200",ADN40
+#EXTINF:-1 tvg-chno="40" tvg-tags="TDT" tvg-language="spa" tvg-country="MX" group-title="Noticias" tvg-id="" tvg-name="ADN40 Mexico" tvg-logo="https://graph.facebook.com/ADN40mx/picture?width=200&height=200",adn40
 #https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 https://dai.google.com/linear/hls/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 #EXTINF:-1 tvg-chno="41" tvg-tags="tdt" tvg-language="spa" tvg-country="ES" group-title="Entretenimiento" tvg-id="Antena3.TV" tvg-name="Antena 3" tvg-logo="https://graph.facebook.com/antena3/picture?width=200&height=200",Antena 3

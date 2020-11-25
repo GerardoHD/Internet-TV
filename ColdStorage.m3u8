@@ -59,8 +59,7 @@ https://api.new.livestream.com/accounts/wipr/events/8600941/live.m3u8
 #EXTINF:-1 tvg-chno="27" tvg-tags="tdt" tvg-language="" tvg-country="CL" group-title="Entretenimiento" tvg-id="" tvg-name="Retro Plus TV Chile" tvg-logo="https://graph.facebook.com/retroplustv/picture?width=200&height=200",Retro Plus TV
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
 #EXTINF:-1 tvg-chno="28" tvg-tags="nfi" tvg-language="spa" tvg-country="CR" group-title="Entretenimiento" tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/TeleSURCostaRica/picture?width=200&height=200",Telesur
-#http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
-https://5e307acc9a171.streamlock.net:1936/telemax/telemax/playlist.m3u8
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 #EXTINF:-1 tvg-chno="29" tvg-tags="nfi" tvg-language="spa" tvg-country="AR" group-title="Entretenimiento" tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/cpetvcanal2/picture?width=200&height=200",CPEtv
 https://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/master.m3u8
 #EXTINF:-1 tvg-chno="30" tvg-tags="tdt" tvg-language="eng" tvg-country="US" group-title="Deportes" tvg-id="" tvg-name="Redbull TV" tvg-logo="https://graph.facebook.com/RedBull/picture?width=200&height=200",Redbull TV
@@ -84,7 +83,7 @@ https://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 #EXTINF:-1 tvg-chno="39" tvg-tags="ofi" tvg-language="spa" tvg-country="MX" group-title="Noticias" tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/AMXNoticias/picture?width=200&height=200",AMX Noticias
 #https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w691333358.m3u8
 #https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-#EXTINF:-1 tvg-chno="40" tvg-tags="TDT" tvg-language="spa" tvg-country="MX" group-title="Noticias" tvg-id="" tvg-name="ADN40 Mexico" tvg-logo="https://graph.facebook.com/ADN40mx/picture?width=200&height=200",ADN40
+#EXTINF:-1 tvg-chno="40" tvg-tags="TDT" tvg-language="spa" tvg-country="MX" group-title="Noticias" tvg-id="" tvg-name="ADN40 Mexico" tvg-logo="https://graph.facebook.com/ADN40mx/picture?width=200&height=200",adn40
 #https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 https://dai.google.com/linear/hls/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 #EXTINF:-1 tvg-chno="41" tvg-tags="nfi" tvg-language="spa" tvg-country="MX" group-title="Educacion" tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/CANALONCETV/picture?width=200&height=200",Once Nacional
