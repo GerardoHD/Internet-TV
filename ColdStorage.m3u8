@@ -68,7 +68,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 tvg-chno="32" tvg-tags="tdt" tvg-language="eng" tvg-country="UK" group-title="Noticias" tvg-id="SkyN.TV" tvg-name="Sky News UK" tvg-logo="https://graph.facebook.com/skynews/picture?width=200&height=200",Sky News
 http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
-#EXTINF:-1 tvg-chno="33 tvg-tags="tdt" tvg-language="eng" tvg-country="US" group-title="Noticias" tvg-id="" tvg-name="ABC News USA" tvg-logo="https://graph.facebook.com/ABCNews/picture?width=200&height=200",ABC News
+#EXTINF:-1 tvg-chno="33" tvg-tags="tdt" tvg-language="eng" tvg-country="US" group-title="Noticias" tvg-id="" tvg-name="ABC News USA" tvg-logo="https://graph.facebook.com/ABCNews/picture?width=200&height=200",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-chno="34" tvg-tags="TDT" tvg-language="spa" tvg-country="" group-title="Noticias" tvg-id="France24.TV" tvg-name="France 24 Francia" tvg-logo="https://graph.facebook.com/FRANCE24/picture?width=200&height=200",France 24
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
