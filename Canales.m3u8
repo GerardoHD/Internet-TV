@@ -61,7 +61,7 @@ http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-chno="31" tvg-tags="tdt" tvg-language="eng" tvg-country="US" group-title="Deportes" tvg-id="" tvg-name="Redbull TV" tvg-logo="https://graph.facebook.com/RedBull/picture?width=200&height=200",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-chno="32" tvg-tags="tdt" tvg-language="eng" tvg-country="US" group-title="Artes" tvg-id="" tvg-name="Classic Arts Showcase" tvg-logo="https://pbs.twimg.com/profile_images/956583141245775872/2en3-8Ag_200x200.jpg",Classic Arts Showcase
+#EXTINF:-1 tvg-chno="32" tvg-tags="tdt" tvg-language="eng" tvg-country="US" group-title="Arte" tvg-id="" tvg-name="Classic Arts Showcase" tvg-logo="https://pbs.twimg.com/profile_images/956583141245775872/2en3-8Ag_200x200.jpg",Classic Arts Showcase
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 #EXTINF:-1 tvg-chno="33" tvg-tags="tdt" tvg-language="eng" tvg-country="SG" group-title="Noticias" tvg-id="" tvg-name="Channel NewsAsia" tvg-logo="https://graph.facebook.com/ChannelNewsAsia/picture?width=200&height=200",Channel NewsAsia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8

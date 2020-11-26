@@ -102,7 +102,7 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 #EXTINF:-1 tvg-chno="47" tvg-tags="ofi" tvg-language="spa" tvg-country="MX" group-title="Entretenimiento" tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/amastv/picture?width=200&height=200",A+
 #https://pubads.g.doubleclick.net/ssai/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
 https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
-#EXTINF:-1 tvg-chno="48" tvg-tags="tdt" tvg-language="eng" tvg-country="US" group-title="Artes" tvg-id="" tvg-name="Classic Arts Showcase" tvg-logo="https://pbs.twimg.com/profile_images/956583141245775872/2en3-8Ag_200x200.jpg",Classic Arts Showcase
+#EXTINF:-1 tvg-chno="48" tvg-tags="tdt" tvg-language="eng" tvg-country="US" group-title="Arte" tvg-id="" tvg-name="Classic Arts Showcase" tvg-logo="https://pbs.twimg.com/profile_images/956583141245775872/2en3-8Ag_200x200.jpg",Classic Arts Showcase
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 #EXTINF:-1 tvg-chno="49" tvg-tags="tdt" tvg-language="spa" tvg-country="ES" group-title="Entretenimiento" tvg-id="Divinity.TV" tvg-name="Divinity" tvg-logo="https://graph.facebook.com/divinityes/picture?width=200&height=200",Divinity HD
 #https://linear01-i.akamaihd.net/hls/live/837812/divinity/01.m3u8
