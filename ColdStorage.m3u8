@@ -56,7 +56,7 @@ https://api.new.livestream.com/accounts/TVUNAM2/events/8970901/live.m3u8
 #EXTINF:-1 tvg-chno="26" tvg-tags="nfi" tvg-language="spa" tvg-country="PR" group-title="Entretenimiento" tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/wiprtv/picture?width=200&height=200",WIPR
 #https://api.new.livestream.com/accounts/16550960/events/8600941/live.m3u8
 https://api.new.livestream.com/accounts/wipr/events/8600941/live.m3u8
-#EXTINF:-1 tvg-chno="27" tvg-tags="tdt" tvg-language="" tvg-country="CL" group-title="Entretenimiento" tvg-id="" tvg-name="Retro Plus TV Chile" tvg-logo="https://graph.facebook.com/retroplustv/picture?width=200&height=200",Retro Plus TV
+#EXTINF:-1 tvg-chno="27" tvg-tags="tdt" tvg-language="" tvg-country="CL" group-title="Películas" tvg-id="" tvg-name="Retro Plus TV Chile" tvg-logo="https://graph.facebook.com/retroplustv/picture?width=200&height=200",Retro Plus TV
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
 #EXTINF:-1 tvg-chno="28" tvg-tags="nfi" tvg-language="spa" tvg-country="CR" group-title="Entretenimiento" tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/TeleSURCostaRica/picture?width=200&height=200",Telesur
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
