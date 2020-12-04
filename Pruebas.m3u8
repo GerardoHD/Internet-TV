@@ -86,9 +86,5 @@ https://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 #EXTINF:-1 tvg-chno="40" tvg-tags="TDT" tvg-language="spa" tvg-country="MX" group-title="Noticias" tvg-id="" tvg-name="ADN40 Mexico" tvg-logo="https://graph.facebook.com/ADN40mx/picture?width=200&height=200",adn40
 #https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 https://dai.google.com/linear/hls/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
-#EXTINF:-1 tvg-chno="41" tvg-tags="tdt" tvg-language="spa" tvg-country="ES" group-title="Entretenimiento" tvg-id="Antena3.TV" tvg-name="Antena 3" tvg-logo="https://graph.facebook.com/antena3/picture?width=200&height=200",Antena 3
-https://livestartover.atresmedia.com/antena3/master.m3u8
-#EXTINF:-1 tvg-chno="42" tvg-tags="tdt" tvg-language="spa" tvg-country="ES" group-title="Entretenimiento" tvg-id="LaSexta.TV" tvg-name="laSexta" tvg-logo="https://graph.facebook.com/laSexta/picture?width=200&height=200",laSexta
-https://livestartover.atresmedia.com/lasexta/master.m3u8
-#EXTINF:-1 tvg-chno="43" tvg-tags="ofi" tvg-language="spa" tvg-country="MX" group-title="Entretenimiento" tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/TelemaxSonora/picture?width=200&height=200",Telemax
+#EXTINF:-1 tvg-chno="41" tvg-tags="ofi" tvg-language="spa" tvg-country="MX" group-title="Entretenimiento" tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/TelemaxSonora/picture?width=200&height=200",Telemax
 https://5e307acc9a171.streamlock.net:1936/telemax/telemax/playlist.m3u8
