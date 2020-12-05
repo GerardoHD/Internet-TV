@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-tags="OFI" tvg-language="spa" tvg-country="MX" group-title="Entretenimiento" tvg-id="" tvg-name="" parent-code="4815" audio-track="es" tvg-logo="https://graph.facebook.com/aztecauno/picture?width=200&height=200",Azteca uno
+#EXTINF:-1 tvg-chno="1" tvg-tags="OFI" tvg-language="spa" tvg-country="MX" group-title="Entretenimiento" tvg-id="" tvg-name="" parent-code="1234" audio-track="es" tvg-logo="https://graph.facebook.com/aztecauno/picture?width=200&height=200",Azteca uno
 #https://pubads.g.doubleclick.net/ssai/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
 https://dai.google.com/linear/hls/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-tags="TDT" tvg-language="spa" tvg-country="ES" group-title="Entretenimiento" tvg-id="La2.TV" tvg-name="La 2" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200",La 2
