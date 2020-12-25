@@ -31,7 +31,9 @@ http://coninfo.net:1935/13maxhd/live_720p/chunklist.m3u8
 #EXTINF:-1 tvg-chno="14" tvg-tags="OFI" tvg-language="spa" tvg-country="MX" group-title="Entretenimiento" tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/canalcatorcemx/picture?width=200&height=200",Canal Catorce
 https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
 #EXTINF:-1 tvg-chno="15" tvg-tags="tdt" tvg-language="jpn,eng" tvg-country="" group-title="Estilos de Vida" tvg-id="NHK.TV" tvg-name="NHK World Japan" tvg-logo="https://graph.facebook.com/nhkworld/picture?width=200&height=200",NHK World Japan
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/sycc-live/es/playlist.m3u8
 #EXTINF:-1 tvg-chno="16" tvg-tags="tdt" tvg-language="spa" tvg-country="" group-title="Estilos de Vida" tvg-id="CGTN.TV" tvg-name="CGTN" tvg-logo="https://graph.facebook.com/cgtnenespanol/picture?width=200&height=200",CGTN
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-chno="17" tvg-tags="nfi" tvg-language="spa" tvg-country="AR" group-title="Entretenimiento" tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/cpetvcanal2/picture?width=200&height=200",CPEtv
