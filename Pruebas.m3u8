@@ -54,7 +54,8 @@ https://5e50264bd6766.streamlock.net/canal222/smil:canal222.smil/chunklist_w7868
 #EXTINF:-1 tvg-chno="24" tvg-tags="ofi" tvg-language="spa" tvg-country="MX" group-title="Educación" tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/JusticiaTvMx/picture?width=200&height=200",Justicia TV
 #https://live.scjn.gob.mx/EVLiveSCJN/_definst_/mp4:YXWKLCDT/chunklist_w1919847559.m3u8
 #https://live.scjn.gob.mx/EVLiveSCJN/_definst_/mp4:YXWKLCDT/chunklist_w679972217.m3u8
-https://live.scjn.gob.mx/EVLiveSCJN/_definst_/mp4:YXWKLCDT/playlist.m3u8
+#https://live.scjn.gob.mx/EVLiveSCJN/_definst_/mp4:YXWKLCDT/playlist.m3u8
+https://live.scjn.gob.mx/EVLiveSCJN/_definst_/mp4:YXWKLCDT/chunklist_w1725901979.m3u8
 #EXTINF:-1 tvg-chno="25" tvg-tags="nfi" tvg-language="spa" tvg-country="MX" group-title="Educación" tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/TVUNAMoficial/picture?width=200&height=200",tvunam
 https://api.new.livestream.com/accounts/TVUNAM2/events/8970901/live.m3u8
 #EXTINF:-1 tvg-chno="26" tvg-tags="ofi" tvg-language="spa" tvg-country="MX" group-title="Educación" tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/TVMAS/picture?width=200&height=200",TV MÁS
