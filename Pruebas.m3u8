@@ -92,3 +92,6 @@ https://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 https://dai.google.com/linear/hls/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 #EXTINF:-1 tvg-chno="41" tvg-tags="ofi" tvg-language="spa" tvg-country="MX" group-title="Entretenimiento" tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/TelemaxSonora/picture?width=200&height=200",Telemax
 https://5e307acc9a171.streamlock.net:1936/telemax/telemax/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="42" tvg-tags="ofi" tvg-language="spa" tvg-country="MX" group-title="Entretenimiento" tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/TelemaxSonora/picture?width=200&height=200",Canal del Congreso
+https://liveingesta118.cdnmedia.tv/cngmexicolive/smil:senadores3.smil/playlist.m3u8
