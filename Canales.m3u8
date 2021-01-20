@@ -5,7 +5,7 @@ https://dai.google.com/linear/hls/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-tags="NFI" tvg-language="spa" tvg-country="MX" group-title="Noticias" tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/mileniotelevision/picture?width=200&height=200",Milenio TV
 http://bcoveliveios-i.akamaihd.net:80/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-#EXTINF:-1 tvg-chno="4" tvg-tags="TDT" tvg-language="spa" tvg-country="" group-title="Noticias" tvg-id="France24.TV" tvg-name="France 24 Francia" tvg-logo="https://graph.facebook.com/FRANCE24/picture?width=200&height=200",France 24
+#EXTINF:-1 tvg-chno="4" tvg-tags="TDT" tvg-language="spa" tvg-country="" group-title="Estilos de Vida" tvg-id="France24.TV" tvg-name="France 24 Francia" tvg-logo="https://graph.facebook.com/FRANCE24/picture?width=200&height=200",France 24
 https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-tags="NFI" tvg-language="spa" tvg-country="AR" group-title="Estilos de Vida" tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/5RTvSF/picture?width=200&height=200",5RTV
 https://player-api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
