@@ -22,7 +22,7 @@ https://rt-esp-gd.secure2.footprint.net/1102.m3u8
 #EXTINF:-1 tvg-chno="7" tvg-tags="tdt" tvg-language="spa" tvg-country="ES" tvg-shift="" tvg-id="Extremadura.TV" group-title="Estilos de Vida" tvg-name="Canal Extremadura" tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200",Canal Extremadura
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="8" tvg-tags="TDT" tvg-language="spa" tvg-country="DE" tvg-shift="-7" tvg-id="DW.TV" group-title="Noticias" tvg-name="DW Alemania" tvg-logo="https://graph.facebook.com//picture?width=200&height=200",DW
+#EXTINF:-1 tvg-chno="8" tvg-tags="TDT" tvg-language="spa" tvg-country="DE" tvg-shift="-7" tvg-id="DW.TV" group-title="Noticias" tvg-name="DW Alemania" tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200",DW
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 
 #EXTINF:-1 tvg-chno="9" tvg-tags="TDT" tvg-language="spa" tvg-country="ES" tvg-shift="" tvg-id="CanalSurA.TV" group-title="Estilos de Vida" tvg-name="Canal Sur Andalucía" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200",Canal Sur Andalucía
@@ -75,7 +75,7 @@ http://coninfo.net:1935/13maxhd/live_720p/chunklist.m3u8
 #https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 https://dai.google.com/linear/hls/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 
-#EXTINF:-1 tvg-chno="25" tvg-tags="ofi" tvg-language="spa" tvg-country="MX" tvg-shift="" tvg-id="" group-title="Educación" tvg-name="" https://i.imgur.com/U2JblvH.png",Canal 22-2
+#EXTINF:-1 tvg-chno="25" tvg-tags="ofi" tvg-language="spa" tvg-country="MX" tvg-shift="" tvg-id="" group-title="Educación" tvg-name="" tvg-logo="https://i.imgur.com/U2JblvH.png",Canal 22-2
 https://5e50264bd6766.streamlock.net/canal222/smil:canal222.smil/chunklist_w786836973_b978000_sleng.m3u8
 
 #EXTINF:-1 tvg-chno="26" tvg-tags="ofi" tvg-language="spa" tvg-country="MX" tvg-shift="" tvg-id="" group-title="Educación" tvg-name="" tvg-logo="https://graph.facebook.com/TVMAS/picture?width=200&height=200",TV MÁS
