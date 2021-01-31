@@ -93,11 +93,12 @@ https://www.bloomberg.com/media-manifest/streams/qt.m3u8
 #EXTINF:-1 tvg-chno="30" tvg-tags="tdt" tvg-language="eng" tvg-country="US" tvg-shift="" tvg-id="" group-title="Música" tvg-name="Ditty TV USA" tvg-logo="https://graph.facebook.com/DittyTV/picture?width=200&height=200",Ditty TV
 https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
 
-#EXTINF:-1 tvg-chno="31" tvg-tags="tdt" tvg-language="eng;spa" tvg-country="CL" tvg-shift="" tvg-id="" group-title="Música" tvg-name="" tvg-logo="https://graph.facebook.com/retroplustv/picture?width=200&height=200",Retro Plus
+#EXTINF:-1 tvg-chno="31" tvg-tags="tdt" tvg-language="eng;spa" tvg-country="CL" tvg-shift="" tvg-id="" group-title="Música" tvg-name="Retro Plus TV Chile" tvg-logo="https://graph.facebook.com/retroplustv/picture?width=200&height=200",Retro Plus TV
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="32" tvg-tags="tdt" tvg-language="eng;spa" tvg-country="CL" tvg-shift="" tvg-id="" group-title="Música" tvg-name="" tvg-logo="https://graph.facebook.com/retroplustv/picture?width=200&height=200",Retro Plus
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="32" tvg-tags="tdt" tvg-language="eng;spa" tvg-country="CL" tvg-shift="" tvg-id="" group-title="Música" tvg-name="Retro Plus TV Chile" tvg-logo="https://graph.facebook.com/retroplustv/picture?width=200&height=200",Retro Plus
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="33" tvg-tags="ofi" tvg-language="spa" tvg-country="MX" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="" tvg-logo="https://graph.facebook.com/aztecauno/picture?width=200&height=200",Azteca uno
 #https://pubads.g.doubleclick.net/ssai/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
