@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-chno="1" tvg-tags="TDT" tvg-language="spa" tvg-country="ES" tvg-shift="" tvg-id="" group-title="Estilos de Vida" tvg-name="101TV Málaga" tvg-logo="https://graph.facebook.com/101tvmalaga/picture?width=200&height=200",101Tv Málaga
 https://limited22.todostreaming.es/live/101tv-web101tv.m3u8
 
-#EXTINF:-1 tvg-chno="2" tvg-tags="TDT" tvg-language="spa" tvg-country="ES" tvg-shift="-2" tvg-id="La2.TV" group-title="Entretenimiento" tvg-name="La 2" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200",La 2
+#EXTINF:-1 tvg-chno="2" tvg-tags="TDT" tvg-language="spa" tvg-country="ES" tvg-shift="+3" tvg-id="La2.TV" group-title="Entretenimiento" tvg-name="La 2" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200",La 2
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 
 #EXTINF:-1 tvg-chno="3" tvg-tags="NFI" tvg-language="spa" tvg-country="MX" tvg-shift="" tvg-id="" group-title="Noticias" tvg-name="" tvg-logo="https://graph.facebook.com/mileniotelevision/picture?width=200&height=200",Milenio TV
