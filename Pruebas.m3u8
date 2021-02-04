@@ -60,7 +60,8 @@ http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="20" tvg-tags="nfi" tvg-language="spa" tvg-country="PR" tvg-shift="" tvg-id="" group-title="Educación" tvg-name="" tvg-logo="https://graph.facebook.com/wiprtv/picture?width=200&height=200",WIPR
 #https://api.new.livestream.com/accounts/16550960/events/8600941/live.m3u8
-https://api.new.livestream.com/accounts/wipr/events/8600941/live.m3u8
+#https://api.new.livestream.com/accounts/wipr/events/8600941/live.m3u8
+https://mia.rtsp.me/srljiFaqE3_9npCfkqa3BQ/1612501633/hls/Ae37D5sR.m3u8
 
 #EXTINF:-1 tvg-chno="21" tvg-tags="OFI" tvg-language="spa" tvg-country="MX" tvg-shift="" tvg-id="" group-title="Estilos de Vida" tvg-name="" tvg-logo="https://graph.facebook.com/Capital21/picture?width=200&height=200",Capital 21
 https://video.cdmx.gob.mx/livestream/stream.m3u8
