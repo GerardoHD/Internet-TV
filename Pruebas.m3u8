@@ -85,7 +85,7 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w2116443559.m3u8
 #EXTINF:-1 tvg-chno="27" tvg-tags="tdt" tvg-language="eng" tvg-country="US" tvg-shift="" tvg-id="" group-title="Deportes" tvg-name="Redbull TV" tvg-logo="https://graph.facebook.com/RedBull/picture?width=200&height=200",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 tvg-chno="28" tvg-tags="tdt" tvg-language="rus;eng" tvg-country="RU" tvg-shift="-3" tvg-id="RTDoc.TV" group-title="Entretenimiento" tvg-name="RT Documentary" tvg-logo="https://graph.facebook.com/RTDocumentary/picture?width=200&height=200",RT Documentary
+#EXTINF:-1 tvg-chno="28" tvg-tags="tdt" tvg-language="rus;eng" tvg-country="RU" tvg-shift="-5" tvg-id="RTDoc.TV" group-title="Entretenimiento" tvg-name="RT Documentary" tvg-logo="https://graph.facebook.com/RTDocumentary/picture?width=200&height=200",RT Documentary
 https://rt-doc-gd.secure2.footprint.net/1101.m3u8
 
 #EXTINF:-1 tvg-chno="29" tvg-tags="tdt" tvg-language="eng" tvg-country="US" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="Bloomberg Quicktake" tvg-logo="https://graph.facebook.com/quicktake/picture?width=200&height=200",Bloomberg Quicktake
