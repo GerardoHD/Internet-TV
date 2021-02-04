@@ -120,3 +120,6 @@ https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="38" tvg-tags="ofi" tvg-language="spa" tvg-country="" tvg-shift="" tvg-id="" group-title="Comedia" tvg-name="" tvg-logo="https://graph.facebook.com/solostanduptv/picture?width=200&height=200",Solo Stand Up
 https://paneltv.online:1936/8116/8116/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="39" tvg-tags="" tvg-language="spa" tvg-country="US" tvg-shift="" tvg-id="" group-title="" tvg-name="" tvg-logo="https://graph.facebook.com/TastemadeEs/picture?width=200&height=200",
+https://tastemadees16intl-brightcove.amagi.tv/hls/amagi_hls_data_tastemade-tastemade-es16intl-brightcove/CDN/1920x1080_5055600/index.m3u8
