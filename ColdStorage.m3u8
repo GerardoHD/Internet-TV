@@ -114,3 +114,17 @@ https://livestartover.atresmedia.com/antena3/master.m3u8
 https://livestartover.atresmedia.com/lasexta/master.m3u8
 #EXTINF:-1 tvg-chno="53" tvg-tags="ofi" tvg-language="spa" tvg-country="MX" group-title="Entretenimiento" tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/TelemaxSonora/picture?width=200&height=200",Telemax
 https://5e307acc9a171.streamlock.net:1936/telemax/telemax/playlist.m3u8
+#EXTINF:-1 tvg-chno="54" tvg-tags="TDT" tvg-language="spa" tvg-country="ES" tvg-shift="" tvg-id="" group-title="Estilos de Vida" tvg-name="101TV Málaga" tvg-logo="https://graph.facebook.com/101tvmalaga/picture?width=200&height=200",101TV Málaga
+https://limited22.todostreaming.es/live/101tv-web101tv.m3u8
+#EXTINF:-1 tvg-chno="55" tvg-tags="tdt" tvg-language="spa" tvg-country="ES" tvg-shift="" tvg-id="Extremadura.TV" group-title="Estilos de Vida" tvg-name="Canal Extremadura" tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200",Canal Extremadura
+https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="56" tvg-tags="ofi" tvg-language="spa" tvg-country="MX" tvg-shift="" tvg-id="" group-title="Noticias" tvg-name="" tvg-logo="https://graph.facebook.com/OpinionCentralFM/picture?width=200&height=200",Central FM
+https://5fe2654d6127d.streamlock.net/centralfm/smil:centralfm.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="57" tvg-tags="tdt" tvg-language="eng;rus" tvg-country="RU" tvg-shift="-5" tvg-id="RTDoc.TV" group-title="Entretenimiento" tvg-name="RT Documentary" tvg-logo="https://graph.facebook.com/RTDocumentary/picture?width=200&height=200",RT Documentary
+https://rt-doc-gd.secure2.footprint.net/1101.m3u8
+#EXTINF:-1 tvg-chno="58" tvg-tags="tdt" tvg-language="eng" tvg-country="US" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="Bloomberg Quicktake" tvg-logo="https://graph.facebook.com/quicktake/picture?width=200&height=200",Bloomberg Quicktake
+https://www.bloomberg.com/media-manifest/streams/qt.m3u8
+#EXTINF:-1 tvg-chno="59" tvg-tags="tdt" tvg-language="spa" tvg-country="US" tvg-shift="" tvg-id="" group-title="Estilos de Vida" tvg-name="" tvg-logo="https://graph.facebook.com/TastemadeEs/picture?width=200&height=200",Tastemade
+https://tastemadees16intl-brightcove.amagi.tv/hls/amagi_hls_data_tastemade-tastemade-es16intl-brightcove/CDN/1920x1080_5055600/index.m3u8
+#EXTINF:-1 tvg-chno="60" tvg-tags="ofi" tvg-language="" tvg-country="CL" tvg-shift="" tvg-id="" group-title="Música" tvg-name="" tvg-logo="https://graph.facebook.com/rewindtv3/picture?width=200&height=200",Rewind TV
+https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
