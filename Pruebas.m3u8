@@ -106,5 +106,5 @@ https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
 
 ---------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-chno="34" tvg-tags="tdt" tvg-language="eng" tvg-country="US" tvg-shift="" tvg-id="" group-title="" tvg-name="" tvg-logo="https://graph.facebook.com/adultswim/picture?width=200&height=200",Adult Swim
+#EXTINF:-1 tvg-chno="34" tvg-tags="tdt" tvg-language="eng" tvg-country="US" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="" tvg-logo="https://graph.facebook.com/adultswim/picture?width=200&height=200",Adult Swim
 https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream.m3u8
