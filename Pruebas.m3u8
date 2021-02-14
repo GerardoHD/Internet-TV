@@ -22,7 +22,7 @@ https://rt-esp-gd.secure2.footprint.net/1102.m3u8
 #EXTINF:-1 tvg-chno="7" tvg-tags="tdt" tvg-language="spa" tvg-country="ES" tvg-shift="" tvg-id="Extremadura.TV" group-title="Estilos de Vida" tvg-name="Canal Extremadura" tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200",Canal Extremadura
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="8" tvg-tags="TDT" tvg-language="spa" tvg-country="DE" tvg-shift="-7" tvg-id="DW.TV" group-title="Noticias" tvg-name="DW Alemania" tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200",DW
+#EXTINF:-1 tvg-chno="8" tvg-tags="TDT" tvg-language="spa" tvg-country="DE" tvg-shift="-7" tvg-id="DW.TV" group-title="Estilos de Vida" tvg-name="DW Alemania" tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200",DW
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 
 #EXTINF:-1 tvg-chno="9" tvg-tags="TDT" tvg-language="spa" tvg-country="ES" tvg-shift="" tvg-id="CanalSurA.TV" group-title="Estilos de Vida" tvg-name="Canal Sur Andalucía" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200",Canal Sur Andalucía
@@ -103,6 +103,8 @@ https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 tvg-chno="33" tvg-tags="ofi" tvg-language="spa" tvg-country="MX" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="" tvg-logo="https://graph.facebook.com/amastv/picture?width=200&height=200",A+
 #https://pubads.g.doubleclick.net/ssai/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
 https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
+
+---------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-chno="34" tvg-tags="tdt" tvg-language="eng" tvg-country="US" tvg-shift="" tvg-id="" group-title="" tvg-name="" tvg-logo="https://graph.facebook.com/adultswim/picture?width=200&height=200",Adult Swim
 https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream.m3u8
