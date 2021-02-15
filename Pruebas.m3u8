@@ -74,8 +74,8 @@ https://5e50264bd6766.streamlock.net/canal222/smil:canal222.smil/chunklist_w7868
 #https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 https://dai.google.com/linear/hls/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 
-#EXTINF:-1 tvg-chno="25" tvg-tags="tdt" tvg-language="spa" tvg-country="US" tvg-shift="" tvg-id="" group-title="Estilos de Vida" tvg-name="" tvg-logo="https://graph.facebook.com/TastemadeEs/picture?width=200&height=200",Tastemade
-https://tastemadees16intl-brightcove.amagi.tv/hls/amagi_hls_data_tastemade-tastemade-es16intl-brightcove/CDN/1920x1080_5055600/index.m3u8
+#EXTINF:-1 tvg-chno="25" tvg-tags="tdt" tvg-language="spa" tvg-country="CL" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="" tvg-logo="https://graph.facebook.com/retroplustv/picture?width=200&height=200",Retro Plus 3
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="26" tvg-tags="ofi" tvg-language="spa" tvg-country="MX" tvg-shift="" tvg-id="" group-title="Educación" tvg-name="" tvg-logo="https://graph.facebook.com/TVMAS/picture?width=200&height=200",TV MÁS
 https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w2116443559.m3u8
@@ -106,6 +106,3 @@ https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
 
 #EXTINF:-1 tvg-chno="34" tvg-tags="tdt" tvg-language="eng" tvg-country="US" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="" tvg-logo="https://graph.facebook.com/adultswim/picture?width=200&height=200",Adult Swim
 https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream.m3u8
-
-#EXTINF:-1 tvg-chno="35" tvg-tags="tdt" tvg-language="spa" tvg-country="CL" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="" tvg-logo="https://graph.facebook.com/retroplustv/picture?width=200&height=200",Retro Plus 3
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
