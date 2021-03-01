@@ -65,12 +65,10 @@ https://www.bloomberg.com/media-manifest/streams/qt.m3u8
 https://video.cdmx.gob.mx/livestream/stream.m3u8
 
 #EXTINF:-1 tvg-chno="22" tvg-tags="OFI" tvg-language="spa" tvg-country="MX" tvg-shift="" tvg-id="" group-title="Estilos de vida" tvg-name="" tvg-logo="https://i.imgur.com/giqLRn8.png",Canal 22-1
-#https://5e50264bd6766.streamlock.net/canal22/smil:canal22.smil/chunklist_w1978382888_b978000_sleng.m3u8
 https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="23" tvg-tags="ofi" tvg-language="spa" tvg-country="MX" tvg-shift="" tvg-id="" group-title="Educación" tvg-name="" tvg-logo="https://i.imgur.com/U2JblvH.png",Canal 22-2
-#https://5e50264bd6766.streamlock.net/canal222/smil:canal222.smil/chunklist_w786836973_b978000_sleng.m3u8
-https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/chunklist_w748345107.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMjEgMzo1MTo1OSBQTSZoYXNoX3ZhbHVlPWpYcStDb0NDQnN2V1BJSXIrenVnVGc9PSZ2YWxpZG1pbnV0ZXM9NSZpZD0%3D
+https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="24" tvg-tags="tdt" tvg-language="spa" tvg-country="MX" tvg-shift="" tvg-id="" group-title="Noticias" tvg-name="ADN40 Mexico" tvg-logo="https://graph.facebook.com/ADN40mx/picture?width=200&height=200",adn40
 #https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
