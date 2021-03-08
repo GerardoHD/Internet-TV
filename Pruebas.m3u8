@@ -108,5 +108,8 @@ https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
 #EXTINF:-1 tvg-chno="34" tvg-tags="ofi" tvg-language="spa" tvg-country="AR" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="" tvg-logo="https://graph.facebook.com/canal26/picture?width=200&height=200" tvg-origin"https://www.diario26.com/canal26_en_vivo",Diario 26
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="35" tvg-tags="ofi" tvg-language="spa" tvg-country="AR" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="" tvg-logo="https://graph.facebook.com/gentvoficial/picture?width=200&height=200" tvg-origin"http://www.gentvoficial.com/inicio.html",GEN TV
+#EXTINF:-1 tvg-chno="35" tvg-tags="ofi" tvg-language="spa" tvg-country="AR" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="" tvg-logo="https://graph.facebook.com/MusictopArgentina/picture?width=200&height=200" tvg-origin"https://www.diario26.com/musictop",Music Top
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="36" tvg-tags="ofi" tvg-language="spa" tvg-country="AR" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="" tvg-logo="https://graph.facebook.com/gentvoficial/picture?width=200&height=200" tvg-origin"http://www.gentvoficial.com/inicio.html",GEN TV
 https://videohd.live:19360/8010/8010.m3u8
