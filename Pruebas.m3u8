@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-chno="1" tvg-tags="TDT" tvg-language="spa" tvg-country="ES" tvg-shift="" tvg-id="" group-title="Estilos de vida" tvg-name="101TV Málaga" tvg-logo="https://graph.facebook.com/101tvmalaga/picture?width=200&height=200",101TV Málaga
-##Website: https://www.101tv.es/endirecto.aspx
+##Origen: https://www.101tv.es/endirecto.aspx
 #https://limited22.todostreaming.es/live/101tv-web101tv.m3u8
 https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
 
@@ -44,9 +44,11 @@ https://bcliveunivsecure-lh.akamaihd.net/i/iptv2_1@500579/master.m3u8
 https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/master.m3u8
 
 #EXTINF:-1 tvg-chno="14" tvg-tags="OFI" tvg-language="spa" tvg-country="MX" tvg-shift="" tvg-id="" group-title="Educación" tvg-name="" tvg-logo="https://graph.facebook.com/canalcatorcemx/picture?width=200&height=200",Canal Catorce
+##Origen: http://www.canalcatorce.tv/?c=EnLinea
 https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
 
 #EXTINF:-1 tvg-chno="15" tvg-tags="ofi" tvg-language="spa" tvg-country="MX" tvg-shift="" tvg-id="" group-title="Noticias" tvg-name="" tvg-logo="https://graph.facebook.com/OpinionCentralFM/picture?width=200&height=200",Central FM
+##Origen: https://www.centralfmonline.com/index.php/online/en-vivo
 https://5fe2654d6127d.streamlock.net/centralfm/smil:centralfm.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="16" tvg-tags="tdt" tvg-language="spa" tvg-country="MX" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="Canal 6 Multimedios" tvg-logo="https://graph.facebook.com/multimediostv/picture?width=200&height=200",Canal 6 Multimedios
@@ -65,15 +67,19 @@ https://www.bloomberg.com/media-manifest/streams/qt.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #EXTINF:-1 tvg-chno="21" tvg-tags="OFI" tvg-language="spa" tvg-country="MX" tvg-shift="" tvg-id="" group-title="Estilos de vida" tvg-name="" tvg-logo="https://graph.facebook.com/Capital21/picture?width=200&height=200",Capital 21
+##Origen: https://www.capital21.cdmx.gob.mx/
 https://video.cdmx.gob.mx/livestream/stream.m3u8
 
 #EXTINF:-1 tvg-chno="22" tvg-tags="OFI" tvg-language="spa" tvg-country="MX" tvg-shift="" tvg-id="" group-title="Estilos de vida" tvg-name="" tvg-logo="https://i.imgur.com/giqLRn8.png",Canal 22-1
+##Origen: https://canal22.org.mx/#streaming
 https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="23" tvg-tags="ofi" tvg-language="spa" tvg-country="MX" tvg-shift="" tvg-id="" group-title="Educación" tvg-name="" tvg-logo="https://i.imgur.com/U2JblvH.png",Canal 22-2
+##Origen: https://canal22.org.mx/streaming-senal222.html
 https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="24" tvg-tags="tdt" tvg-language="spa" tvg-country="MX" tvg-shift="" tvg-id="" group-title="Noticias" tvg-name="ADN40 Mexico" tvg-logo="https://graph.facebook.com/ADN40mx/picture?width=200&height=200",adn40
+##Origen: 
 #https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 https://dai.google.com/linear/hls/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 
@@ -81,6 +87,7 @@ https://dai.google.com/linear/hls/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="26" tvg-tags="ofi" tvg-language="spa" tvg-country="MX" tvg-shift="" tvg-id="" group-title="Educación" tvg-name="" tvg-logo="https://graph.facebook.com/TVMAS/picture?width=200&height=200",TV MÁS
+##Origen: http://www.tvmas.mx/
 https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w2116443559.m3u8
 
 #EXTINF:-1 tvg-chno="27" tvg-tags="tdt" tvg-language="eng" tvg-country="US" tvg-shift="" tvg-id="" group-title="Música" tvg-name="Ditty TV USA" tvg-logo="https://graph.facebook.com/DittyTV/picture?width=200&height=200",Ditty TV
@@ -93,32 +100,35 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="30" tvg-tags="ofi" tvg-language="spa" tvg-country="MX" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="" tvg-logo="https://graph.facebook.com/aztecauno/picture?width=200&height=200",Azteca uno
+##Origen: 
 #https://pubads.g.doubleclick.net/ssai/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
 https://dai.google.com/linear/hls/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
 
 #EXTINF:-1 tvg-chno="31" tvg-tags="tdt" tvg-language="spa" tvg-country="MX" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="Azteca 7" tvg-logo="https://graph.facebook.com/aztecasiete/picture?width=200&height=200",Azteca 7
+##Origen: 
 #https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
 #EXTINF:-1 tvg-chno="32" tvg-tags="ofi" tvg-language="spa" tvg-country="MX" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="" tvg-logo="https://graph.facebook.com/amastv/picture?width=200&height=200",A+
+##Origen: 
 #https://pubads.g.doubleclick.net/ssai/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
 https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
 
 
 #EXTINF:-1 tvg-chno="33" tvg-tags="ofi" tvg-language="spa" tvg-country="MX" tvg-shift="" tvg-id="" group-title="Educación" tvg-name="" tvg-logo="https://graph.facebook.com/tv4cultura/picture?width=200&height=200",TV4 Cultura
-##Website: 
+##Origen: 
 https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="34" tvg-tags="ofi" tvg-language="spa" tvg-country="AR" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="" tvg-logo="https://graph.facebook.com/canal26/picture?width=200&height=200",Diario 26
-##Website: https://www.diario26.com/canal26_en_vivo
+##Origen: https://www.diario26.com/canal26_en_vivo
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="35" tvg-tags="ofi" tvg-language="spa" tvg-country="AR" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="" tvg-logo="https://graph.facebook.com/MusictopArgentina/picture?width=200&height=200",Music Top
-##Website: https://www.diario26.com/musictop
+##Origen: https://www.diario26.com/musictop
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="36" tvg-tags="ofi" tvg-language="spa" tvg-country="AR" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="" tvg-logo="https://graph.facebook.com/gentvoficial/picture?width=200&height=200",GEN TV
-##Website: http://www.gentvoficial.com/inicio.html
+##Origen: http://www.gentvoficial.com/inicio.html
 https://videohd.live:19360/8010/8010.m3u8
 
 #EXTINF:-1 tvg-chno="37" tvg-tags="ofi" tvg-language="" tvg-country="CL" tvg-shift="" tvg-id="" group-title="Música" tvg-name="" tvg-logo="https://graph.facebook.com/rewindtv3/picture?width=200&height=200",Rewind TV
