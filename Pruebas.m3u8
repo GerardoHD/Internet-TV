@@ -2,7 +2,6 @@
 
 #EXTINF:-1 tvg-chno="1" tvg-tags="TDT" tvg-language="spa" tvg-country="ES" tvg-shift="" tvg-id="" group-title="Estilos de vida" tvg-name="101TV Málaga" tvg-logo="https://graph.facebook.com/101tvmalaga/picture?width=200&height=200",101TV Málaga
 ##Origen: https://www.101tv.es/endirecto.aspx
-#https://limited22.todostreaming.es/live/101tv-web101tv.m3u8
 https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
 
 #EXTINF:-1 tvg-chno="2" tvg-tags="TDT" tvg-language="spa" tvg-country="ES" tvg-shift="" tvg-id="La2.TV" group-title="Educación" tvg-name="La 2" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200",La 2
@@ -28,7 +27,6 @@ https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 
 #EXTINF:-1 tvg-chno="9" tvg-tags="TDT" tvg-language="spa" tvg-country="ES" tvg-shift="" tvg-id="CanalSurA.TV" group-title="Estilos de vida" tvg-name="Canal Sur Andalucía" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200",Canal Sur Andalucía
-#http://cdnlive.shooowit.net/rtvalive/smil:channelDVR.smil/playlist.m3u8?DVR
 https://cdnlive.shooowit.net/rtvalive/smil:83CRxkDnV6DVR.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="10" tvg-tags="tdt" tvg-language="spa;chi" tvg-country="CN" tvg-shift="" tvg-id="CGTN.TV" group-title="Estilos de vida" tvg-name="CGTN" tvg-logo="https://graph.facebook.com/cgtnenespanol/picture?width=200&height=200",CGTN
