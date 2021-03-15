@@ -1,6 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-chno="1" tvg-tags="TDT" tvg-language="spa" tvg-country="ES" tvg-shift="" tvg-id="" group-title="Estilos de vida" tvg-name="101TV Málaga" tvg-logo="https://graph.facebook.com/101tvmalaga/picture?width=200&height=200",101TV Málaga
+##Website: https://www.101tv.es/endirecto.aspx
 #https://limited22.todostreaming.es/live/101tv-web101tv.m3u8
 https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
 
