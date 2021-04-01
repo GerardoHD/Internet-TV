@@ -26,7 +26,7 @@ https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
 #EXTINF:-1 tvg-chno="7" tvg-tags="tdt" tvg-language="spa;eng;rus" tvg-country="RU" tvg-shift="-7" tvg-id="RTESP.TV" group-title="Noticias" tvg-name="RT" tvg-logo="https://graph.facebook.com/ActualidadRT/picture?width=200&height=200",RT Noticias
 https://rt-esp-gd.secure2.footprint.net/1102.m3u8
 
-#EXTINF:-1 tvg-chno="8" tvg-tags="TDT" tvg-language="spa" tvg-country="DE" tvg-shift="-7" tvg-id="DW.TV" group-title="Noticias" tvg-name="DW Alemania" tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200",DW
+#EXTINF:-1 tvg-chno="8" tvg-tags="TDT" tvg-language="spa" tvg-country="DE" tvg-shift="-7" tvg-id="DW.TV" group-title="Educación" tvg-name="DW Alemania" tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200",DW
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 
 #EXTINF:-1 tvg-chno="9" tvg-tags="TDT" tvg-language="spa" tvg-country="ES" tvg-shift="" tvg-id="CanalSurA.TV" group-title="Estilos de vida" tvg-name="Canal Sur Andalucía" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200",Canal Sur Andalucía
