@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="1" tvg-tags="TDT" tvg-country="ES" tvg-language="spa" tvg-shift="-7" tvg-id="" group-title="Estilos de vida" tvg-name="101TV Málaga" tvg-logo="https://graph.facebook.com/101tvmalaga/picture?width=200&height=200",101TV Málaga
+#EXTINF:-1 tvg-chno="1" tvg-tags="TDT" tvg-country="ES" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Estilos de vida" tvg-name="101TV Málaga" tvg-logo="https://graph.facebook.com/101tvmalaga/picture?width=200&height=200",101TV Málaga
 ##Origen: https://www.101tv.es/endirecto.aspx
 https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
 
-#EXTINF:-1 tvg-chno="2" tvg-tags="TDT" tvg-country="ES" tvg-language="spa" tvg-shift="-7" tvg-id="La2.TV" group-title="Educación" tvg-name="La 2" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200",La 2
+#EXTINF:-1 tvg-chno="2" tvg-tags="TDT" tvg-country="ES" tvg-language="spa" tvg-shift="" tvg-id="La2.TV" group-title="Educación" tvg-name="La 2" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200",La 2
 ##Origen: https://www.rtve.es/directo/la-2/
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 
@@ -12,21 +12,21 @@ https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 ##Origen: https://actualidad.rt.com/en_vivo2
 https://rt-esp-gd.secure2.footprint.net/1102.m3u8
 
-#EXTINF:-1 tvg-chno="4" tvg-tags="TDT" tvg-country="MX" tvg-language="spa" tvg-shift="-7" tvg-id="ADN40.TV" group-title="Noticias" tvg-name="ADN40 Mexico" tvg-logo="https://graph.facebook.com/ADN40mx/picture?width=200&height=200",adn40
+#EXTINF:-1 tvg-chno="4" tvg-tags="TDT" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="ADN40.TV" group-title="Noticias" tvg-name="ADN40 Mexico" tvg-logo="https://graph.facebook.com/ADN40mx/picture?width=200&height=200",adn40
 ##Origen: https://live.adn40.mx/
 #https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 https://dai.google.com/linear/hls/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 
-#EXTINF:-1 tvg-chno="5" tvg-tags="NFI" tvg-country="AR" tvg-language="spa" tvg-shift="-7" tvg-id="" group-title="Estilos de vida" tvg-name="" tvg-logo="https://graph.facebook.com/5RTvSF/picture?width=200&height=200",Santa Fe Canal
+#EXTINF:-1 tvg-chno="5" tvg-tags="NFI" tvg-country="AR" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Estilos de vida" tvg-name="" tvg-logo="https://graph.facebook.com/5RTvSF/picture?width=200&height=200",Santa Fe Canal
 ##Origen: http://5rtv.com.ar/
 #https://api.new.livestream.com/accounts/5RTvSF/events/8242619/live.m3u8
 https://player-api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 
-#EXTINF:-1 tvg-chno="6" tvg-tags="TDT" tvg-country="FR" tvg-language="spa;eng" tvg-shift="-7" tvg-id="France24.TV" group-title="Estilos de vida" tvg-name="France 24 Francia" tvg-logo="https://graph.facebook.com/FRANCE24/picture?width=200&height=200",France 24
+#EXTINF:-1 tvg-chno="6" tvg-tags="TDT" tvg-country="FR" tvg-language="spa;eng" tvg-shift="" tvg-id="France24.TV" group-title="Estilos de vida" tvg-name="France 24 Francia" tvg-logo="https://graph.facebook.com/FRANCE24/picture?width=200&height=200",France 24
 ##Origen: https://www.france24.com/es/en-vivo
 https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
 
-#EXTINF:-1 tvg-chno="7" tvg-tags="tdt" tvg-country="ES" tvg-language="spa" tvg-shift="-7" tvg-id="Extremadura.TV" group-title="Estilos de vida" tvg-name="Canal Extremadura" tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200",Canal Extremadura
+#EXTINF:-1 tvg-chno="7" tvg-tags="tdt" tvg-country="ES" tvg-language="spa" tvg-shift="" tvg-id="Extremadura.TV" group-title="Estilos de vida" tvg-name="Canal Extremadura" tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200",Canal Extremadura
 ##Origen: https://www.canalextremadura.es/directo/television
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
 
@@ -34,11 +34,11 @@ https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist
 ##Origen: https://www.dw.com/es/multimedia/tv-en-vivo/s-100837
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 
-#EXTINF:-1 tvg-chno="9" tvg-tags="TDT" tvg-country="ES" tvg-language="spa" tvg-shift="-7" tvg-id="CanalSurA.TV" group-title="Estilos de vida" tvg-name="Canal Sur Andalucía" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200",Canal Sur Andalucía
+#EXTINF:-1 tvg-chno="9" tvg-tags="TDT" tvg-country="ES" tvg-language="spa" tvg-shift="" tvg-id="CanalSurA.TV" group-title="Estilos de vida" tvg-name="Canal Sur Andalucía" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200",Canal Sur Andalucía
 ##Origen: https://www.canalsur.es/tv_directo-1193.html
 https://cdnlive.shooowit.net/rtvalive/smil:83CRxkDnV6DVR.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="10" tvg-tags="tdt" tvg-country="CN" tvg-language="spa;chi" tvg-shift="-7" tvg-id="CGTN.TV" group-title="Estilos de vida" tvg-name="CGTN" tvg-logo="https://graph.facebook.com/cgtnenespanol/picture?width=200&height=200",CGTN
+#EXTINF:-1 tvg-chno="10" tvg-tags="tdt" tvg-country="CN" tvg-language="spa;chi" tvg-shift="" tvg-id="CGTN.TV" group-title="Estilos de vida" tvg-name="CGTN" tvg-logo="https://graph.facebook.com/cgtnenespanol/picture?width=200&height=200",CGTN
 ##Origen: https://espanol.cgtn.com/
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
@@ -70,7 +70,7 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 ##Origen: https://www1.cbn.com/tv/cbn-espanol
 https://bcliveunivsecure-lh.akamaihd.net/i/iptv2_1@500579/master.m3u8
 
-#EXTINF:-1 tvg-chno="18" tvg-tags="tdt" tvg-country="JP" tvg-language="eng;jpn" tvg-shift="-7" tvg-id="NHK.TV" group-title="Estilos de vida" tvg-name="NHK World Japan" tvg-logo="https://graph.facebook.com/nhkworld/picture?width=200&height=200",NHK World
+#EXTINF:-1 tvg-chno="18" tvg-tags="tdt" tvg-country="JP" tvg-language="eng;jpn" tvg-shift="" tvg-id="NHK.TV" group-title="Estilos de vida" tvg-name="NHK World Japan" tvg-logo="https://graph.facebook.com/nhkworld/picture?width=200&height=200",NHK World
 ##Origen: https://www3.nhk.or.jp/nhkworld/en/live/
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
@@ -129,15 +129,14 @@ https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
 ##Origen: https://www.tvcuatro.com/enlinea/4-2/
 https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="32" tvg-tags="tdt" tvg-country="ES" tvg-language="spa" tvg-shift="-7" tvg-id="LaSexta.TV" group-title="Entretenimiento" tvg-name="laSexta" tvg-logo="https://graph.facebook.com/laSexta/picture?width=200&height=200",laSexta
+#EXTINF:-1 tvg-chno="32" tvg-tags="tdt" tvg-country="ES" tvg-language="spa" tvg-shift="" tvg-id="LaSexta.TV" group-title="Entretenimiento" tvg-name="laSexta" tvg-logo="https://graph.facebook.com/laSexta/picture?width=200&height=200",laSexta
 ##Origen: https://www.atresplayer.com/directos/lasexta/
 https://pull1c-i.akamaized.net/lasexta/master.m3u8
 
-#EXTINF:-1 tvg-chno="33" tvg-tags="tdt" tvg-country="ES" tvg-language="spa" tvg-shift="-7" tvg-id="Antena3.TV" group-title="Entretenimiento" tvg-name="Antena 3" tvg-logo="https://graph.facebook.com/antena3/picture?width=200&height=200",Antena 3
+#EXTINF:-1 tvg-chno="33" tvg-tags="tdt" tvg-country="ES" tvg-language="spa" tvg-shift="" tvg-id="Antena3.TV" group-title="Entretenimiento" tvg-name="Antena 3" tvg-logo="https://graph.facebook.com/antena3/picture?width=200&height=200",Antena 3
 ##Origen: https://www.atresplayer.com/directos/antena3/
 https://pull1b-i.akamaized.net/antena3/master.m3u8
 
-#EXTINF:-1 tvg-chno="34" tvg-tags="tdt" tvg-country="ES" tvg-language="spa" tvg-shift="-7" tvg-id="Neox.TV" group-title="Entretenimiento" tvg-name="Neox" tvg-logo="https://graph.facebook.com/neox/picture?width=200&height=200",Neox
+#EXTINF:-1 tvg-chno="34" tvg-tags="tdt" tvg-country="ES" tvg-language="spa" tvg-shift="" tvg-id="Neox.TV" group-title="Entretenimiento" tvg-name="Neox" tvg-logo="https://graph.facebook.com/neox/picture?width=200&height=200",Neox
 ##Origen: 
 https://pull1b-i.akamaized.net/neox/master.m3u8
-
