@@ -46,9 +46,9 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 ##Origen: https://canalonce.mx/senal-internet/
 https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="12" tvg-tags="ofi" tvg-country="AR" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="" tvg-logo="https://graph.facebook.com/gentvoficial/picture?width=200&height=200",GEN TV
-##Origen: http://www.gentvoficial.com/inicio.html
-https://videohd.live:19360/8010/8010.m3u8
+#EXTINF:-1 tvg-chno="12" tvg-tags="tdt" tvg-country="US" tvg-language="spa;eng" tvg-shift="" tvg-id="" group-title="Estilos de vida" tvg-name="CBN USA" tvg-logo="https://graph.facebook.com/cbnonline/picture?width=200&height=200",CBN
+##Origen: https://www1.cbn.com/tv/cbn-espanol
+https://bcliveunivsecure-lh.akamaihd.net/i/iptv2_1@500579/master.m3u8
 
 #EXTINF:-1 tvg-chno="13" tvg-tags="tdt" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Noticias" tvg-name="FORO TV" tvg-logo="https://graph.facebook.com/FOROtv/picture?width=200&height=200",FORO TV
 ##Origen: https://noticieros.televisa.com/noticias-vivo-forotv/
@@ -66,9 +66,9 @@ https://5fe2654d6127d.streamlock.net/centralfm/smil:centralfm.smil/playlist.m3u8
 ##Origen: https://www.multimedios.com/video
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
-#EXTINF:-1 tvg-chno="17" tvg-tags="tdt" tvg-country="US" tvg-language="spa;eng" tvg-shift="" tvg-id="" group-title="Estilos de vida" tvg-name="CBN USA" tvg-logo="https://graph.facebook.com/cbnonline/picture?width=200&height=200",CBN
-##Origen: https://www1.cbn.com/tv/cbn-espanol
-https://bcliveunivsecure-lh.akamaihd.net/i/iptv2_1@500579/master.m3u8
+#EXTINF:-1 tvg-chno="17" tvg-tags="ofi" tvg-country="AR" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="" tvg-logo="https://graph.facebook.com/gentvoficial/picture?width=200&height=200",GEN TV
+##Origen: http://www.gentvoficial.com/inicio.html
+https://videohd.live:19360/8010/8010.m3u8
 
 #EXTINF:-1 tvg-chno="18" tvg-tags="tdt" tvg-country="JP" tvg-language="eng;jpn" tvg-shift="" tvg-id="NHK.TV" group-title="Estilos de vida" tvg-name="NHK World Japan" tvg-logo="https://graph.facebook.com/nhkworld/picture?width=200&height=200",NHK World
 ##Origen: https://www3.nhk.or.jp/nhkworld/en/live/
@@ -127,7 +127,9 @@ https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
 
 #EXTINF:-1 tvg-chno="31" tvg-tags="ofi" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Educación" tvg-name="" tvg-logo="https://graph.facebook.com/tv4cultura/picture?width=200&height=200",TV4 Cultura
 ##Origen: https://www.tvcuatro.com/enlinea/4-2/
-https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
+#https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
+#https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_360p/chunklist_w2053065377.m3u8
+https://5f2c1b0d880e5.streamlock.net/tv42/videotv42/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="32" tvg-tags="tdt" tvg-country="ES" tvg-language="spa" tvg-shift="" tvg-id="LaSexta.TV" group-title="Entretenimiento" tvg-name="laSexta" tvg-logo="https://graph.facebook.com/laSexta/picture?width=200&height=200",laSexta
 ##Origen: https://www.atresplayer.com/directos/lasexta/
