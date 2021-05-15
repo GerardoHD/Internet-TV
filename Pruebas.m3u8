@@ -130,11 +130,3 @@ https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
 #https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
 #https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_360p/chunklist_w2053065377.m3u8
 https://5f2c1b0d880e5.streamlock.net/tv42/videotv42/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="32" tvg-tags="tdt" tvg-country="ES" tvg-language="spa" tvg-shift="" tvg-id="LaSexta.TV" group-title="Entretenimiento" tvg-name="laSexta" tvg-logo="https://graph.facebook.com/laSexta/picture?width=200&height=200",laSexta
-##Origen: https://www.atresplayer.com/directos/lasexta/
-https://pull1c-i.akamaized.net/lasexta/master.m3u8
-
-#EXTINF:-1 tvg-chno="33" tvg-tags="tdt" tvg-country="ES" tvg-language="spa" tvg-shift="" tvg-id="Antena3.TV" group-title="Entretenimiento" tvg-name="Antena 3" tvg-logo="https://graph.facebook.com/antena3/picture?width=200&height=200",Antena 3
-##Origen: https://www.atresplayer.com/directos/antena3/
-https://pull1b-i.akamaized.net/antena3/master.m3u8
