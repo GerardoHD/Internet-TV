@@ -118,7 +118,8 @@ https://5e307acc9a171.streamlock.net:1936/telemax/telemax/playlist.m3u8
 https://limited22.todostreaming.es/live/101tv-web101tv.m3u8
 #EXTINF:-1 tvg-chno="" tvg-tags="tdt" tvg-language="spa" tvg-country="ES" tvg-shift="" tvg-id="Extremadura.TV" group-title="Estilos de Vida" tvg-name="Canal Extremadura" tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200",Canal Extremadura
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="" tvg-tags="ofi" tvg-language="spa" tvg-country="MX" tvg-shift="" tvg-id="" group-title="Noticias" tvg-name="" tvg-logo="https://graph.facebook.com/OpinionCentralFM/picture?width=200&height=200",Central FM
+#EXTINF:-1 tvg-chno="" tvg-tags="ofi" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Noticias" tvg-name="" tvg-logo="https://graph.facebook.com/OpinionCentralFM/picture?width=200&height=200",Central FM
+##Origen: https://www.centralfmonline.com/index.php/online/en-vivo
 https://5fe2654d6127d.streamlock.net/centralfm/smil:centralfm.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-tags="tdt" tvg-language="eng;rus" tvg-country="RU" tvg-shift="-5" tvg-id="RTDoc.TV" group-title="Entretenimiento" tvg-name="RT Documentary" tvg-logo="https://graph.facebook.com/RTDocumentary/picture?width=200&height=200",RT Documentary
 https://rt-doc-gd.secure2.footprint.net/1101.m3u8

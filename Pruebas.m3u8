@@ -58,9 +58,11 @@ https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/master.m3u8
 ##Origen: http://www.canalcatorce.tv/?c=EnLinea
 https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
 
-#EXTINF:-1 tvg-chno="15" tvg-tags="ofi" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Noticias" tvg-name="" tvg-logo="https://graph.facebook.com/OpinionCentralFM/picture?width=200&height=200",Central FM
-##Origen: https://www.centralfmonline.com/index.php/online/en-vivo
-https://5fe2654d6127d.streamlock.net/centralfm/smil:centralfm.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="15" tvg-tags="ofi" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Educación" tvg-name="" tvg-logo="https://graph.facebook.com/tv4cultura/picture?width=200&height=200",TV4 Cultura
+##Origen: https://www.tvcuatro.com/enlinea/4-2/
+#https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
+#https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_360p/chunklist_w2053065377.m3u8
+https://5f2c1b0d880e5.streamlock.net/tv42/videotv42/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="16" tvg-tags="TDT" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="Canal 6 Multimedios" tvg-logo="https://graph.facebook.com/multimediostv/picture?width=200&height=200",Canal 6 Multimedios
 ##Origen: https://www.multimedios.com/video
@@ -125,8 +127,3 @@ https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #https://pubads.g.doubleclick.net/ssai/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
 https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
 
-#EXTINF:-1 tvg-chno="31" tvg-tags="ofi" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Educación" tvg-name="" tvg-logo="https://graph.facebook.com/tv4cultura/picture?width=200&height=200",TV4 Cultura
-##Origen: https://www.tvcuatro.com/enlinea/4-2/
-#https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
-#https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_360p/chunklist_w2053065377.m3u8
-https://5f2c1b0d880e5.streamlock.net/tv42/videotv42/playlist.m3u8
