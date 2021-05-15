@@ -16,9 +16,9 @@ https://rt-esp-gd.secure2.footprint.net/1102.m3u8
 ##Origen: https://live.adn40.mx/
 https://dai.google.com/linear/hls/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 
-#EXTINF:-1 tvg-chno="5" tvg-tags="NFI" tvg-country="AR" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Estilos de vida" tvg-name="" tvg-logo="https://graph.facebook.com/5RTvSF/picture?width=200&height=200",Santa Fe Canal
-##Origen: http://5rtv.com.ar/
-https://player-api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
+#EXTINF:-1 tvg-chno="5" tvg-tags="tdt" tvg-country="DE" tvg-language="spa" tvg-shift="-7" tvg-id="DW.TV" group-title="Educación" tvg-name="DW Alemania" tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200",DW
+##Origen: https://www.dw.com/es/multimedia/tv-en-vivo/s-100837
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 
 #EXTINF:-1 tvg-chno="6" tvg-tags="TDT" tvg-country="FR" tvg-language="spa;eng" tvg-shift="" tvg-id="France24.TV" group-title="Estilos de vida" tvg-name="France 24 Francia" tvg-logo="https://graph.facebook.com/FRANCE24/picture?width=200&height=200",France 24
 ##Origen: https://www.france24.com/es/en-vivo
@@ -28,9 +28,9 @@ https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
 ##Origen: https://www.canalextremadura.es/directo/television
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="8" tvg-tags="TDT" tvg-country="DE" tvg-language="spa" tvg-shift="-7" tvg-id="DW.TV" group-title="Educación" tvg-name="DW Alemania" tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200",DW
-##Origen: https://www.dw.com/es/multimedia/tv-en-vivo/s-100837
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+#EXTINF:-1 tvg-chno="8" tvg-tags="NFI" tvg-country="AR" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Estilos de vida" tvg-name="" tvg-logo="https://graph.facebook.com/5RTvSF/picture?width=200&height=200",Santa Fe Canal
+##Origen: http://5rtv.com.ar/
+https://player-api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 
 #EXTINF:-1 tvg-chno="9" tvg-tags="TDT" tvg-country="ES" tvg-language="spa" tvg-shift="" tvg-id="CanalSurA.TV" group-title="Estilos de vida" tvg-name="Canal Sur Andalucía" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200",Canal Sur Andalucía
 ##Origen: https://www.canalsur.es/tv_directo-1193.html
@@ -44,9 +44,9 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 ##Origen: https://canalonce.mx/senal-internet/
 https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="12" tvg-tags="ofi" tvg-country="AR" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="" tvg-logo="https://graph.facebook.com/gentvoficial/picture?width=200&height=200",GEN TV
-##Origen: http://www.gentvoficial.com/inicio.html
-https://videohd.live:19360/8010/8010.m3u8
+#EXTINF:-1 tvg-chno="12" tvg-tags="tdt" tvg-country="US" tvg-language="spa;eng" tvg-shift="" tvg-id="" group-title="Estilos de vida" tvg-name="CBN USA" tvg-logo="https://graph.facebook.com/cbnonline/picture?width=200&height=200",CBN
+##Origen: https://www1.cbn.com/tv/cbn-espanol
+https://bcliveunivsecure-lh.akamaihd.net/i/iptv2_1@500579/master.m3u8
 
 #EXTINF:-1 tvg-chno="13" tvg-tags="tdt" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Noticias" tvg-name="FORO TV" tvg-logo="https://graph.facebook.com/FOROtv/picture?width=200&height=200",FORO TV
 ##Origen: https://noticieros.televisa.com/noticias-vivo-forotv/
@@ -56,29 +56,29 @@ https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/master.m3u8
 ##Origen: http://www.canalcatorce.tv/?c=EnLinea
 https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
 
-#EXTINF:-1 tvg-chno="15" tvg-tags="ofi" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Noticias" tvg-name="" tvg-logo="https://graph.facebook.com/OpinionCentralFM/picture?width=200&height=200",Central FM
-##Origen: https://www.centralfmonline.com/index.php/online/en-vivo
-https://5fe2654d6127d.streamlock.net/centralfm/smil:centralfm.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="15" tvg-tags="ofi" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Educación" tvg-name="" tvg-logo="https://graph.facebook.com/tv4cultura/picture?width=200&height=200",TV4 Cultura
+##Origen: https://www.tvcuatro.com/enlinea/4-2/
+https://5f2c1b0d880e5.streamlock.net/tv42/videotv42/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="16" tvg-tags="TDT" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="Canal 6 Multimedios" tvg-logo="https://graph.facebook.com/multimediostv/picture?width=200&height=200",Canal 6 Multimedios
 ##Origen: https://www.multimedios.com/video
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
-#EXTINF:-1 tvg-chno="17" tvg-tags="tdt" tvg-country="US" tvg-language="spa;eng" tvg-shift="" tvg-id="" group-title="Estilos de vida" tvg-name="CBN USA" tvg-logo="https://graph.facebook.com/cbnonline/picture?width=200&height=200",CBN
-##Origen: https://www1.cbn.com/tv/cbn-espanol
-https://bcliveunivsecure-lh.akamaihd.net/i/iptv2_1@500579/master.m3u8
+#EXTINF:-1 tvg-chno="17" tvg-tags="OFI" tvg-country="AR" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="" tvg-logo="https://graph.facebook.com/gentvoficial/picture?width=200&height=200",GEN TV
+##Origen: http://www.gentvoficial.com/inicio.html
+https://videohd.live:19360/8010/8010.m3u8
 
 #EXTINF:-1 tvg-chno="18" tvg-tags="tdt" tvg-country="JP" tvg-language="eng;jpn" tvg-shift="" tvg-id="NHK.TV" group-title="Estilos de vida" tvg-name="NHK World Japan" tvg-logo="https://graph.facebook.com/nhkworld/picture?width=200&height=200",NHK World
 ##Origen: https://www3.nhk.or.jp/nhkworld/en/live/
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
-#EXTINF:-1 tvg-chno="19" tvg-tags="tdt" tvg-country="RU" tvg-language="eng;rus" tvg-shift="-10" tvg-id="RTDoc.TV" group-title="Entretenimiento" tvg-name="RT Documentary" tvg-logo="https://graph.facebook.com/RTDocumentary/picture?width=200&height=200",RT Documentary
-##Origen: https://rtd.rt.com/on-air/
-https://rt-doc-gd.secure2.footprint.net/1101.m3u8
-
-#EXTINF:-1 tvg-chno="20" tvg-tags="tdt" tvg-country="US" tvg-language="eng" tvg-shift="" tvg-id="" group-title="Deportes" tvg-name="Redbull TV" tvg-logo="https://graph.facebook.com/RedBull/picture?width=200&height=200",Redbull TV
+#EXTINF:-1 tvg-chno="19" tvg-tags="tdt" tvg-country="US" tvg-language="eng" tvg-shift="" tvg-id="" group-title="Deportes" tvg-name="Redbull TV" tvg-logo="https://graph.facebook.com/RedBull/picture?width=200&height=200",Redbull TV
 ##Origen: https://www.redbull.com/int-en/tv/tv
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-chno="20" tvg-tags="tdt" tvg-country="RU" tvg-language="eng;rus" tvg-shift="-10" tvg-id="RTDoc.TV" group-title="Entretenimiento" tvg-name="RT Documentary" tvg-logo="https://graph.facebook.com/RTDocumentary/picture?width=200&height=200",RT Documentary
+##Origen: https://rtd.rt.com/on-air/
+https://rt-doc-gd.secure2.footprint.net/1101.m3u8
 
 #EXTINF:-1 tvg-chno="21" tvg-tags="ofi" tvg-country="CL" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Películas" tvg-name="" tvg-logo="https://graph.facebook.com/retroplustv/picture?width=200&height=200",Retro Plus 3
 ##Origen: https://retroplustv.com/canal3/
