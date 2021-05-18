@@ -48,17 +48,17 @@ https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
 ##Origen: https://www1.cbn.com/tv/cbn-espanol
 https://bcliveunivsecure-lh.akamaihd.net/i/iptv2_1@500579/master.m3u8
 
-#EXTINF:-1 tvg-chno="13" tvg-tags="nfi" tvg-country="AR" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Estilos de vida" tvg-name="" tvg-logo="https://graph.facebook.com/5RTvSF/picture?width=200&height=200",Santa Fe Canal
-##Origen: http://5rtv.com.ar/
-https://player-api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
+#EXTINF:-1 tvg-chno="13" tvg-tags="tdt" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Noticias" tvg-name="FORO TV" tvg-logo="https://graph.facebook.com/FOROtv/picture?width=200&height=200",FORO TV
+##Origen: https://noticieros.televisa.com/noticias-vivo-forotv/
+https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/master.m3u8
 
 #EXTINF:-1 tvg-chno="14" tvg-tags="OFI" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Educación" tvg-name="" tvg-logo="https://graph.facebook.com/canalcatorcemx/picture?width=200&height=200",Canal Catorce
 ##Origen: http://www.canalcatorce.tv/?c=EnLinea
 https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
 
-#EXTINF:-1 tvg-chno="15" tvg-tags="tdt" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Noticias" tvg-name="FORO TV" tvg-logo="https://graph.facebook.com/FOROtv/picture?width=200&height=200",FORO TV
-##Origen: https://noticieros.televisa.com/noticias-vivo-forotv/
-https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/master.m3u8
+#EXTINF:-1 tvg-chno="15" tvg-tags="nfi" tvg-country="AR" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Estilos de vida" tvg-name="" tvg-logo="https://graph.facebook.com/5RTvSF/picture?width=200&height=200",Santa Fe Canal
+##Origen: http://5rtv.com.ar/
+https://player-api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 
 #EXTINF:-1 tvg-chno="16" tvg-tags="TDT" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="Canal 6 Multimedios" tvg-logo="https://graph.facebook.com/multimediostv/picture?width=200&height=200",Canal 6 Multimedios
 ##Origen: https://www.multimedios.com/video
