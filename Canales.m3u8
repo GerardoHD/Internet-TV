@@ -100,7 +100,7 @@ https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
 ##Origen: https://retroplustv.com/canal1/
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="26" tvg-tags="OFI" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Educación" tvg-name="" tvg-logo="https://graph.facebook.com/TVMAS/picture?width=200&height=200",TV MÁS
+#EXTINF:-1 tvg-chno="26" tvg-tags="OFI" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Educación" tvg-name="" tvg-logo="https://graph.facebook.com/TVMAS/picture?width=200&height=200",TVMÁS
 ##Origen: http://www.tvmas.mx/
 https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w2116443559.m3u8
 
