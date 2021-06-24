@@ -134,7 +134,3 @@ https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-chno="32" tvg-tags="tdt" tvg-country="US" tvg-language="eng" tvg-shift="" tvg-id="" group-title="" tvg-name="" tvg-logo="https://graph.facebook.com/FOXNews/picture?width=200&height=200",FOX News
 ##Origen: https://www.foxnews.com/
 https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="33" tvg-tags="YT" tvg-country="US" tvg-language="eng" tvg-shift="" tvg-id="" group-title="" tvg-name="" tvg-logo="https://graph.facebook.com/cnet/picture?width=200&height=200",Microsoft Windows 11 Reveal Event
-##Origen: https://www.youtube.com/channel/UCmKtn_HvpfbTu3QV4lhJIMw
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1624567375/ei/75nUYKXcHZKRkgbs86mQDg/ip/201.123.216.98/id/7Y_RZf5i_LE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgPOp7Oucn7VxGfHk2lCdKr4oPlpCJLJ7yqpxAVniTgbMCIQCPDMPa9s159lNEa4tdZ-jGD7wWin7KPh8x5WOIq4SrlA%3D%3D/file/index.m3u8
