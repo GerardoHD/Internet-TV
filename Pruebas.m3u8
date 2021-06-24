@@ -135,15 +135,6 @@ https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
 ##Origen: https://www.foxnews.com/
 https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="33" tvg-tags="YT" tvg-language="spa" tvg-country="MX" tvg-shift="" tvg-id="" group-title="Noticias" tvg-name="" tvg-logo="https://graph.facebook.com/mileniotelevision/picture?width=200&height=200",Milenio TV
-##Origen: https://www.youtube.com/channel/UCFxHplbcoJK9m70c4VyTIxg
-#https://www.youtube.com/milenio/live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1623992178/ei/EtPLYKv9J86Dkwb-hKjADQ/ip/201.123.228.155/id/5WNdbFOueAI.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/gcr/mx/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgJyhnxkVjiGwRjdWPmzYMzT4m0M55eumyTtDrCokIeA4CIQCZuUuVvjJEFX5ZJboZoFjCGUnDE7XiKM82NKgCSRqA1w%3D%3D/file/index.m3u8
-
-#EXTINF:-1 tvg-chno="34" tvg-tags="YT" tvg-language="spa" tvg-country="MX" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="" tvg-logo="https://graph.facebook.com/ImagenTVMex/picture?width=200&height=200",Imagen TV
-##Origen: https://www.youtube.com/channel/UCl5JKSQsl-_WSU1rz7_BCJA
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1623898102/ei/lmPKYMCkKb6NsfIPyfCq2AE/ip/201.123.178.117/id/FuVIctEwUdY.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJa_9TngfgoKjgNhCWPJ88Hz7Sb2nKApA8pMnxC6QuWaAiA9KmMT4t9J0lPKWSQr1eCp_htKAjxT9wBK2bFKUTheLg%3D%3D/file/index.m3u8
-
-#EXTINF:-1 tvg-chno="35" tvg-tags="YT" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="ADN40.TV" group-title="Noticias" tvg-name="ADN40 Mexico" tvg-logo="https://graph.facebook.com/ADN40mx/picture?width=200&height=200",adn40
-##Origen: https://www.youtube.com/channel/UC7k--FhnJzhPTrbtldMSoQQ
+#EXTINF:-1 tvg-chno="33" tvg-tags="YT" tvg-country="US" tvg-language="eng" tvg-shift="" tvg-id="" group-title="" tvg-name="" tvg-logo="https://graph.facebook.com/cnet/picture?width=200&height=200",Windows 11 Reveal Event
+##Origen: https://www.youtube.com/channel/UCmKtn_HvpfbTu3QV4lhJIMw
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1623898384/ei/sGTKYM2YLbWOsfIPnPWaqA4/ip/201.123.178.117/id/UKsX8l6f578.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgYu953kV-P-L4NfwO9gIXqvbASLxpAmohqt6YcP2G66oCIDH1ilmLhkmjN9Xvb_pHtFN2oHkX1kzLS6bwylR3HE8i/file/index.m3u8
