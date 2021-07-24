@@ -21,8 +21,8 @@ https://dai.google.com/linear/hls/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 ##Origen: https://www.dw.com/es/multimedia/tv-en-vivo/s-100837
 #https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 #https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+#https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-chno="6" tvg-tags="tdt" tvg-country="FR" tvg-language="spa;eng" tvg-shift="" tvg-id="France24.TV" group-title="Estilos de vida" tvg-name="France 24 Francia" tvg-logo="https://graph.facebook.com/FRANCE24/picture?width=200&height=200",France 24
 ##Origen: https://www.france24.com/es/en-vivo
@@ -119,22 +119,16 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussen
 ##Origen: https://www.zapping.com/music
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-chno="29" tvg-tags="ofi" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="" tvg-logo="https://graph.facebook.com/aztecauno/picture?width=200&height=200",Azteca uno
-##Origen: https://www.tvazteca.com/aztecauno/especiales-azteca-uno/envivo
-#https://pubads.g.doubleclick.net/ssai/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
-#https://dai.google.com/linear/hls/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
-https://us-b5-p-e-kj2.cdn.mdstrm.com/live-stream/609b243156cca108312822a6/publish/media_300.m3u8
-
-#EXTINF:-1 tvg-chno="30" tvg-tags="tdt" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="" tvg-logo="https://graph.facebook.com/aztecasiete/picture?width=200&height=200",Azteca 7
+#EXTINF:-1 tvg-chno="29" tvg-tags="tdt" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="" tvg-logo="https://graph.facebook.com/aztecasiete/picture?width=200&height=200",Azteca 7
 ##Origen: https://www.tvazteca.com/azteca7/azteca-7-especiales/envivo
 #https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
-#EXTINF:-1 tvg-chno="31" tvg-tags="ofi" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="" tvg-logo="https://graph.facebook.com/amastv/picture?width=200&height=200",a más
+#EXTINF:-1 tvg-chno="30" tvg-tags="ofi" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="" tvg-logo="https://graph.facebook.com/amastv/picture?width=200&height=200",a más
 ##Origen: https://www.tvazteca.com/amastv/especiales-a/envivo
 #https://pubads.g.doubleclick.net/ssai/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
 https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
 
-#EXTINF:-1 tvg-chno="32" tvg-tags="tdt" tvg-country="ES" tvg-language="spa" tvg-shift="" tvg-id="" group-title="" tvg-name="" tvg-logo="https://www.uhdspain.com/web/wp-content/uploads/2021/04/logo_uhd.png",UHD Spain
+#EXTINF:-1 tvg-chno="31" tvg-tags="tdt" tvg-country="ES" tvg-language="spa" tvg-shift="" tvg-id="" group-title="" tvg-name="" tvg-logo="https://www.uhdspain.com/web/wp-content/uploads/2021/04/logo_uhd.png",UHD Spain
 ##Origen: http://player.uhdspain.com/playeruhdspain.aspx?id=c81e728d9d4c2f636f067f89cc14862c
 http://18.168.248.67/webdav/UHDSpain_SDR.m3u8
