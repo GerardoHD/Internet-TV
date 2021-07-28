@@ -87,7 +87,8 @@ https://rt-doc-gd.secure2.footprint.net/1101.m3u8
 
 #EXTINF:-1 tvg-chno="21" tvg-tags="ofi" tvg-country="CL" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Películas" tvg-name="" tvg-logo="https://graph.facebook.com/retroplustv/picture?width=200&height=200",Retro Plus 3
 ##Origen: https://retroplustv.com/canal3/
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
+#https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
+https://vdo.billingchs.com:3408/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-chno="22" tvg-tags="OFI" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Estilos de vida" tvg-name="" tvg-logo="https://i.imgur.com/giqLRn8.png",Canal 22-1
 ##Origen: https://canal22.org.mx/#streaming
