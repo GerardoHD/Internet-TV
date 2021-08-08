@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="1" tvg-tags="TDT" tvg-country="ES" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Estilos de vida" tvg-name="101TV Málaga" tvg-logo="https://graph.facebook.com/101tvmalaga/picture?width=200&height=200",101TV Málaga
+#EXTINF:-1 tvg-chno="1" tvg-tags="TDT" tvg-country="ES" tvg-language="spa" tvg-shift="" tvg-id="101Malaga.TV" group-title="Estilos de vida" tvg-name="101TV Málaga" tvg-logo="https://graph.facebook.com/101tvmalaga/picture?width=200&height=200",101TV Málaga
 ##Origen: https://www.101tv.es/endirecto.aspx
 https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
 
@@ -18,7 +18,7 @@ https://dai.google.com/linear/hls/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 
 #EXTINF:-1 tvg-chno="5" tvg-tags="tdt" tvg-country="DE" tvg-language="spa" tvg-shift="-7" tvg-id="DW.TV" group-title="Educación" tvg-name="DW Alemania" tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200",DW
 ##Origen: https://www.dw.com/es/multimedia/tv-en-vivo/s-100837
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-chno="6" tvg-tags="tdt" tvg-country="FR" tvg-language="spa;eng" tvg-shift="" tvg-id="France24.TV" group-title="Estilos de vida" tvg-name="France 24 Francia" tvg-logo="https://graph.facebook.com/FRANCE24/picture?width=200&height=200",France 24
 ##Origen: https://www.france24.com/es/en-vivo
@@ -50,7 +50,7 @@ https://bcliveunivsecure-lh.akamaihd.net/i/iptv2_1@500579/master.m3u8
 
 #EXTINF:-1 tvg-chno="13" tvg-tags="tdt" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Noticias" tvg-name="FORO TV" tvg-logo="https://graph.facebook.com/FOROtv/picture?width=200&height=200",FORO TV
 ##Origen: https://noticieros.televisa.com/noticias-vivo-forotv/
-https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/master.m3u8
+https://live-streams-notusa.televisa.com/channel02-b/index.m3u8
 
 #EXTINF:-1 tvg-chno="14" tvg-tags="OFI" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Educación" tvg-name="" tvg-logo="https://graph.facebook.com/canalcatorcemx/picture?width=200&height=200",Canal Catorce
 ##Origen: http://www.canalcatorce.tv/?c=EnLinea
