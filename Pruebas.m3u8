@@ -10,7 +10,8 @@ https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 
 #EXTINF:-1 tvg-chno="3" tvg-tags="tdt" tvg-country="RU" tvg-language="spa;eng;rus" tvg-shift="-7" tvg-id="RTESP.TV" group-title="Noticias" tvg-name="RT" tvg-logo="https://graph.facebook.com/ActualidadRT/picture?width=200&height=200",RT Noticias
 ##Origen: https://actualidad.rt.com/en_vivo2
-https://rt-esp-gd.secure2.footprint.net/1102.m3u8
+#https://rt-esp-gd.secure2.footprint.net/1102.m3u8
+https://rt-esp.gcdn.co/live/rtesp/playlist_4500Kb.m3u8
 
 #EXTINF:-1 tvg-chno="4" tvg-tags="TDT" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="ADN40.TV" group-title="Noticias" tvg-name="ADN40 Mexico" tvg-logo="https://graph.facebook.com/ADN40mx/picture?width=200&height=200",adn40
 ##Origen: https://live.adn40.mx/
