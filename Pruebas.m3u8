@@ -1,8 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="1" tvg-tags="TDT" tvg-country="ES" tvg-language="spa" tvg-shift="" tvg-id="101Malaga.TV" group-title="Estilos de vida" tvg-name="101TV Málaga" tvg-logo="https://graph.facebook.com/101tvmalaga/picture?width=200&height=200",101TV Málaga
-##Origen: https://www.101tv.es/endirecto.aspx
-https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
+#EXTINF:-1 tvg-chno="1" tvg-tags="tdt" tvg-country="ES" tvg-language="" tvg-shift="" tvg-id="" group-title="Noticias" tvg-name="" tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200",Euronews
+##Origen: https://es.euronews.com/embed/live
+https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="2" tvg-tags="TDT" tvg-country="ES" tvg-language="spa" tvg-shift="" tvg-id="La2.TV" group-title="Educación" tvg-name="La 2" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200",La 2
 ##Origen: https://www.rtve.es/directo/la-2/
@@ -53,8 +53,6 @@ https://bcliveunivsecure-lh.akamaihd.net/i/iptv2_1@500579/master.m3u8
 
 #EXTINF:-1 tvg-chno="13" tvg-tags="ofi" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Educación" tvg-name="" tvg-logo="https://graph.facebook.com/tv4cultura/picture?width=200&height=200",TV4 Cultura
 ##Origen: https://www.tvcuatro.com/enlinea/4-2/
-#https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
-#https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_360p/chunklist_w2053065377.m3u8
 https://5f2c1b0d880e5.streamlock.net/tv42/videotv42/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="14" tvg-tags="OFI" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Educación" tvg-name="" tvg-logo="https://graph.facebook.com/canalcatorcemx/picture?width=200&height=200",Canal Catorce
@@ -62,7 +60,7 @@ https://5f2c1b0d880e5.streamlock.net/tv42/videotv42/playlist.m3u8
 https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
 
 #EXTINF:-1 tvg-chno="15" tvg-tags="nfi" tvg-country="AR" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Estilos de vida" tvg-name="" tvg-logo="https://graph.facebook.com/SantaFeCanal/picture?width=200&height=200",Santa Fe Canal
-##Origen: http://5rtv.com.ar/
+##Origen: https://www.santafecanal.com.ar/
 #https://api.new.livestream.com/accounts/5RTvSF/events/8242619/live.m3u8
 https://player-api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 
@@ -82,14 +80,14 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 ##Origen: https://www.redbull.com/int-en/tv/tv
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 tvg-chno="20" tvg-tags="tdt" tvg-country="RU" tvg-language="eng;rus" tvg-shift="-10" tvg-id="RTDoc.TV" group-title="Entretenimiento" tvg-name="RT Documentary" tvg-logo="https://graph.facebook.com/RTDocumentary/picture?width=200&height=200",RT Documentary
+#EXTINF:-1 tvg-chno="20" tvg-tags="tdt" tvg-country="RU" tvg-language="eng;rus" tvg-shift="" tvg-id="RTDoc.TV" group-title="Entretenimiento" tvg-name="RT Documentary" tvg-logo="https://graph.facebook.com/RTDocumentary/picture?width=200&height=200",RT Documentary
 ##Origen: https://rtd.rt.com/on-air/
-https://rt-doc-gd.secure2.footprint.net/1101.m3u8
+#https://rt-rtd.gcdn.co/live/rtdoc/playlist_4500Kb.m3u8
+https://rt-rtd.gcdn.co/live/rtdoc/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="21" tvg-tags="ofi" tvg-country="CL" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Películas" tvg-name="" tvg-logo="https://graph.facebook.com/retroplustv/picture?width=200&height=200",Retro Plus 3
-##Origen: https://retroplustv.com/canal3/
-#https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
-https://vdo.billingchs.com:3408/hybrid/play.m3u8
+#EXTINF:-1 tvg-chno="21" tvg-tags="nfi" tvg-country="CL" tvg-language="" tvg-shift="" tvg-id="" group-title="Música" tvg-name="Zapping Music" tvg-logo="https://graph.facebook.com/zappingchile/picture?width=200&height=200",Zapping Music
+##Origen: https://www.zapping.com/music
+https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-chno="22" tvg-tags="OFI" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Estilos de vida" tvg-name="" tvg-logo="https://i.imgur.com/giqLRn8.png",Canal 22-1
 ##Origen: https://canal22.org.mx/#streaming
@@ -115,20 +113,12 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w2116443559.m3u8
 ##Origen: https://retroplustv.com/canal2/
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="28" tvg-tags="nfi" tvg-country="CL" tvg-language="" tvg-shift="" tvg-id="" group-title="Música" tvg-name="Zapping Music" tvg-logo="https://graph.facebook.com/zappingchile/picture?width=200&height=200",Zapping Music
-##Origen: https://www.zapping.com/music
-https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-chno="29" tvg-tags="tdt" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="" tvg-logo="https://graph.facebook.com/aztecasiete/picture?width=200&height=200",Azteca 7
+#EXTINF:-1 tvg-chno="28" tvg-tags="tdt" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="" tvg-logo="https://graph.facebook.com/aztecasiete/picture?width=200&height=200",Azteca 7
 ##Origen: https://www.tvazteca.com/azteca7/azteca-7-especiales/envivo
 #https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
-#EXTINF:-1 tvg-chno="30" tvg-tags="ofi" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="" tvg-logo="https://graph.facebook.com/amastv/picture?width=200&height=200",a más
+#EXTINF:-1 tvg-chno="29" tvg-tags="ofi" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="" tvg-logo="https://graph.facebook.com/amastv/picture?width=200&height=200",a más
 ##Origen: https://www.tvazteca.com/amastv/especiales-a/envivo
 #https://pubads.g.doubleclick.net/ssai/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
 https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
-
-#EXTINF:-1 tvg-chno="31" tvg-tags="tdt" tvg-country="ES" tvg-language="spa" tvg-shift="" tvg-id="" group-title="" tvg-name="" tvg-logo="https://www.uhdspain.com/web/wp-content/uploads/2021/04/logo_uhd.png",UHD Spain
-##Origen: http://player.uhdspain.com/playeruhdspain.aspx?id=c81e728d9d4c2f636f067f89cc14862c
-http://18.168.248.67/webdav/UHDSpain_SDR.m3u8
