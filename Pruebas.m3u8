@@ -121,3 +121,8 @@ https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 ##Origen: https://www.tvazteca.com/amastv/especiales-a/envivo
 #https://pubads.g.doubleclick.net/ssai/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
 https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
+
+#EXTINF:-1 tvg-chno="30" tvg-tags="" tvg-country="CL" tvg-language="spa" tvg-shift="" tvg-id="AERadioTV.cl" group-title="Música" tvg-name="AE Radio TV" tvg-logo="https://graph.facebook.com/aeradio.cl/picture?width=200&height=200",AE Radio TV
+##Origen: https://aeradio.cl/
+#http://edge1.cl.grupoz.cl/aeradio/live/index.m3u8
+https://tls.cdnz.cl/aeradio/live/playlist.m3u8
