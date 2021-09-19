@@ -112,20 +112,20 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w2116443559.m3u8
 ##Origen: https://retroplustv.com/canal2/
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="28" tvg-tags="tdt" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="" tvg-logo="https://graph.facebook.com/aztecasiete/picture?width=200&height=200",Azteca 7
+#EXTINF:-1 tvg-chno="28" tvg-tags="ofi" tvg-country="CL" tvg-language="spa" tvg-shift="" tvg-id="AERadioTV.cl" group-title="Música" tvg-name="AE Radio TV" tvg-logo="https://graph.facebook.com/aeradio.cl/picture?width=200&height=200",AE Radio TV
+##Origen: https://aeradio.cl/
+#http://edge1.cl.grupoz.cl/aeradio/live/index.m3u8
+https://tls.cdnz.cl/aeradio/live/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="29" tvg-tags="tdt" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="" tvg-logo="https://graph.facebook.com/aztecasiete/picture?width=200&height=200",Azteca 7
 ##Origen: https://www.tvazteca.com/azteca7/azteca-7-especiales/envivo
 #https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
-#EXTINF:-1 tvg-chno="29" tvg-tags="ofi" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="" tvg-logo="https://graph.facebook.com/amastv/picture?width=200&height=200",a más
+#EXTINF:-1 tvg-chno="30" tvg-tags="ofi" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="" tvg-logo="https://graph.facebook.com/amastv/picture?width=200&height=200",a más
 ##Origen: https://www.tvazteca.com/amastv/especiales-a/envivo
 #https://pubads.g.doubleclick.net/ssai/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
 https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
-
-#EXTINF:-1 tvg-chno="30" tvg-tags="ofi" tvg-country="CL" tvg-language="spa" tvg-shift="" tvg-id="AERadioTV.cl" group-title="Música" tvg-name="AE Radio TV" tvg-logo="https://graph.facebook.com/aeradio.cl/picture?width=200&height=200",AE Radio TV
-##Origen: https://aeradio.cl/
-#http://edge1.cl.grupoz.cl/aeradio/live/index.m3u8
-https://tls.cdnz.cl/aeradio/live/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="31" tvg-tags="ofi" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Educación" tvg-name="" tvg-logo="https://graph.facebook.com/JusticiaTvMx/picture?width=200&height=200",Justicia TV
 ##Origen: https://justiciatv.mx/
