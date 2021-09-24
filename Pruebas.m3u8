@@ -135,3 +135,6 @@ https://d2t9djfuxq08da.cloudfront.net/EVLiveSCJN/_definst_/mp4:YXWKLCDT/chunklis
 ##Origen: https://tv.unam.mx/en-vivo/
 https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/playlist.m3u8?DVR
 
+#EXTINF:-1 tvg-chno="33" tvg-tags="ofi" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Educación" tvg-name="" tvg-logo="https://graph.facebook.com/canaldelcongreso/picture?width=200&height=200",Canal del Congreso
+##Origen: https://www.canaldelcongreso.gob.mx/EnVivo/
+https://liveingesta118.cdnmedia.tv//cngmexicolive/smil:diputados3.smil/playlist.m3u8
