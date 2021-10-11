@@ -31,9 +31,10 @@ https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
 ##Origen: https://www.canalextremadura.es/directo/television
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="8" tvg-tags="tdt" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Noticias" tvg-name="FORO TV" tvg-logo="https://graph.facebook.com/FOROtv/picture?width=200&height=200",FORO tv
+#EXTINF:-1 tvg-chno="8" tvg-tags="ofi" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Noticias" tvg-name="FORO TV" tvg-logo="https://graph.facebook.com/FOROtv/picture?width=200&height=200",FORO tv
 ##Origen: https://noticieros.televisa.com/noticias-vivo-forotv/
-https://live-streams-notusa.televisa.com/channel02-b/index.m3u8
+#https://live-streams-notusa.televisa.com/channel02-b/index.m3u8
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
 
 #EXTINF:-1 tvg-chno="9" tvg-tags="TDT" tvg-country="ES" tvg-language="spa" tvg-shift="" tvg-id="CanalSurA.TV" group-title="Estilos de vida" tvg-name="Canal Sur Andalucía" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200",Canal Sur Andalucía
 ##Origen: https://www.canalsur.es/tv_directo-1193.html
@@ -47,9 +48,10 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 ##Origen: https://canalonce.mx/senal-internet/
 https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="12" tvg-tags="tdt" tvg-country="US" tvg-language="spa;eng" tvg-shift="" tvg-id="" group-title="Estilos de vida" tvg-name="CBN USA" tvg-logo="https://graph.facebook.com/cbnonline/picture?width=200&height=200",CBN
+#EXTINF:-1 tvg-chno="12" tvg-tags="ofi" tvg-country="US" tvg-language="spa;eng" tvg-shift="" tvg-id="" group-title="Estilos de vida" tvg-name="CBN USA" tvg-logo="https://graph.facebook.com/cbnonline/picture?width=200&height=200",CBN
 ##Origen: https://www1.cbn.com/tv/cbn-espanol
-https://bcliveunivsecure-lh.akamaihd.net/i/iptv2_1@500579/master.m3u8
+#https://bcliveunivsecure-lh.akamaihd.net/i/iptv2_1@500579/master.m3u8
+https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="13" tvg-tags="ofi" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Educación" tvg-name="" tvg-logo="https://graph.facebook.com/tv4cultura/picture?width=200&height=200",TV4 Cultura
 ##Origen: https://www.tvcuatro.com/enlinea/4-2/
