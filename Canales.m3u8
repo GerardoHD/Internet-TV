@@ -41,8 +41,9 @@ https://cdnlive.shooowit.net/rtvalive/smil:83CRxkDnV6DVR.smil/playlist.m3u8
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-1 tvg-chno="11" tvg-tags="TDT" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Educación" tvg-name="Once Internacional" tvg-logo="https://graph.facebook.com/CANALONCETV/picture?width=200&height=200",Once
-##Origen: https://canalonce.mx/senal-internet/
-https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
+##Origen: https://canalonce.mx/en-vivo
+#https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
+https://live2.canaloncelive.tv/livepkgr3/cepro/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="12" tvg-tags="ofi" tvg-country="US" tvg-language="spa;eng" tvg-shift="" tvg-id="" group-title="Estilos de vida" tvg-name="CBN USA" tvg-logo="https://graph.facebook.com/cbnonline/picture?width=200&height=200",CBN
 ##Origen: https://www1.cbn.com/tv/cbn-espanol
