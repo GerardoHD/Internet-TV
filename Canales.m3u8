@@ -85,11 +85,11 @@ https://rt-rtd.gcdn.co/live/rtdoc/playlist_4500Kb.m3u8
 ##Origen: https://www.zapping.com/music
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-chno="22" tvg-tags="OFI" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Estilos de vida" tvg-name="" tvg-logo="https://i.imgur.com/giqLRn8.png",Canal 22-1
+#EXTINF:-1 tvg-chno="22" tvg-tags="OFI" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Estilos de vida" tvg-name="" tvg-logo="https://graph.facebook.com/Canal22Mexico/picture?width=200&height=200",Canal 22-1
 ##Origen: https://canal22.org.mx/#streaming
 https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="23" tvg-tags="ofi" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Educación" tvg-name="" tvg-logo="https://i.imgur.com/U2JblvH.png",Canal 22-2
+#EXTINF:-1 tvg-chno="23" tvg-tags="ofi" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Educación" tvg-name="" tvg-logo="https://graph.facebook.com/Canal22Mexico/picture?width=200&height=200",Canal 22-2
 ##Origen: https://canal22.org.mx/streaming-senal222.html
 https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8
 
