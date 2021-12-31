@@ -16,7 +16,7 @@ https://rt-esp.gcdn.co/live/rtesp/playlist_4500Kb.m3u8
 ##Origen: https://live.adn40.mx/
 https://dai.google.com/linear/hls/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 
-#EXTINF:-1 tvg-chno="5" tvg-tags="tdt" tvg-country="DE" tvg-language="spa" tvg-shift="-7" tvg-id="DW.TV" group-title="Educación" tvg-name="DW Alemania" tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200",DW
+#EXTINF:-1 tvg-chno="5" tvg-tags="TDT" tvg-country="DE" tvg-language="spa" tvg-shift="-7" tvg-id="DW.TV" group-title="Educación" tvg-name="DW Alemania" tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200",DW
 ##Origen: https://www.dw.com/es/multimedia/tv-en-vivo/s-100837
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 
@@ -28,7 +28,7 @@ https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
 ##Origen: https://www.canalextremadura.es/directo/television
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="8" tvg-tags="" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Noticias" tvg-name="" tvg-logo="https://graph.facebook.com//picture?width=200&height=200",El Financiero
+#EXTINF:-1 tvg-chno="8" tvg-tags="tdt" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Noticias" tvg-name="" tvg-logo="https://graph.facebook.com/ElFinancieroMx/picture?width=200&height=200",El Financiero
 ##Origen: https:/ElFinancieroMx/www.elfinanciero.com.mx/tv
 https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
 
@@ -65,7 +65,7 @@ https://player-api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 ##Origen: https://www.multimedios.com/video
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
-#EXTINF:-1 tvg-chno="17" tvg-tags="OFI" tvg-country="AR" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="" tvg-logo="https://graph.facebook.com/gentvoficial/picture?width=200&height=200",GEN TV
+#EXTINF:-1 tvg-chno="17" tvg-tags="ofi" tvg-country="AR" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="" tvg-logo="https://graph.facebook.com/gentvoficial/picture?width=200&height=200",GEN TV
 ##Origen: http://www.gentvoficial.com/inicio.html
 https://videohd.live:19360/8010/8010.m3u8
 
