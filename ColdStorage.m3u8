@@ -144,3 +144,7 @@ https://livestartover.atresmedia.com/a3series/master.m3u8
 #EXTINF:-1 tvg-chno="" tvg-tags="tdt" tvg-country="ES" tvg-language="spa" tvg-shift="" tvg-id="Neox.TV" group-title="Entretenimiento" tvg-name="Neox" tvg-logo="https://graph.facebook.com/neox/picture?width=200&height=200",Neox
 ##Origen: 
 https://pull1b-i.akamaized.net/neox/master.m3u8
+#EXTINF:-1 tvg-chno="" tvg-tags="ofi" tvg-country="ES" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="" tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200",Cartoon Network Latino
+##Origen: https://cnapp.cartoonnetworkla.com/now/freelive1
+https://slvcs87g3x.singularcdn.net.br/live/ctn_latam/playlist.m3u8
+
