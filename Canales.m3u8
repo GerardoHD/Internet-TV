@@ -28,9 +28,9 @@ https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
 ##Origen: https://www.canalextremadura.es/directo/television
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="8" tvg-tags="tdt" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Noticias" tvg-name="" tvg-logo="https://graph.facebook.com/ElFinancieroMx/picture?width=200&height=200",El Financiero
-##Origen: https:/ElFinancieroMx/www.elfinanciero.com.mx/tv
-https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
+#EXTINF:-1 tvg-chno="8" tvg-tags="tdt" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Noticias" tvg-name="FORO TV" tvg-logo="https://graph.facebook.com/FOROtv/picture?width=200&height=200",FORO tv
+##Origen: https://noticieros.televisa.com/noticias-vivo-forotv/
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
 
 #EXTINF:-1 tvg-chno="9" tvg-tags="TDT" tvg-country="ES" tvg-language="spa" tvg-shift="" tvg-id="CanalSurA.TV" group-title="Estilos de vida" tvg-name="Canal Sur Andalucía" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200",Canal Sur Andalucía
 ##Origen: https://www.canalsur.es/tv_directo-1193.html
@@ -121,15 +121,10 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussen
 ##Origen: https://aeradio.cl/
 https://tls.cdnz.cl/aeradio/live/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="31" tvg-tags="tdt" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Noticias" tvg-name="FORO TV" tvg-logo="https://graph.facebook.com/FOROtv/picture?width=200&height=200",FORO tv
-##Origen: https://noticieros.televisa.com/noticias-vivo-forotv/
-https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
-
-#EXTINF:-1 tvg-chno="32" tvg-tags="tdt" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="" tvg-logo="https://graph.facebook.com/aztecasiete/picture?width=200&height=200",Azteca 7
+#EXTINF:-1 tvg-chno="31" tvg-tags="tdt" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="" tvg-logo="https://graph.facebook.com/aztecasiete/picture?width=200&height=200",Azteca 7
 ##Origen: https://www.tvazteca.com/azteca7/azteca-7-especiales/envivo
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
-#EXTINF:-1 tvg-chno="33" tvg-tags="ofi" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="" tvg-logo="https://graph.facebook.com/amastv/picture?width=200&height=200",a más
+#EXTINF:-1 tvg-chno="32" tvg-tags="ofi" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="" tvg-logo="https://graph.facebook.com/amastv/picture?width=200&height=200",a más
 ##Origen: https://www.tvazteca.com/amastv/especiales-a/envivo
 https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
-
