@@ -81,7 +81,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-chno="21" tvg-tags="tdt" tvg-country="US" tvg-language="eng" tvg-shift="" tvg-id="" group-title="Música" tvg-name="Ditty TV USA" tvg-logo="https://graph.facebook.com/DittyTV/picture?width=200&height=200",Ditty TV
-##Origen: 
+##Origen: https://dittytv.com/watch/
 https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
 
 #EXTINF:-1 tvg-chno="22" tvg-tags="OFI" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Estilos de vida" tvg-name="" tvg-logo="https://graph.facebook.com/Canal22Mexico/picture?width=200&height=200",Canal 22-1
@@ -99,7 +99,6 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 #EXTINF:-1 tvg-chno="25" tvg-tags="ofi" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Educación" tvg-name="" tvg-logo="https://graph.facebook.com/TVUNAMoficial/picture?width=200&height=200",tvunam
 ##Origen: https://tv.unam.mx/en-vivo/
 https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/playlist.m3u8?DVR
-
 
 #EXTINF:-1 tvg-chno="26" tvg-tags="OFI" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Educación" tvg-name="" tvg-logo="https://graph.facebook.com/TVMAS/picture?width=200&height=200",TVMÁS
 ##Origen: http://www.tvmas.mx/
