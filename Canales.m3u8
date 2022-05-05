@@ -118,6 +118,10 @@ https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
 
 
-#EXTINF:-1 tvg-chno="30" tvg-tags="ofi" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="" tvg-logo="https://graph.facebook.com//picture?width=200&height=200",Canal 5
-##Origen: https://www.tvazteca.com/amastv/especiales-a/envivo
+#EXTINF:-1 tvg-chno="30" tvg-tags="ofi" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="" tvg-logo="https://graph.facebook.com/Canal5MX/picture?width=200&height=200",Canal 5
+##Origen: https://www.twitch.tv/5mx122drr
+https://usher.ttvnw.net/api/channel/hls/5mx122drr.m3u8
+
+#EXTINF:-1 tvg-chno="31" tvg-tags="ofi" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="" tvg-logo="https://graph.facebook.com//picture?width=200&height=200",Canal 5
+##Origen: 
 https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CrMFeBJzFarvzf_92AgsdyUrTkBCX5olmbEnc773x5sffoKRmXCzQQor4Y3OoY85BG3bYB9Ufqdcf9Q6NSLBVJQ28wBPgmSdhaVrOlRbquTksktt59gj51GC3x_OIt0wMQQLVPQN-7RoGdjYpb0O3BHHrD2A5sk_tgx0inktfWQDcTxN49B3lKe-I_gGkDSYKcFDOjCe8_RFapmaFQWS7-xYkznfaVOsl51qmUeXZaOHdpBZJMAmTz7bD98hRfdgOKWRvCmJ4AP-w8jUb0ycP5l9eUMjCD6zYMf0zDJwlFAVNZjUuZGmnXvrD8Q85HYiHZP2Ia0p8KCLPN1rNnSagP_hbluR1feQXVJtL-dWtB5wybbObN-Arj70Ra-D4RYUZL2LfOk4mRQWOqgKk1ZuCFF95q4EsI5fR6_ws5q7hmQlr8qWvogT663YjbkaKO7NLNK-IqsE1ui4-4ODXIU5QewwvjygWeSKGmuzZX2EAchFYUa4v5Zq5XTGAF2Q4N_QABj6pmMamVDEW3QQYa9OB6TWxoXSpMR8lxHtn_cmIb3ssTyD7DpawzzEBMxUOo0LNY-jq73TTwwWj5jA8bxL-34YoD909XL33bvJic3jPQ8FUIxnTKbyFOHC0FK5v3kdvEKP1Naf0wBx5VBIHjqi-W4m0TpCd31lLpXU2FzF7TwdcNnaPVj207y7-WlCJy-Otq6iuvGik7mrKgiDxN731Ec33X1-uxFIVc6n9AxZStbUCc7uOGL-7dRIsuXw7Ltlr8wV35-cd1nEO6nB372RcnbM5lRRU6O4HrgJ9kM9cl2D0ev2Dc47muOiF5Ewsj_V5-67buVhsMMu_WESNZCU7pQzIIrJemf0rDiH6r-jYGYdJvNktn4LPBz35tcUbFmIU3s-1jsLNRXc83YwqXtThz0c7R6VohoMqeb3VovUu_3DRujZIAEqCWV1LXdlc3QtMjDSAw.m3u8
