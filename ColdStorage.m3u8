@@ -26,7 +26,8 @@ http://cdnlive.shooowit.net/rtvalive/smil:channelDVR.smil/playlist.m3u8?DVR
 http://190.103.183.24:1935/live/MicroHD/chunklist_w598827662.m3u8
 #EXTINF:-1 tvg-chno="" tvg-tags="TDT" tvg-language="spa" tvg-country="MX" group-title="Educacion" tvg-id="" tvg-name="Canal Once Internacional" tvg-logo="https://graph.facebook.com/CANALONCETV/picture?width=200&height=200",Once Internacional
 https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="" tvg-tags="TDT" tvg-language="eng" tvg-country="US" group-title="Musica" tvg-id="" tvg-name="Ditty TV USA" tvg-logo="https://graph.facebook.com/DittyTV/picture?width=200&height=200",Ditty TV
+#EXTINF:-1 tvg-chno="" tvg-tags="tdt" tvg-country="US" tvg-language="eng" tvg-shift="" tvg-id="" group-title="Música" tvg-name="Ditty TV USA" tvg-logo="https://graph.facebook.com/DittyTV/picture?width=200&height=200",Ditty TV
+##Origen: https://dittytv.com/watch/
 https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
 #EXTINF:-1 tvg-chno="" tvg-tags="OFI" tvg-language="spa" tvg-country="AR" group-title="Entretenimiento" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VuvGm3s.png",13 Max
 http://coninfo.net:1935/13maxhd/live_720p/chunklist.m3u8
@@ -72,8 +73,9 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m
 http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
 #EXTINF:-1 tvg-chno="" tvg-tags="tdt" tvg-language="eng" tvg-country="US" group-title="Noticias" tvg-id="" tvg-name="ABC News USA" tvg-logo="https://graph.facebook.com/ABCNews/picture?width=200&height=200",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-chno="" tvg-tags="TDT" tvg-language="spa" tvg-country="" group-title="Noticias" tvg-id="France24.TV" tvg-name="France 24 Francia" tvg-logo="https://graph.facebook.com/FRANCE24/picture?width=200&height=200",France 24
-http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-chno="" tvg-tags="tdt" tvg-country="FR" tvg-language="spa;eng" tvg-shift="" tvg-id="France24.TV" group-title="Estilos de vida" tvg-name="France 24 Francia" tvg-logo="https://graph.facebook.com/FRANCE24/picture?width=200&height=200",France 24
+##Origen: https://www.france24.com/es/en-vivo
+https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
 #EXTINF:-1 tvg-chno="" tvg-tags="tdt" tvg-country="RU" tvg-language="spa;eng;rus" tvg-shift="-7" tvg-id="RTESP.TV" group-title="Noticias" tvg-name="RT" tvg-logo="https://graph.facebook.com/ActualidadRT/picture?width=200&height=200",RT Noticias
 ##Origen: https://actualidad.rt.com/en_vivo2
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8

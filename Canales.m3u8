@@ -21,17 +21,17 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 ##Origen: https://www.dw.com/es/multimedia/tv-en-vivo/s-100837
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-chno="6" tvg-tags="tdt" tvg-country="FR" tvg-language="spa;eng" tvg-shift="" tvg-id="France24.TV" group-title="Estilos de vida" tvg-name="France 24 Francia" tvg-logo="https://graph.facebook.com/FRANCE24/picture?width=200&height=200",France 24
-##Origen: https://www.france24.com/es/en-vivo
-https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
+#EXTINF:-1 tvg-chno="6" tvg-tags="tdt" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Noticias" tvg-name="FORO TV" tvg-logo="https://graph.facebook.com/FOROtv/picture?width=200&height=200",FORO tv
+##Origen: https://noticieros.televisa.com/noticias-vivo-forotv/
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
 
 #EXTINF:-1 tvg-chno="7" tvg-tags="tdt" tvg-country="ES" tvg-language="spa" tvg-shift="" tvg-id="Extremadura.TV" group-title="Estilos de vida" tvg-name="Canal Extremadura" tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200",Canal Extremadura
 ##Origen: https://www.canalextremadura.es/directo/television
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="8" tvg-tags="tdt" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Noticias" tvg-name="FORO TV" tvg-logo="https://graph.facebook.com/FOROtv/picture?width=200&height=200",FORO tv
-##Origen: https://noticieros.televisa.com/noticias-vivo-forotv/
-https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
+#EXTINF:-1 tvg-chno="8" tvg-tags="ofi" tvg-country="US" tvg-language="spa;eng" tvg-shift="" tvg-id="" group-title="Estilos de vida" tvg-name="CBN USA" tvg-logo="https://graph.facebook.com/cbnonline/picture?width=200&height=200",CBN
+##Origen: https://www1.cbn.com/tv/cbn-espanol
+https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="9" tvg-tags="TDT" tvg-country="ES" tvg-language="spa" tvg-shift="" tvg-id="CanalSurA.TV" group-title="Estilos de vida" tvg-name="Canal Sur Andalucía" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200",Canal Sur Andalucía
 ##Origen: https://www.canalsur.es/tv_directo-1193.html
@@ -45,9 +45,9 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 ##Origen: https://canalonce.mx/en-vivo
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="12" tvg-tags="ofi" tvg-country="US" tvg-language="spa;eng" tvg-shift="" tvg-id="" group-title="Estilos de vida" tvg-name="CBN USA" tvg-logo="https://graph.facebook.com/cbnonline/picture?width=200&height=200",CBN
-##Origen: https://www1.cbn.com/tv/cbn-espanol
-https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1 tvg-chno="12" tvg-tags="TDT" tvg-country="ES" tvg-language="spa" tvg-shift="" tvg-id="24Horas.TV" group-title="Noticias" tvg-name="24h" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png",24h
+##Origen: https://www.rtve.es/play/videos/directo/24h/
+https://ztnr.rtve.es/ztnr/1694255.m3u8
 
 #EXTINF:-1 tvg-chno="13" tvg-tags="ofi" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Educación" tvg-name="" tvg-logo="https://graph.facebook.com/tv4cultura/picture?width=200&height=200",TV4 Cultura
 ##Origen: https://www.tvcuatro.com/enlinea/4-2/
@@ -57,9 +57,9 @@ https://5f2c1b0d880e5.streamlock.net/tv42/videotv42/playlist.m3u8
 ##Origen: http://www.canalcatorce.tv/?c=EnLinea
 https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
 
-#EXTINF:-1 tvg-chno="15" tvg-tags="TDT" tvg-country="ES" tvg-language="spa" tvg-shift="" tvg-id="24Horas.TV" group-title="Noticias" tvg-name="24h" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png",24h
-##Origen: https://www.rtve.es/play/videos/directo/24h/
-https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 tvg-chno="15" tvg-tags="nfi" tvg-country="CL" tvg-language="" tvg-shift="" tvg-id="" group-title="Música" tvg-name="Zapping Music" tvg-logo="https://graph.facebook.com/zappingchile/picture?width=200&height=200",Zapping Music
+##Origen: https://www.zapping.com/music
+https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-chno="16" tvg-tags="TDT" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="Canal 6 Multimedios" tvg-logo="https://graph.facebook.com/multimediostv/picture?width=200&height=200",Canal 6 Multimedios
 ##Origen: https://www.multimedios.com/video
@@ -69,21 +69,21 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 ##Origen: https://www.redbull.com/int-en/tv/tv
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 tvg-chno="18" tvg-tags="nfi" tvg-country="CL" tvg-language="" tvg-shift="" tvg-id="" group-title="Música" tvg-name="Zapping Music" tvg-logo="https://graph.facebook.com/zappingchile/picture?width=200&height=200",Zapping Music
-##Origen: https://www.zapping.com/music
-https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-chno="19" tvg-tags="tdt" tvg-country="US" tvg-language="eng" tvg-shift="" tvg-id="" group-title="Música" tvg-name="Ditty TV USA" tvg-logo="https://graph.facebook.com/DittyTV/picture?width=200&height=200",Ditty TV
-##Origen: https://dittytv.com/watch/
-https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
-
-#EXTINF:-1 tvg-chno="20" tvg-tags="tdt" tvg-country="CL" tvg-language="" tvg-shift="" tvg-id="" group-title="Música" tvg-name="Retro Plus TV Chile" tvg-logo="https://graph.facebook.com/retroplustv/picture?width=200&height=200",Retro Plus 1
+#EXTINF:-1 tvg-chno="18" tvg-tags="tdt" tvg-country="CL" tvg-language="" tvg-shift="" tvg-id="" group-title="Música" tvg-name="Retro Plus TV Chile" tvg-logo="https://graph.facebook.com/retroplustv/picture?width=200&height=200",Retro Plus 1
 ##Origen: https://retroplustv.com/canal1/
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="21" tvg-tags="ofi" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Educación" tvg-name="" tvg-logo="https://graph.facebook.com/TVUNAMoficial/picture?width=200&height=200",tvunam
+#EXTINF:-1 tvg-chno="19" tvg-tags="ofi" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Educación" tvg-name="" tvg-logo="https://graph.facebook.com/TVUNAMoficial/picture?width=200&height=200",tvunam
 ##Origen: https://tv.unam.mx/en-vivo/
 https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-chno="20" tvg-tags="ofi" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Educación" tvg-name="" tvg-logo="https://graph.facebook.com/JusticiaTvMx/picture?width=200&height=200",Justicia TV
+##Origen: https://justiciatv.mx/
+https://d2t9djfuxq08da.cloudfront.net/EVLiveSCJN/_definst_/mp4:YXWKLCDT/chunklist.m3u8
+
+#EXTINF:-1 tvg-chno="21" tvg-tags="ofi" tvg-country="CL" tvg-language="" tvg-shift="" tvg-id="" group-title="Música" tvg-name="" tvg-logo="https://graph.facebook.com/retroplustv/picture?width=200&height=200",Retro Plus 2
+##Origen: https://retroplustv.com/canal2/
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="22" tvg-tags="OFI" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Estilos de vida" tvg-name="" tvg-logo="https://graph.facebook.com/Canal22Mexico/picture?width=200&height=200",Canal 22-1
 ##Origen: https://canal22.org.mx/#streaming
@@ -93,26 +93,18 @@ https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8
 ##Origen: https://canal22.org.mx/streaming-senal222.html
 https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="24" tvg-tags="ofi" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Educación" tvg-name="" tvg-logo="https://graph.facebook.com/JusticiaTvMx/picture?width=200&height=200",Justicia TV
-##Origen: https://justiciatv.mx/
-https://d2t9djfuxq08da.cloudfront.net/EVLiveSCJN/_definst_/mp4:YXWKLCDT/chunklist.m3u8
-
-#EXTINF:-1 tvg-chno="25" tvg-tags="ofi" tvg-country="CL" tvg-language="" tvg-shift="" tvg-id="" group-title="Música" tvg-name="" tvg-logo="https://graph.facebook.com/retroplustv/picture?width=200&height=200",Retro Plus 2
-##Origen: https://retroplustv.com/canal2/
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="26" tvg-tags="OFI" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Educación" tvg-name="" tvg-logo="https://graph.facebook.com/TVMAS/picture?width=200&height=200",TVMÁS
-##Origen: http://www.tvmas.mx/
-https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w2116443559.m3u8
-
-#EXTINF:-1 tvg-chno="27" tvg-tags="ofi" tvg-country="CL" tvg-language="spa" tvg-shift="" tvg-id="AERadioTV.cl" group-title="Música" tvg-name="AE Radio TV" tvg-logo="https://graph.facebook.com/aeradio.cl/picture?width=200&height=200",AE Radio TV
+#EXTINF:-1 tvg-chno="24" tvg-tags="ofi" tvg-country="CL" tvg-language="spa" tvg-shift="" tvg-id="AERadioTV.cl" group-title="Música" tvg-name="AE Radio TV" tvg-logo="https://graph.facebook.com/aeradio.cl/picture?width=200&height=200",AE Radio TV
 ##Origen: https://aeradio.cl/
 https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="28" tvg-tags="tdt" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="" tvg-logo="https://graph.facebook.com/aztecasiete/picture?width=200&height=200",Azteca 7
+#EXTINF:-1 tvg-chno="25" tvg-tags="OFI" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Educación" tvg-name="" tvg-logo="https://graph.facebook.com/TVMAS/picture?width=200&height=200",TVMÁS
+##Origen: http://www.tvmas.mx/
+https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w2116443559.m3u8
+
+#EXTINF:-1 tvg-chno="26" tvg-tags="tdt" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="" tvg-logo="https://graph.facebook.com/aztecasiete/picture?width=200&height=200",Azteca 7
 ##Origen: https://www.tvazteca.com/azteca7/azteca-7-especiales/envivo
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
-#EXTINF:-1 tvg-chno="29" tvg-tags="ofi" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="" tvg-logo="https://graph.facebook.com/amastv/picture?width=200&height=200",a más
+#EXTINF:-1 tvg-chno="27" tvg-tags="ofi" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="" tvg-logo="https://graph.facebook.com/amastv/picture?width=200&height=200",a más
 ##Origen: https://www.tvazteca.com/amastv/especiales-a/envivo
 https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
