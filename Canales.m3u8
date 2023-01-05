@@ -113,5 +113,14 @@ https://dslvfq5ee0geu.cloudfront.net/hls/canal23_480.m3u8
 ##Origen: http://cepropie.gob.mx/
 https://stream-04.nyc.dailymotion.com/sec(LWxkRxSld-NF2-DYw1tVjxI3MTSmTNfc6JyYJkMKSKnm1HcxMiKiccfTb8qzeIKo)/dm/3/x7rtm6y/s/live-1.m3u8
 
-#EXTINF:-1 tvg-chno="28" tvg-tags="tdt" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="" tvg-name="" tvg-logo="",TV Migrante
+#EXTINF:-1 tvg-chno="29" tvg-tags="tdt" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="" tvg-name="" tvg-logo="",TV Migrante
+##Origen: 
 https://60ed5b6d0df78.streamlock.net:1936/prueba/prueba/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="30" tvg-tags="OFI" tvg-language="spa" tvg-country="MX" group-title="Estilo de Vida" tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/Capital21/picture?width=200&height=200",Capital 21
+##Origen: https://www.mxplay.tv/television/canal-21
+https://video.cdmx.gob.mx/livestream/stream.m3u8
+
+#EXTINF:-1 tvg-chno="31" tvg-tags="tdt" tvg-country="FR" tvg-language="spa;eng" tvg-shift="" tvg-id="France24.TV" group-title="Estilos de vida" tvg-name="France 24 Francia" tvg-logo="https://graph.facebook.com/FRANCE24/picture?width=200&height=200",France 24
+##Origen: https://www.mxplay.tv/television/france-24
+https://60ed5b6d0df78.streamlock.net:1936/video/video/playlist.m3u8
