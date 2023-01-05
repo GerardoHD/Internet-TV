@@ -113,8 +113,8 @@ https://dslvfq5ee0geu.cloudfront.net/hls/canal23_480.m3u8
 ##Origen: http://cepropie.gob.mx/
 https://stream-04.nyc.dailymotion.com/sec(LWxkRxSld-NF2-DYw1tVjxI3MTSmTNfc6JyYJkMKSKnm1HcxMiKiccfTb8qzeIKo)/dm/3/x7rtm6y/s/live-1.m3u8
 
-#EXTINF:-1 tvg-chno="29" tvg-tags="tdt" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="" tvg-name="" tvg-logo="",TV Migrante
-##Origen: 
+#EXTINF:-1 tvg-chno="29" tvg-tags="tdt" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="" tvg-name="" tvg-logo="https://www.spr.gob.mx/assets/img/logos/tv-migrante.svg",TV Migrante
+##Origen: https://mxplay.tv/television/tv-migrante
 https://60ed5b6d0df78.streamlock.net:1936/prueba/prueba/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="30" tvg-tags="OFI" tvg-language="spa" tvg-country="MX" group-title="Estilo de Vida" tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/Capital21/picture?width=200&height=200",Capital 21
