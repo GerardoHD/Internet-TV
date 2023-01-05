@@ -112,3 +112,6 @@ https://dslvfq5ee0geu.cloudfront.net/hls/canal23_480.m3u8
 #EXTINF:-1 tvg-chno="28" tvg-tags="tdt" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="" tvg-name="" tvg-logo="http://cepropie.gob.mx/work/models/CEPROPIE/images/Logo_cepro_new.png",CEPROPIE
 ##Origen: http://cepropie.gob.mx/
 https://stream-04.nyc.dailymotion.com/sec(LWxkRxSld-NF2-DYw1tVjxI3MTSmTNfc6JyYJkMKSKnm1HcxMiKiccfTb8qzeIKo)/dm/3/x7rtm6y/s/live-1.m3u8
+
+#EXTINF:-1 tvg-chno="28" tvg-tags="tdt" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="" tvg-name="" tvg-logo="",TV Migrante
+https://60ed5b6d0df78.streamlock.net:1936/prueba/prueba/playlist.m3u8
