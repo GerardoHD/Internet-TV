@@ -108,3 +108,7 @@ https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
 #EXTINF:-1 tvg-chno="27" tvg-tags="OFI" tvg-country="GT" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="" tvg-logo="https://graph.facebook.com/TN23NOTICIAS/picture?width=200&height=200",TN23
 ##Origen: https://www.tn23.tv/en-vivo/
 https://dslvfq5ee0geu.cloudfront.net/hls/canal23_480.m3u8
+
+#EXTINF:-1 tvg-chno="28" tvg-tags="tdt" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="" tvg-name="" tvg-logo="http://cepropie.gob.mx/work/models/CEPROPIE/images/Logo_cepro_new.png",CEPROPIE
+##Origen: http://cepropie.gob.mx/
+https://stream-04.nyc.dailymotion.com/sec(LWxkRxSld-NF2-DYw1tVjxI3MTSmTNfc6JyYJkMKSKnm1HcxMiKiccfTb8qzeIKo)/dm/3/x7rtm6y/s/live-1.m3u8
