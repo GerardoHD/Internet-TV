@@ -125,6 +125,6 @@ https://video.cdmx.gob.mx/livestream/stream.m3u8
 ##Origen: https://www.mxplay.tv/television/france-24
 https://60ed5b6d0df78.streamlock.net:1936/video/video/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-tags="nfi" tvg-country="AR" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Estilos de vida" tvg-name="" tvg-logo="https://graph.facebook.com/SantaFeCanal/picture?width=200&height=200",Santa Fe Canal
+#EXTINF:-1 tvg-chno="32" tvg-tags="nfi" tvg-country="AR" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Estilos de vida" tvg-name="" tvg-logo="https://graph.facebook.com/SantaFeCanal/picture?width=200&height=200",Santa Fe Canal
 ##Origen: https://www.santafecanal.com.ar/
 https://player-api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
