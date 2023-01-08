@@ -8,9 +8,9 @@ https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 ##Origen: https://www.rtve.es/play/videos/directo/24h/
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
-#EXTINF:-1 tvg-chno="3" tvg-tags="TDT" tvg-country="JP" tvg-language="eng;jpn" tvg-shift="" tvg-id="NHK.TV" group-title="Estilos de vida" tvg-name="NHK World Japan" tvg-logo="https://graph.facebook.com/nhkworld/picture?width=200&height=200",NHK World
-##Origen: https://www3.nhk.or.jp/nhkworld/en/live/
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1 tvg-chno="3" tvg-tags="tdt" tvg-country="RU" tvg-language="spa;eng;rus" tvg-shift="-7" tvg-id="RTESP.TV" group-title="Noticias" tvg-name="RT" tvg-logo="https://pbs.twimg.com/profile_images/1267497856778240001/npUcyqTx_400x400.jpg",RT Noticias
+##Origen: https://actualidad.rt.com/en_vivo2
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="4" tvg-tags="TDT" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="ADN40.TV" group-title="Noticias" tvg-name="ADN40 Mexico" tvg-logo="https://graph.facebook.com/ADN40mx/picture?width=200&height=200",adn40
 ##Origen: https://live.adn40.mx/
@@ -81,9 +81,9 @@ https://d2t9djfuxq08da.cloudfront.net/EVLiveSCJN/_definst_/mp4:YXWKLCDT/chunklis
 ##Origen: https://retroplustv.com/canal2/
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="21" tvg-tags="ofi" tvg-country="CL" tvg-language="spa" tvg-shift="" tvg-id="AERadioTV.cl" group-title="Música" tvg-name="AE Radio TV" tvg-logo="https://graph.facebook.com/aeradio.cl/picture?width=200&height=200",AE Radio TV
-##Origen: https://aeradio.cl/
-https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8
+#EXTINF:-1 tvg-chno="21" tvg-tags="OFI" tvg-language="spa" tvg-country="MX" group-title="Estilo de Vida" tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/Capital21/picture?width=200&height=200",Capital 21
+##Origen: https://www.mxplay.tv/television/canal-21
+https://video.cdmx.gob.mx/livestream/stream.m3u8
 
 #EXTINF:-1 tvg-chno="22" tvg-tags="OFI" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Estilos de vida" tvg-name="" tvg-logo="https://graph.facebook.com/Canal22Mexico/picture?width=200&height=200",Canal 22-1
 ##Origen: https://canal22.org.mx/#streaming
@@ -117,13 +117,9 @@ https://stream-02.nyc.dailymotion.com/sec(LWxkRxSld-NF2-DYw1tVj8TRPQtIThLpp6TL6X
 ##Origen: https://mxplay.tv/television/tv-migrante
 https://60ed5b6d0df78.streamlock.net:1936/prueba/prueba/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="30" tvg-tags="OFI" tvg-language="spa" tvg-country="MX" group-title="Estilo de Vida" tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/Capital21/picture?width=200&height=200",Capital 21
-##Origen: https://www.mxplay.tv/television/canal-21
-https://video.cdmx.gob.mx/livestream/stream.m3u8
+#EXTINF:-1 tvg-chno="30"
 
-#EXTINF:-1 tvg-chno="31" tvg-tags="tdt" tvg-country="RU" tvg-language="spa;eng;rus" tvg-shift="-7" tvg-id="RTESP.TV" group-title="Noticias" tvg-name="RT" tvg-logo="https://graph.facebook.com/ActualidadRT/picture?width=200&height=200",RT Noticias
-##Origen: https://actualidad.rt.com/en_vivo2
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-chno="31"
 
 #EXTINF:-1 tvg-chno="32" tvg-tags="nfi" tvg-country="AR" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Estilos de vida" tvg-name="" tvg-logo="https://graph.facebook.com/SantaFeCanal/picture?width=200&height=200",Santa Fe Canal
 ##Origen: https://www.santafecanal.com.ar/
