@@ -25,7 +25,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/strea
 ##Origen: https://www.multimedios.com/video
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
-#EXTINF:-1 tvg-chno="7" tvg-tags="tdt" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Noticias" tvg-name="FORO TV" tvg-logo="https://graph.facebook.com/FOROtv/picture?width=200&height=200",FORO tv
+#EXTINF:-1 tvg-chno="7" tvg-tags="tdt" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Noticias" tvg-name="FORO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Foro_%28Televisa%29.png",FORO tv
 ##Origen: https://noticieros.televisa.com/noticias-vivo-forotv/
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
 
@@ -111,9 +111,9 @@ https://dslvfq5ee0geu.cloudfront.net/hls/canal23_480.m3u8
 
 #EXTINF:-1 tvg-chno="28" tvg-tags="tdt" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="" tvg-name="" tvg-logo="http://cepropie.gob.mx/work/models/CEPROPIE/images/Logo_cepro_new.png",CEPROPIE
 ##Origen: http://cepropie.gob.mx/
-https://stream-04.nyc.dailymotion.com/sec(LWxkRxSld-NF2-DYw1tVjxI3MTSmTNfc6JyYJkMKSKnm1HcxMiKiccfTb8qzeIKo)/dm/3/x7rtm6y/s/live-1.m3u8
+https://stream-02.nyc.dailymotion.com/sec(LWxkRxSld-NF2-DYw1tVj8TRPQtIThLpp6TL6XnA3r9rivw3KJavcsaR85BkE-Mz)/dm/3/x7rtm6y/s/live-1.m3u8
 
-#EXTINF:-1 tvg-chno="29" tvg-tags="tdt" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="" tvg-name="" tvg-logo="https://www.spr.gob.mx/assets/img/logos/tv-migrante.svg",TV Migrante
+#EXTINF:-1 tvg-chno="29" tvg-tags="tdt" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="" tvg-name="" tvg-logo="https://graph.facebook.com/TvMigrante/picture?width=200&height=200",TVMigrante
 ##Origen: https://mxplay.tv/television/tv-migrante
 https://60ed5b6d0df78.streamlock.net:1936/prueba/prueba/playlist.m3u8
 
