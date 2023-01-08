@@ -97,26 +97,30 @@ https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8
 ##Origen: http://www.tvmas.mx/
 https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w2116443559.m3u8
 
-#EXTINF:-1 tvg-chno="25" tvg-tags="tdt" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="" tvg-logo="https://graph.facebook.com/aztecasiete/picture?width=200&height=200",Azteca 7
-##Origen: https://www.tvazteca.com/azteca7/azteca-7-especiales/envivo
-https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-
-#EXTINF:-1 tvg-chno="26" tvg-tags="ofi" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="" tvg-logo="https://graph.facebook.com/amastv/picture?width=200&height=200",a más
-##Origen: https://www.tvazteca.com/amastv/especiales-a/envivo
-https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
-
-#EXTINF:-1 tvg-chno="27" tvg-tags="OFI" tvg-country="GT" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="" tvg-logo="https://graph.facebook.com/TN23NOTICIAS/picture?width=200&height=200",TN23
-##Origen: https://www.tn23.tv/en-vivo/
-https://dslvfq5ee0geu.cloudfront.net/hls/canal23_480.m3u8
-
-#EXTINF:-1 tvg-chno="28"
-
-#EXTINF:-1 tvg-chno="29" tvg-tags="tdt" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="" tvg-name="" tvg-logo="https://graph.facebook.com/TvMigrante/picture?width=200&height=200",TVMigrante
+#EXTINF:-1 tvg-chno="25" tvg-tags="tdt" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="" tvg-name="" tvg-logo="https://graph.facebook.com/TvMigrante/picture?width=200&height=200",TVMigrante
 ##Origen: https://mxplay.tv/television/tv-migrante
 https://60ed5b6d0df78.streamlock.net:1936/prueba/prueba/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="30"
+#EXTINF:-1 tvg-chno="26" tvg-tags="tdt" tvg-country="JP" tvg-language="eng;jpn" tvg-shift="" tvg-id="NHK.TV" group-title="Estilos de vida" tvg-name="NHK World Japan" tvg-logo="https://graph.facebook.com/nhkworld/picture?width=200&height=200",NHK World
+##Origen: https://www3.nhk.or.jp/nhkworld/en/live/
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
-#EXTINF:-1 tvg-chno="31"
+#EXTINF:-1 tvg-chno="27"  tvg-tags="tdt" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="" tvg-logo="https://graph.facebook.com/aztecasiete/picture?width=200&height=200",Azteca 7
+##Origen: https://www.tvazteca.com/azteca7/azteca-7-especiales/envivo
+https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
-#EXTINF:-1 tvg-chno="32"
+#EXTINF:-1 tvg-chno="28" tvg-tags="ofi" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="" tvg-logo="https://graph.facebook.com/amastv/picture?width=200&height=200",a más
+##Origen: https://www.tvazteca.com/amastv/especiales-a/envivo
+https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
+
+#EXTINF:-1 tvg-chno="29" tvg-tags="OFI" tvg-country="GT" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Entretenimiento" tvg-name="" tvg-logo="https://graph.facebook.com/TN23NOTICIAS/picture?width=200&height=200",TN23
+##Origen: https://www.tn23.tv/en-vivo/
+https://dslvfq5ee0geu.cloudfront.net/hls/canal23_480.m3u8
+
+#EXTINF:-1 tvg-chno="30" tvg-tags="ofi" tvg-country="CL" tvg-language="spa" tvg-shift="" tvg-id="AERadioTV.cl" group-title="Música" tvg-name="AE Radio TV" tvg-logo="https://graph.facebook.com/aeradio.cl/picture?width=200&height=200",AE Radio TV
+##Origen: https://aeradio.cl/
+https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="31" tvg-tags="nfi" tvg-country="CL" tvg-language="" tvg-shift="" tvg-id="" group-title="Música" tvg-name="Zapping Music" tvg-logo="https://graph.facebook.com/zappingchile/picture?width=200&height=200",Zapping Music
+##Origen: https://www.zapping.com/music
+https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
