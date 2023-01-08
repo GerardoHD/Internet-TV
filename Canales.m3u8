@@ -57,9 +57,9 @@ https://5f2c1b0d880e5.streamlock.net/tv42/videotv42/playlist.m3u8
 ##Origen: http://www.canalcatorce.tv/?c=EnLinea
 https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/chunklist_w1037230237.m3u8
 
-#EXTINF:-1 tvg-chno="15" tvg-tags="nfi" tvg-country="CL" tvg-language="" tvg-shift="" tvg-id="" group-title="Música" tvg-name="Zapping Music" tvg-logo="https://graph.facebook.com/zappingchile/picture?width=200&height=200",Zapping Music
-##Origen: https://www.zapping.com/music
-https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-chno="15" tvg-tags="nfi" tvg-country="AR" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Estilos de vida" tvg-name="" tvg-logo="https://graph.facebook.com/SantaFeCanal/picture?width=200&height=200",Santa Fe Canal
+##Origen: https://www.santafecanal.com.ar/
+https://player-api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 
 #EXTINF:-1 tvg-chno="16" tvg-tags="tdt" tvg-country="US" tvg-language="eng" tvg-shift="" tvg-id="" group-title="Deportes" tvg-name="Redbull TV" tvg-logo="https://graph.facebook.com/RedBull/picture?width=200&height=200",Redbull TV
 ##Origen: https://www.redbull.com/int-en/tv/tv
@@ -109,9 +109,7 @@ https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
 ##Origen: https://www.tn23.tv/en-vivo/
 https://dslvfq5ee0geu.cloudfront.net/hls/canal23_480.m3u8
 
-#EXTINF:-1 tvg-chno="28" tvg-tags="tdt" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="" tvg-name="" tvg-logo="http://cepropie.gob.mx/work/models/CEPROPIE/images/Logo_cepro_new.png",CEPROPIE
-##Origen: http://cepropie.gob.mx/
-https://stream-02.nyc.dailymotion.com/sec(LWxkRxSld-NF2-DYw1tVj8TRPQtIThLpp6TL6XnA3r9rivw3KJavcsaR85BkE-Mz)/dm/3/x7rtm6y/s/live-1.m3u8
+#EXTINF:-1 tvg-chno="28"
 
 #EXTINF:-1 tvg-chno="29" tvg-tags="tdt" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="" tvg-name="" tvg-logo="https://graph.facebook.com/TvMigrante/picture?width=200&height=200",TVMigrante
 ##Origen: https://mxplay.tv/television/tv-migrante
@@ -121,6 +119,4 @@ https://60ed5b6d0df78.streamlock.net:1936/prueba/prueba/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="31"
 
-#EXTINF:-1 tvg-chno="32" tvg-tags="nfi" tvg-country="AR" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Estilos de vida" tvg-name="" tvg-logo="https://graph.facebook.com/SantaFeCanal/picture?width=200&height=200",Santa Fe Canal
-##Origen: https://www.santafecanal.com.ar/
-https://player-api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
+#EXTINF:-1 tvg-chno="32"
