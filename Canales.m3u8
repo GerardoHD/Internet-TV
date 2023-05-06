@@ -30,12 +30,14 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
 
 #EXTINF:-1 tvg-chno="8" tvg-tags="tdt" tvg-country="ES" tvg-language="spa" tvg-shift="" tvg-id="Extremadura.TV" group-title="Estilos de vida" tvg-name="Canal Extremadura" tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200",Canal Extremadura
-##Origen: https://www.canalextremadura.es/directo/television
-https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
+##Origen: https://www.canalextremadura.es/directo/television 
+#https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
+https://cdnlivevlc.codev8.net/canalextremaduralive/smil:channel1DVR.smil/chunklist_b1500000_DVR.m3u8
 
 #EXTINF:-1 tvg-chno="9" tvg-tags="TDT" tvg-country="ES" tvg-language="spa" tvg-shift="" tvg-id="CanalSurA.TV" group-title="Estilos de vida" tvg-name="Canal Sur Andalucía" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200",Canal Sur Andalucía
-##Origen: https://www.canalsur.es/tv_directo-1193.html
-https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
+##Origen: https://www.canalsur.es/tv_directo-1193.html https://www.canalsurmas.es/videos/category/5247-directos
+#https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
+https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="10" tvg-tags="tdt" tvg-country="CN" tvg-language="spa;chi" tvg-shift="" tvg-id="CGTN.TV" group-title="Estilos de vida" tvg-name="CGTN" tvg-logo="https://graph.facebook.com/cgtnenespanol/picture?width=200&height=200",CGTN
 ##Origen: https://espanol.cgtn.com/
