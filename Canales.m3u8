@@ -123,3 +123,7 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 #EXTINF:-1 tvg-chno="30" tvg-tags="ofi" tvg-country="CL" tvg-language="" tvg-shift="" tvg-id="" group-title="Música" tvg-name="" tvg-logo="https://graph.facebook.com/retroplustv/picture?width=200&height=200",Retro Plus 2
 ##Origen: https://retroplustv.com/canal2/
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="31" tvg-tags="ofi" tvg-country="CL" tvg-language="" tvg-shift="" tvg-id="" group-title="Música" tvg-name="" tvg-logo="https://graph.facebook.com/ccintcl/picture?width=200&height=200",CCINT TB
+##Origen: https://ccint.tv/
+https://unlimited1-us.dps.live/nctv/nctv.smil/nctv/livestream1/chunks.m3u8
