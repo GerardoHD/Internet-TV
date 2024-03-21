@@ -33,7 +33,8 @@ https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
 #EXTINF:-1 tvg-chno="8" tvg-tags="nfi" tvg-country="AR" tvg-language="spa" tvg-shift="" tvg-id="" group-title="Estilos de vida" tvg-name="" tvg-logo="https://graph.facebook.com/RTSMedios/picture?width=200&height=200",RTSMedios
 ##Origen: https://www.santafecanal.com.ar/envivo | https://livestream.com/accounts/22636012/events/8242619
 #https://player-api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
-Uhttps://playback2.akamaized.net/streams/22636012_8242619_lsia9dt04mly2mjmxls_1/exp=1711129112~acl=%2f*~data=hdntl~hmac=498eda56c2515d0552c8913e6d8902b833879663cbf089cc6bc8c9393070bd73/media/22636012_8242619_lsia9dt04mly2mjmxls_1@4756000p.m3u8
+https://playback2.akamaized.net/streams/22636012_8242619_lsia9dt04mly2mjmxls_1/exp=1711129112~acl=%2f*~data=hdntl~hmac=498eda56c2515d0552c8913e6d8902b833879663cbf089cc6bc8c9393070bd73/media/22636012_8242619_lsia9dt04mly2mjmxls_1@4756000p.m3u8
+https://playback2.akamaized.net/streams/22636012_8242619_lsia9dt04mly2mjmxls_1/master.m3u8?dw=14400&hdnts=exp=1711044957~acl=/streams/22636012_8242619_lsia9dt04mly2mjmxls_1/master.m3u8*~hmac=326408d84337c46ab1bcf5eddb95347879f92f6b3c71f1f7aea38aef883b1a69
 
 #EXTINF:-1 tvg-chno="9" tvg-tags="TDT" tvg-country="ES" tvg-language="spa" tvg-shift="" tvg-id="CanalSurA.TV" group-title="Estilos de vida" tvg-name="Canal Sur Andalucía" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200",Canal Sur Andalucía
 ##Origen: https://www.canalsur.es/tv_directo-1193.html https://www.canalsurmas.es/videos/category/5247-directos
@@ -66,6 +67,8 @@ https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
 #https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/playlist.m3u8?DVR
 #https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/chunklist_w652392785_DVR.m3u8
 https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/chunklist_w610755579_DVR.m3u8
+https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDI0IDY6MTQ6MDggUE0maGFzaF92YWx1ZT1yWVJBR3lpakZZYmlrUklUcmpjL29BPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==&DVR
+https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="16" tvg-tags="tdt" tvg-country="US" tvg-language="eng" tvg-shift="" tvg-id="" group-title="Deportes" tvg-name="Redbull TV" tvg-logo="https://graph.facebook.com/RedBull/picture?width=200&height=200",Redbull TV
 ##Origen: https://www.redbull.com/int-en/tv/tv
