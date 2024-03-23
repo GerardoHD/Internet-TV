@@ -85,7 +85,7 @@ https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 ##Origen: https://www.tvazteca.com/amastv/especiales-a/envivo
 https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
 
-#EXTINF:-1 tvg-chno="21" tvg-tags="OFI" tvg-language="spa" tvg-country="MX" group-title="Estilo de Vida" tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/Capital21/picture?width=200&height=200",Capital 21
+#EXTINF:-1 tvg-chno="21" tvg-tags="OFI" tvg-language="spa" tvg-country="MX" group-title="Estilos de Vida" tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/Capital21/picture?width=200&height=200",Capital 21
 ##Origen: https://www.mxplay.tv/television/canal-21
 #https://video.cdmx.gob.mx/livestream/stream.m3u8
 https://cdn.mycloudstream.io/hls/live/broadcast/tkyvj1qv/index.m3u8
@@ -94,7 +94,7 @@ https://cdn.mycloudstream.io/hls/live/broadcast/tkyvj1qv/index.m3u8
 ##Origen: http://www.tvmas.mx/
 https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w2116443559.m3u8
 
-#EXTINF:-1 tvg-chno="23" tvg-tags="tdt" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="" group-title="" tvg-name="" tvg-logo="https://graph.facebook.com/TvMigrante/picture?width=200&height=200",TVMigrante
+#EXTINF:-1 tvg-chno="23" tvg-tags="tdt" tvg-country="MX" tvg-language="spa" tvg-shift="" tvg-id="Estilos de Vida" group-title="" tvg-name="" tvg-logo="https://graph.facebook.com/TvMigrante/picture?width=200&height=200",TVMigrante
 ##Origen: https://mxplay.tv/television/tv-migrante
 #https://60ed5b6d0df78.streamlock.net:1936/prueba/prueba/playlist.m3u8
 https://cdn.mycloudstream.io/hls/live/broadcast/jgstrcbg/index.m3u8
